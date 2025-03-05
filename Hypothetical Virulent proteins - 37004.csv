@@ -1,0 +1,241 @@
+S.No.,Protein Name,Prediction results,Predicted Scores
+4,>WP_003399771.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1197
+5,>WP_003399775.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0669
+30,>WP_003400081.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.072
+34,>WP_003400109.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1092
+50,>WP_003400297.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0035
+108,>WP_003400812.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1306
+113,>WP_003400850.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0666
+117,>WP_003400865.1 MULTISPECIES: hypothetical protein [Bacteria],Virulent,1.0268
+135,>WP_003400989.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1167
+142,>WP_003401037.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0292
+290,>WP_003401960.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.1056
+307,>WP_003402171.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1569
+337,>WP_003402327.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0578
+367,>WP_003402688.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0094
+384,>WP_003402851.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0832
+478,>WP_003403393.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0407
+480,>WP_003403408.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0119
+502,>WP_003403569.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1696
+503,>WP_003403573.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1464
+538,>WP_003403828.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1537
+568,>WP_003403998.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0963
+595,>WP_003404355.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1067
+600,>WP_003404379.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0404
+638,>WP_003404687.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.041
+672,>WP_003404831.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.009
+674,>WP_003404835.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1568
+697,>WP_003405160.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1553
+701,>WP_003405180.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0376
+717,>WP_003405313.1 MULTISPECIES: hypothetical protein [Terrabacteria group],Virulent,1.0357
+728,>WP_003405378.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1494
+790,>WP_003405966.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0085
+792,>WP_003405986.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0061
+793,>WP_003405990.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0669
+799,>WP_003406066.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0111
+826,>WP_003406236.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1295
+924,>WP_003406967.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0428
+980,>WP_003407426.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.002
+1009,">WP_003407581.1 MULTISPECIES: hypothetical protein, partial [Mycobacterium]",Virulent,1.0072
+1018,>WP_003407628.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.011
+1090,>WP_003408096.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0316
+1126,>WP_003408381.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0974
+1157,>WP_003408538.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.1194
+1227,>WP_003409496.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0939
+1232,>WP_003409515.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0309
+1262,>WP_003409877.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0628
+1280,>WP_003409997.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.069
+1307,>WP_003410131.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0126
+1308,>WP_003410133.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0408
+1326,>WP_003410590.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1701
+1344,>WP_003410695.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0605
+1356,>WP_003410816.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0789
+1376,>WP_003411107.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0079
+1383,>WP_003411130.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1323
+1413,>WP_003411376.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.006
+1441,>WP_003411501.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.1472
+1468,>WP_003411668.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1654
+1515,>WP_003412042.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0463
+1524,>WP_003412226.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1653
+1546,>WP_003412337.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.039
+1560,>WP_003412401.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0187
+1566,>WP_003412520.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0628
+1593,>WP_003412695.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0208
+1608,>WP_003412795.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0241
+1634,>WP_003413029.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1315
+1679,>WP_003413487.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.002
+1759,>WP_003414097.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1171
+1777,>WP_003414157.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0015
+1781,>WP_003414184.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0551
+1802,>WP_003414516.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0957
+1878,>WP_003414994.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1704
+1978,>WP_003416124.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0052
+1983,>WP_003416355.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0767
+2019,>WP_003416790.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0957
+2031,>WP_003416868.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0182
+2041,>WP_003416889.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0616
+2045,>WP_003416902.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0135
+2052,>WP_003416932.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0277
+2128,>WP_003417741.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0732
+2179,>WP_003418266.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0554
+2214,>WP_003418954.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0344
+2234,>WP_003419215.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0159
+2261,>WP_003419367.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1266
+2264,>WP_003419389.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0204
+2297,>WP_003419627.1 MULTISPECIES: hypothetical protein [Bacteria],Virulent,1.0797
+2335,>WP_003419816.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1175
+2391,>WP_003420812.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0787
+2392,>WP_003420815.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1602
+2460,>WP_003898549.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1533
+2487,>WP_003898600.1 hypothetical protein [Mycobacterium tuberculosis],Virulent,1.0048
+2490,>WP_003898607.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.119
+2510,>WP_003898662.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0057
+2522,>WP_003898716.1 hypothetical protein [Mycobacterium tuberculosis],Virulent,1.1495
+2523,>WP_003898724.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0239
+2570,>WP_003898823.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0939
+2576,>WP_003898835.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0126
+2595,>WP_003898878.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0247
+2695,>WP_003899129.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0456
+2744,>WP_003899264.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0171
+2762,>WP_003899302.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0031
+2778,>WP_003899346.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1377
+2800,>WP_003899405.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0398
+2812,>WP_003899421.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0016
+2813,>WP_003899422.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.046
+2814,>WP_003899423.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0029
+2832,>WP_003899467.1 MULTISPECIES: hypothetical protein [Terrabacteria group],Virulent,1.0155
+2869,>WP_003899558.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.138
+2881,>WP_003899593.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0637
+2969,>WP_003899796.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0512
+3020,>WP_003899911.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0601
+3063,>WP_003900015.1 MULTISPECIES: hypothetical protein [Terrabacteria group],Virulent,1.0011
+3119,>WP_003900169.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0043
+3140,>WP_003900254.1 hypothetical protein [Mycobacterium tuberculosis],Virulent,1.0886
+3172,>WP_003900353.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0017
+3199,>WP_003900450.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.009
+3215,>WP_003900493.1 hypothetical protein [Mycobacterium tuberculosis],Virulent,1.0027
+3218,>WP_003900513.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0724
+3235,>WP_003900567.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0777
+3248,>WP_003900620.1 hypothetical protein [Mycobacterium tuberculosis],Virulent,1.0051
+3263,>WP_003900673.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.083
+3278,>WP_003900715.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0231
+3280,>WP_003900720.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0585
+3299,>WP_003900767.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.1197
+3301,>WP_003900777.1 hypothetical protein [Mycobacterium tuberculosis],Virulent,1.0507
+3338,>WP_003900948.1 MULTISPECIES: hypothetical protein [Bacteria],Virulent,1.0014
+3352,>WP_003901037.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0308
+3360,>WP_003901073.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0002
+3361,>WP_003901093.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0675
+3365,>WP_003901145.1 MULTISPECIES: hypothetical protein [Bacteria],Virulent,1.0804
+3375,>WP_003901232.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1627
+3381,>WP_003901297.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0122
+3393,>WP_003901458.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0596
+3397,>WP_003901502.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0685
+3433,>WP_003901948.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0104
+3439,>WP_003902152.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0759
+3442,>WP_003902166.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0382
+3447,>WP_003902257.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.033
+3448,>WP_003902275.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1015
+3452,>WP_003902340.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0122
+3453,>WP_003902343.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1503
+3454,>WP_003902396.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0192
+3463,>WP_003902532.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1103
+3465,>WP_003902567.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0455
+3476,>WP_003903281.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0079
+3488,>WP_003904128.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1689
+3490,>WP_003904310.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0818
+3494,>WP_003904573.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0329
+3498,>WP_003904696.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0418
+3505,>WP_003904875.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0348
+3507,>WP_003904994.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0925
+3508,>WP_003905247.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0565
+3512,>WP_003905612.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0712
+3513,>WP_003905774.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0562
+3515,>WP_012054189.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.102
+3519,>WP_003906399.1 MULTISPECIES: hypothetical protein [Bacteria],Virulent,1.038
+3521,>WP_003906426.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.004
+3526,>WP_003906530.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0984
+3531,>WP_003906643.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1033
+3536,>WP_003906694.1 MULTISPECIES: hypothetical protein [Bacteria],Virulent,1.1309
+3540,>WP_003906737.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1629
+3554,>WP_003907005.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1484
+3556,>WP_003907070.1 MULTISPECIES: hypothetical protein [Bacteria],Virulent,1.1235
+3558,>WP_003907121.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1565
+3564,>WP_003907257.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0891
+3565,>WP_003907264.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0674
+3566,>WP_003907382.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0033
+3568,>WP_003907476.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0969
+3570,>WP_003907494.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0338
+3571,>WP_003907536.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0233
+3572,>WP_003907542.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0306
+3574,>WP_003907563.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0784
+3578,>WP_003907907.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0269
+3579,>WP_003907915.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0209
+3580,>WP_003907950.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0494
+3581,>WP_003907954.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1609
+3583,>WP_003907979.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1198
+3584,>WP_003907984.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0108
+3585,>WP_003907993.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0999
+3587,>WP_003908113.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1082
+3588,>WP_003908149.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0308
+3589,>WP_003908163.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1703
+3590,>WP_003908177.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0859
+3591,>WP_003908178.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.093
+3593,>WP_003908247.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0214
+3594,>WP_003908265.1 MULTISPECIES: hypothetical protein [Bacteria],Virulent,1.0876
+3595,>WP_003908266.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0235
+3597,>WP_003908359.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.008
+3600,>WP_003908682.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1662
+3601,>WP_003908693.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1035
+3607,>WP_003909645.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1717
+3608,>WP_003910253.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0802
+3613,>WP_003911072.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0763
+3631,>WP_003912385.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0258
+3666,>WP_003913533.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0759
+3690,>WP_003918213.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0022
+3691,>WP_003918398.1 hypothetical protein [Mycobacterium tuberculosis],Virulent,1.0283
+3692,>WP_003918431.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0609
+3694,>WP_003918436.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0245
+3695,>WP_003918491.1 MULTISPECIES: hypothetical protein [Bacteria],Virulent,1.0742
+3696,>WP_009935044.1 MULTISPECIES: hypothetical protein [Bacteria],Virulent,1.0206
+3700,>WP_009935859.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1268
+3701,>WP_009936228.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.138
+3702,>WP_009936328.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1577
+3707,>WP_009936525.1 MULTISPECIES: hypothetical protein [Bacteria],Virulent,1.0904
+3708,>WP_009936573.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0386
+3709,>WP_009936690.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1302
+3715,>WP_009938368.1 MULTISPECIES: hypothetical protein [Bacteria],Virulent,1.0073
+3718,>WP_009938644.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0115
+3720,>WP_009938650.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0012
+3727,>WP_010886135.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0132
+3734,>WP_012054185.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.122
+3735,>WP_012054189.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1054
+3740,>WP_014848095.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0668
+3743,>WP_015288653.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0037
+3744,>WP_015290210.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0624
+3745,>WP_015292562.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.0643
+3746,>WP_015456508.1 hypothetical protein [Mycobacterium tuberculosis],Virulent,1.0666
+3749,>WP_016720969.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1279
+3750,>WP_019250217.1 hypothetical protein [Mycobacterium tuberculosis],Virulent,1.1562
+3752,>WP_021083199.1 hypothetical protein [Mycobacterium tuberculosis],Virulent,1.0776
+3797,>WP_031663405.1 hypothetical protein [Mycobacterium tuberculosis],Virulent,1.0114
+3815,>WP_034167477.1 hypothetical protein [Mycobacterium tuberculosis],Virulent,1.1214
+3871,>WP_060859220.1 hypothetical protein [Mycobacterium tuberculosis],Virulent,1.0636
+3880,>WP_071854207.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0112
+3887,>WP_071854225.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.029
+3897,>WP_072140300.1 hypothetical protein [Mycobacterium tuberculosis],Virulent,1.0582
+3900,>WP_072527879.1 hypothetical protein [Mycobacterium tuberculosis],Virulent,1.041
+3902,>WP_072588628.1 hypothetical protein [Mycobacterium tuberculosis],Virulent,1.0591
+3904,>WP_072588650.1 hypothetical protein [Mycobacterium tuberculosis],Virulent,1.0134
+3917,>WP_085334927.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0137
+3922,>WP_085972558.1 MULTISPECIES: hypothetical protein [Mycobacterium],Virulent,1.1452
+3926,>WP_099171381.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0369
+3928,>WP_099171521.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0043
+3930,>WP_099171721.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0789
+3934,>WP_127519100.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0886
+3935,>WP_128414905.1 MULTISPECIES: hypothetical protein [Mycobacterium tuberculosis complex],Virulent,1.0791
+3936,>WP_129419822.1 hypothetical protein [Mycobacterium tuberculosis],Virulent,1.0006
+3939,>WP_141226815.1 hypothetical protein [Mycobacterium tuberculosis],Virulent,1.0012
+3945,>WP_141226821.1 hypothetical protein [Mycobacterium tuberculosis],Virulent,1.0418
+3946,>WP_141226822.1 hypothetical protein [Mycobacterium tuberculosis],Virulent,1.0089
+3955,>WP_148639824.1 hypothetical protein [Mycobacterium tuberculosis],Virulent,1.0825

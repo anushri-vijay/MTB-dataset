@@ -1,0 +1,1109 @@
+ ,Accession No.,Known Function,Class,Category,Physiochemical characterisation,,,,,,,,,,,,,,                                                                                                            Subcellular Localisation,,,,,,,,,,,,,,,,,,,,                                      Conserved Domain  and Function Assignment,,,,,,,,,,,,,,,,,,,,,,,,,Protein-Protein Interaction,,,,Allegenicity Assessment,,,,,,,,Antigenic Proteins,,,Functional characterisation,,,Homology Search,,,,Enzyme function,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DEEPre(http://www.cbrc.kaust.edu.sa/DEEPre/),,,,,
+,,,,,Amino acid number,Theorectical Isoelectric point(pI),Aliphatic Index(AI),Extinction coefficient,GRAVY(grand average of Hydropathy,Category,Instability Index,Molecular weight(MW),Total Number of positive  charged residues (Arg + Lys),Number of negatively charged residues (Asp + Glu),Score,Category,,,LocTree,Gpos-mPLoc,Gneg-mPLoc,PSORTb version 3.0.3,PSLpred,,,,SOSUIsignal (hamhttps://harrier.nagaa-i-bio.ac.jp/sosui/sosuisignal/sosuisignal_submit.html),,HMMTOP,Average of hydrophobicity,CCTOP,,,,,,HMMpTM (http://aias.biol.uoa.gr/HMMpTM/results.php),,CDD-BLAST/CDART,Accession,Score/ E-value,SMART,Score,INTERPROSCAN 66.0,Score,Molecular Function,GO Terms ,Frequency ,Biological Process,GO Terms,Frequency,Cellular Component,GO Terms,Frequency,SUPERFAMILY 1.75,E-value,CATH 4.2,Score,MOTIF ,Score,Scan Prosite,Score,Consensus Score,String 11.5,characteristics,Score,,AllerTOP v. 2.0,Unit Prot KB Acession No.,AllerCatPro ,,,,Score,,Vxijen v2.0,Score,,VICMpred(Predicted Functional class),Result/Score,,BLASTp (criteria :Identity <90%),Accession No.,Score,,Sub Sub-class,sub-class,Class,ECPred(https://ecpred.kansil.org/),Enzyme prediction (EzyPred),Consensus score(Enzyme)
+,,,,,,,,,,,,,,,,,,,,,,,,Score,Category,,Category,Category,Transmembrane Helices,,,PreDiSi,DeepSig ,SignalP-6.0,Consensus (Signal Peptide),Consensus(secretion),"Topology(Glycosylation prediction, Phosphorylation Prediction)",,Prediction ,,,Prediction ,,Prediction,,,,,,,,,,,,,,,,,,,,,,,,,, Protein allergen, Species,Functionality (SUPFAM),UniProt/NCBI,,,,,,,,,,,,,,,,,,
+1,>WP_003399735.1 ,superoxide dismutase,Enzyme ,,207,5.96,85.94,54430,-0.206,Hydrophilic,18.66,23033.93,16,22,1,Stable,,,secreted,Extracell,"Cell inner membrane. Cytoplasm.",Extracellular,"Cytoplasmic Protein
+",1,Cytoplasm,,no signal peptide,Soluble Protein,0,-0.205797,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Glycosylation prediction,,"Superoxide dismutase [Inorganic ion transport and metabolism];","COG0605	
+",2.25E-96,N/A,N/A,"
+Manganese/iron superoxide dismutase",IPR001189,"superoxide dismutase activity ,
+metal ion binding ","GO:0004784,GO:0046872",1,superoxide metabolic process ,GO:0006801,1,No result,No,0,"	Fe,Mn superoxide dismutase (SOD), C-terminal domain,	Fe,Mn superoxide dismutase (SOD), C-terminal domain,	Fe,Mn superoxide dismutase (SOD), N-terminal domain	,	Fe,Mn superoxide dismutase (SOD), N-terminal domain	","1.17e-63,0.0000312,4.18e-47
+,0.00019
+","Superoxide dismutase [Mn], mitochondrial (3.55.40.20/FF/3)	",1.20E-33," Iron/manganese superoxide dismutases, C-terminal domain",4.40E-33, Manganese and iron superoxide dismutases signature ,N/A,,sodC sodC,"Experiments
+Databases
+Textmining",0.993,PROBABLE NON-ALLERGEN,PROBABLE NON-ALLERGEN(O94812),Phl p Fe/Mn-SOD,Phleum pratense,"Fe,Mn superoxide dismutase (SOD), N-terminal domain (SSF46609); Fe,Mn superoxide dismutase (SOD), C-terminal domain (SSF54719)",K6ZYL0,1/1 (100.0%),,,Probable ANTIGEN,0.6258,,cellular Process	,2.3766022,,superoxide dismutase,"CKM64871.1",3.00E-149,,"Acting on superoxide as acceptor
+",Acting on superoxide as acceptor	,Oxidoreductases,1.15.1.1	1.0,"Enzyme protein
+	1.-.-.- Oxidoreductases
+	1.15.-.- Acting on superoxide as acceptor
+ ",ENZYME
+2,>WP_003399759.1, type VII secretion system ESX-1 transcriptional regulator EspR,Regulatory Protein,Regulatory Protein,132,8.82,76.36,12950,-0.427,Hydrophilic,37.92,14708.67,18,16,1,Stable,,,cytoplasm,`Extracell,Cell inner membrane. ,Cytoplasmic,"Cytoplasmic Protein",1,Cytoplasm,,no signal peptide,Soluble Protein,0,-0.426515,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction ,,"Fimbrial protein;
+","cl01416	
+",3.02E-03,N/A,N/A,"None predicted
+
+",N/A,DNA binding ,GO:0003677,1,N/A,N/A,0,No result,No,0,"lambda repressor-like DNA-binding domains	,SinR domain-like	","0.000414
+,0.054",Secretion protein EspR (1.10.260.40/FF/28)	,3.30E-59,Helix-turn-helix,0.00047,NO HIT,0,,espA,Textmining,0.865,,PROBABLE NON-ALLERGEN,A4KAG7,No Result,No Result,No Result,No Result,0,, Probable ANTIGEN ,0.5119,,cellular Process	,0.91235205,,	hypothetical protein CCDC5079_3579,"AEJ48768.1
+",5.00E-93,,"Hydro-lyases
+",Carbon-Oxygen Lyases	,Lyases	,3.1.-.-	0.69,NOT ENZYME ,NOT ENZYME 
+3,>WP_003399779.1 , histone-like protein Hns,Gene Regulation(Regulatory protein),Regulatory Protein,134,10.59,79.03,N/A,-0.535,Hydrophilic,67.93,13823.06,24,10,0,Unstable,,,periplasm,Extracell,Cell inner membrane,Unknown,"Periplasmic Protein
+",1,Periplasm,,no signal peptide,Membrane Protein,0,-0.535074,Prediction,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction ,,N/A,N/A,0,low complexity	,N/A,"None predicted
+
+",N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"PDB	,SCOP hierarchy in SUPERFAMILY	","1.16e-02
+,0.0061",N/A,0, Histone H1-like nucleoprotein HC2,0.0055,NO HIT,0,,Rv2706c,Textmining,0.907,,PROBABLE NON-ALLERGEN,Q06I91,No Result,No Result,No Result,No Result,0,, Probable ANTIGEN ,0.6799,,cellular Process,1.94061,,histone-like protein hns,"ACT27010.1
+",4.00E-82,,Hydro-lyases,Carbon-Oxygen Lyases	,Lyases	,"non Enzyme
+",NOT ENZYME ,NOT ENZYME 
+4,>WP_003399870.1 ,type VII secretion system ESX-1 target PE35,Virulent Protein,Defense Protein,98,4.2,83.88,1490,0.030,Hydrophobic,18.34,9798.67,3,12,1,Stable,,,secreted,Extracell,Cell outer membrane. Fimbrium.,Unknown,Cytoplasmic Protein,0,Cytoplasm,,Signal Peptide,Unknown,0,0.029592,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Glycosylation prediction,,"PE family; This family named after a PE motif near to the amino terminus of the domain. The PE ...","cl03022	
+",6.52E-05,N/A,N/A,"None predicted
+
+",N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"PE/PPE dimer-like,PE		","0.00000233,0.021
+",PE family immunomodulator PE35 (1.10.287.850/FF/5)	,2.40E-55, PE family,5.80E-12,NO HIT,0,,"PPE68	","Neighborhood
+Experiments
+Textmining
+",0.996,,PROBABLE NON-ALLERGEN,P93407,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.596,,cellular Process,1.0170204,,PPE family protein,"CKW19815.1
+",2.00E-61,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups	,Transferases,"non Enzyme
+",NOT ENZYME ,NOT ENZYME 
+5,>WP_003399879.1, type VII secretion system ESX-1 target PPE68,Virulent Protein,Defense Protein,368,4.25,75.60,42970, -0.040,Hydrophilic,44.62,37329.97,12,32,0,Unstable,,,periplasm,Cytoplasm. Extracell.,Cell inner membrane,CytoplasmicMembrane,"Periplasmic Protein
+",1,Cytoplasm,,Signal Peptide,Unknown,1,-0.040218,No transmembrane,Secretion (Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,"Phosphorylation prediction,Glycosylation prediction",,"PPE family; This family named after a PPE motif near to the amino terminus of the domain. The ...
+","cl37632	
+",4.44E-42,low complexity	,N/A,"None predicted
+
+",N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"PE/PPE dimer-like ,PPE","4.97e-53
+,0.00038",PPE family protein PPE41 (1.20.1260.20/FF/1)	,2.00E-42,PPE family,1.10E-50,NO HIT,0,,	PE35,"Neighborhood
+Experiments
+Textmining",0.996,,PROBABLE NON-ALLERGEN,O60641,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.6612,,Virulence factors	,2.268435,,    PPE family protein,"CKU64582.1
+",0,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,non Enzyme,NOT ENZYME ,NOT ENZYME 
+6,>WP_003399940.1 , type VII secretion system ESX-1 WXG100 family target CFP-10 ,Secretory Protein,Secretory protein,100,4.59,63.7,6990,-0.668,Hydrophilic,41.90,10793.8,9,14,0,Unstable,,,secreted,Extracell,Extracell,Extracellular,"Outer Membrane Protein
+",1,Extracellular,,no signal peptide,Soluble Protein,0,-0.668,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"Proteins of 100 residues with WXG; ESAT-6 is a small protein appears to be of fundamental ...
+","cl02005	
+",2.16E-06,coiled coil	,N/A,Type VII secretion system ESAT-6-like ,IPR010310,N/A,N/A,0,N/A,N/A,0,No result,No,0,"EsxAB dimer-like ,ESAT-6 like        ","0.00000227,
+5.49e-22
+",ESAT-6-like protein (1.10.287.1060/FF/8)	,2.20E-59,Proteins of 100 residues with WXG,3.30E-17,NO HIT,0,,	eccCb1 	esxA,"Neighborhood
+Cooccurence
+Experiments
+Textmining",0.999,,PROBABLE NON-ALLERGEN, Q7XEH4,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.7216],,cellular Process	,0.75017002,,ATPase	,"6J19_B",3.00E-63,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,non Enzyme,NOT ENZYME ,NOT ENZYME 
+7,>WP_003399963.1 ,type VII secretion system ESX-1 WXG100 family target ESAT-6 ,Virulent Protein,Defense Protein,95,4.48,72.21,17990,-0.256,Hydrophilic,36.36,9903.87,4,9,1,Stable,,,secreted,Extracell,Cell inner membrane.,Extracellular,"Outer Membrane Protein
+",1,Extracellular,,no signal peptide,Soluble Protein,0, -0.255790,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"Uncharacterized conserved protein YukE [Function unknown];","cl42363	
+",2.25E-19,coiled coil	,N/A,"None predicted
+
+",N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"EsxAB dimer-like ,ESAT-6 like        ","1.83e-21,0.00000613
+
+",ESAT-6-like protein (1.10.287.1060/FF/9)	,2.20E-59, Proteins of 100 residues with WXG,4.10E-17,NO HIT,0,,	esxB,"Neighborhood
+Cooccurence
+Experiments
+Textmining",0.999,,PROBABLE NON-ALLERGEN, Q9NX46,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.6186,,Metabolism Molecule,1.2232346,,type VII secretion system ESX-1 WXG100 family target ESAT-6 ,"WP_031657339.1
+",1.00E-59,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,non Enzyme,NOT ENZYME ,NOT ENZYME 
+8,>WP_003400047.1 ,PE domain-containing protein ,Virulent Protein,Defense Protein,77,4.00,82.86,6990,0.497,Hydrophobic,30.70,7424.28,1,7,1,Stable,,,secreted,Extracell,Cell inner membrane. Fimbrium.,CytoplasmicMembrane,Extracellular Protein,1,Extracellular,,Signal Peptide,Unknown,0,0.497402,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Glycosylation prediction,,N/A,N/A,0,low complexity	,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,PE/PPE dimer-like        PE,"0.000139
+,0.07",N/A,0,PE family,1.3e-05,NO HIT,0,,PPE69,"Neighborhood
+Textmining",0.905,,PROBABLE ALLERGEN,11991227,No Result,No Result,No Result,No Result,0,, Probable ANTIGEN,0.7185,,Metabolism Molecule,1.8373397,,PE domain-containing protein 	,"WP_003400047.1
+",3.00E-44,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,non Enzyme,NOT ENZYME ,NOT ENZYME 
+9,>WP_003400094.1 , ESAT-6 like protein EsxE,Virulent Protein,Defense Protein,90,5.36,77.33,17990,-0.021,Hydrophilic,17.45,9602.81,5,10,1,Stable,,,secreted,Extracell,"Cell inner membrane.
+",Unknown,Cytoplasmic Protein,0,Cytoplasm,,no signal peptide,Soluble Protein,0,-0.021111,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,"Phosphorylation prediction,glycosylation prediction",,N/A,N/A,0,low complexity	,N/A,"
+Type VII secretion system ESAT-6-like ",IPR010310,N/A,N/A,0,N/A,N/A,0,No result,No,0,"EsxAB dimer-like ,ESAT-6 like        ","2.88e-18,0.0051
+",N/A,0, Proteins of 100 residues with WXG,7.50E-09,NO HIT,0,,cpnT,"Neighborhood
+Cooccurence
+Textmining",0.991,,PROBABLE NON-ALLERGEN,Q0IMG9,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.5115,,Metabolism Molecule,2.5827636,,pore-forming CpnT exporter EsxE 	,"WP_116381332.1
+",1.00E-46,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,non Enzyme,NOT ENZYME ,NOT ENZYME 
+10,>WP_003400201.1 , ribonuclease P protein component,Enzyme,Enzymatic protein,125,11.88,91.20,12490,-0.263,Hydrophilic,47.41,13942.21,24,9,0,Unstable,,,cytoplasm,"Cell membrane. Cytoplasm.
+ ",Cell inner membrane,cytoplasmic,"Inner-membrane Protein
+",1,Cytoplasm,,Signal Peptide,Unknown,1,-0.2632,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"Ribonuclease P;
+","cl42314	",8.50E-29,low complexity	,N/A,Ribonuclease P,IPR000100,"ribonuclease P activity,tRNA binding","GO:0004526,GO:0000049",1,tRNA processing,GO:0008033,1,No result,No,0,"Ribosomal protein S5 domain 2-like        ,RNase P protein	","1.06e-22,0.0014
+",Ribonuclease P protein component (3.30.230.10/FF/124)	,1.30E-12,Ribonuclease P,2.80E-23,Bacterial ribonuclease P protein component signature,N/A,,rpmH,"Neighborhood
+Coexpression
+Textmining",0.999,,PROBABLE NON-ALLERGEN,Q2V992,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.5809,,Information and storage,0.42320196,,ribonuclease P,"EQM19434.1
+",4.00E-53,,Endoribonucleases Producing 5'-Phosphomonoesters,Acting on Ester Bonds	,Hydrolases,3.1.26.5	1.0,"s an Enzyme protein
+3.-.-.- Hydrolases
+	3.1.-.- Acting on ester bonds
+",ENZYME
+11,>WP_003400206.1,50S ribosomal protein L34 ,Translational Protein,Catalytic/Enzymatic Protein,47,13.15,43.62,N/A,-1.421,Hydrophilic,94.38,5624.61,18,0,0,Unstable,,,cytoplasm,N/A,N/A,cytoplasmic,N/A,1,Cytoplasm,,no signal peptide,Soluble Protein,0,-1.421277,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"Ribosomal protein L34;
+","cl00370	
+",6.21E-09,N/A,N/A,Ribosomal protein L34 ,IPR000271,structural constituent of ribosome ,GO:0003735,1,translation ,GO:0006412,1,ribosome ,GO:0005840,1,N/A,0,Mitochondrial ribosomal protein L34 (1.10.287.3980/FF/1)	,1.30E-12, Ribosomal protein L34,9.30E-18,Ribosomal protein L34 signature,N/A,,"rpsF	
+rplI	
+rpsL	
+rpsG	
+rpsJ	
+rplC	
+rplW	
+rplB	
+rpsS	
+rplV","Coexpression
+Experiments
+Textmining",0.999,,PROBABLE NON-ALLERGEN,Q9UK58,No Result,No Result,No Result,No Result,0,, Probable ANTIGEN,0.8252,,cellular Process,0.99928715,,50S ribosomal protein L34 ,"WP_016719425.1",1.00E-18,,N/A,N/A,N/A,non Enzyme,N/A,NOT ENZYME 
+12,>WP_003400395.1 , DUF4226 domain-containing protein ,Unknown Domain Function,Other Protein,120,5.60,97.00,1490,-0.217,Hydrophilic,33.98,13099.82,16,19,1,Stable,,,periplasm,Cytoplasm,"Extracell. Periplasm.
+ ",Unknown,"Periplasmic Protein
+",1,Periplasm,,no signal peptide,Soluble Protein,1,-0.216667,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"EspA/EspE family; This family of proteins includes Mycobacterium tuberculosis EspA and EspE ...","cl11367	",8.19E-29,N/A,N/A,"
+Protein of unknown function DUF4226 ",IPR019710,N/A,N/A,0,N/A,N/A,0,No result,No,0,N/A,0,N/A,0,Domain of unknown function (DUF4226),3.30E-42,NO HIT,N/A,,"        Rv0023        
+     	Rv0024",Neighborhood,0.737,,PROBABLE NON-ALLERGEN,Q5BQN5,No Result,No Result,No Result,No Result,0,, Probable ANTIGEN,0.4958,,Metabolism Molecule,1.4413919,,hypothetical protein X157_03284 ,"KCP47523.1
+",1.00E-74,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,3.1.-.-	0.72,NOT ENZYME ,NOT ENZYME 
+13,>WP_003400401.1 ,ESX-1 secretion-associated protein ,Virulent Protein,Defense Protein,105,6.36,77.33,8480,-0.810,Hydrophilic,49.59,11910.15,12,14,0,Unstable,,,cytoplasm,Cell membrane. ,Cell inner membrane. Extracell. Periplasm.,Unknown,Cytoplasmic Protein,1,Cytoplasm,,no signal peptide,Soluble Protein,0,-0.809524,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"Proteins of 100 residues with WXG; ESAT-6 is a small protein appears to be of fundamental ...","cl02005	
+",8.07E-27,low complexity	,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"        Sigma3 and sigma4 domains of RNA polymerase sigma factors,Sigma4 domain        ","0.00562
+,0.07",N/A,0," Excreted virulence factor EspC, type VII ESX diderm",7.50E-29,NO HIT,N/A,,"Rv0028	",Neighborhood,0.854,,PROBABLE NON-ALLERGEN,Q6EUD8,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.5741,,cellular Process,0.99185651,,ESX-1 secretion-associated protein 	,"WP_102776488.1
+",4.00E-59,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,non Enzyme,NOT ENZYME ,NOT ENZYME 
+14,>WP_003400504.1 , DUF5318 domain-containing protein,Unknown Domain Function,Other Protein,137,9.88,84.01,16960,-0.144,Hydrophilic,37.06,15032.27,20,11,1,Stable,,,cytoplasm,"Cell membrane. Cytoplasm. Extracell.
+","Cell inner membrane.",cytoplasmic,cytoplasmic protein,1,Cytoplasm,,no signal peptide,Soluble Protein,0,-0.143796,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Glycosylation prediction,,"Family of unknown function (DUF5318); This family of unknown function is mostly found in ...","cl38539	
+",3.73E-70,N/A,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,N/A,0,N/A,0,Family of unknown function (DUF5318),3.10E-58,NO HIT,N/A,,	Rv1597,Textmining,0.759,,PROBABLE NON-ALLERGEN,Q9BSQ5,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.5561,,cellular Process,2.663027,,DUF5318 family protein [Mycobacterium tuberculosis]	,"WP_055351233.1
+",7.00E-94,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,non Enzyme,NOT ENZYME ,NOT ENZYME 
+15,>WP_003400534.1, single-stranded DNA-binding protein,Replication Protein,Structural Protein,164,5.12,62.56,19480,-0.488,Hydrophilic,43.05,17353.11,19,22,0,Unstable,,,cytoplasm,Cell membrane. Cytoplasm. Extracell.,cell inner membrane,cytoplasmic,cytoplasmic protein,1,Cytoplasm,,no signal peptide,Soluble Protein,0,-0.143796,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Glycosylation prediction,,"single-stranded DNA-binding protein; Provisional
+","PRK07772	",1.73E-104,N/A,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,N/A,0,N/A,0,Family of unknown function (DUF5318),3.10E-58,NO HIT,N/A,,rpsF	,"Neighborhood
+Gene Fusion
+Coexpression",0.986,,PROBABLE NON-ALLERGEN,Q9P281,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.7716,,cellular Process,1.1908155,,single-stranded DNA-binding protein 	,"WP_003400534.1
+",4.00E-113,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,non Enzyme,NOT ENZYME ,NOT ENZYME 
+16,>WP_003400577.1, antitoxin VapB1,Antitoxin Protein,Defense Protein,79,8.19,84.18,2980,-0.562,Hydrophilic,84.53,8717.84,13,12,0,Unstable,,,cytoplasm,Extracell,Extracell,cytoplasmic,Cytoplasmic protein,1,Cytoplasm,,no signal peptide,Soluble Protein,0,-0.562025,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,N/A,N/A,0,low complexity	,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"Ribbon-helix-helix	,Trafficking protein A-like	","0.000000000256,0.069",N/A,0,Tetratricopeptide repeat,0.081,NO HIT,N/A,,vapC1,"Neighborhood
+Textmining",0.985,,PROBABLE ALLERGEN,225810599,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.6921,,cellular Process,1.0695073,,antitoxin VapB1 ,"WP_003400577.1
+",1.00E-46,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,non Enzyme ,NOT ENZYME ,NOT ENZYME 
+17,>WP_003400856.1,"L,D-transpeptidase",Enzyme,Enzymatic protein,251,8.85,91.51,43430,0.145,Hydrophobic,37.84,26915.66,18,16,1,Stable,`,,secreted,"Cytoplasm. Extracell.","Cell inner membrane. Extracell.",Unknown,Extracellular Protein,1,Extracellular,,Signal Peptide,Unknown,0,0.144622,No transmembrane,Secretion (Signal Peptide),Signal Peptide,Sgnal peptide,Signal peptide,Secretory peptide,Phosphorylation prediction,,"Lipoprotein-anchoring transpeptidase ErfK/SrfK [Cell wall/membrane/envelope biogenesis];
+","COG1376	
+",1.99E-31,low complexity	,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"L,D-transpeptidase catalytic domain-like        ,L,D-transpeptidase catalytic domain-like        ","1.1e-30
+,0.0009",POSSIBLE CONSERVED EXPORTED PROTEIN (2.60.40.3710/FF/4)        ,1.50E-21,Bacterial Ig domain,2.50E-22,no HIT,N/A,,	dacB2,Textmining,0.786,,PROBABLE ALLERGEN, P14804,No Result,No Result,No Result,No Result,0,, Probable ANTIGEN,0.5312,,Virulence factors	,1.4339852,,"L,D-transpeptidase LdtMt1 ","WP_003400856.1
+",2.00E-178,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,"2.3.2.-	0.78",NOT ENZYME ,NOT ENZYME 
+18,>WP_003400908.1 ,esterase family protein,Enzyme,Enzymatic protein,340,5.92,68.97,85830,-0.253,Hydrophilic,49.34,36771.27,21,23,0,Unstable,,,secreted,Extracell,cell inner membrane,Extracellular,Extracellular Protein,1,Extracellular,,Signal Peptide,Unknown,2,-0.253235,No transmembrane,Secretion (Signal Peptide),Transmembrane	,Signal peptide,Signal peptide,Secretory peptide,Glycosylation prediction,,"S-formylglutathione hydrolase FrmB [Defense mechanisms];
+","cl33985	
+",3.43E-99,low complexity	,N/A,Esterase-like ,IPR000801,N/A,N/A,0,N/A,N/A,0,No result,No,0,"alpha/beta-Hydrolases	,Mycobacterial antigens	","0.0000000000454
+,1.54e-38
+",Diacylglycerol acyltransferase/mycolyltransferase Ag85C (3.40.50.1820/FF/86)	,1.40E-173, Putative esterase,1e-72),no HIT,N/A,,	aftB,"Cooccurence
+Databases",0.959,,PROBABLE NON-ALLERGEN,Q9HCU4,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.4801,,Metabolism Molecule,0.81644531,,diacylglycerol acyltransferase/mycolyltransferase Ag85C	,"WP_003400908.1",0,,"Transferring groups other than amino-acyl groups
+",Acyltransferases,Transferases,3.1.-.-	0.75,NOT ENZYME ,NOT ENZYME 
+19,>WP_003400961.1,TetR/AcrR family transcriptional regulator,Regulatory protein,Regulatory Protein,280,8.60,84.00,37930,-0.096,Hydrophilic,45.35,30643.00,29,27,0,Unstable,,,cytoplasm,cytoplasm,cytoplasm,cytoplasmic,"Periplasmic Protein
+",1,Cytoplasm,,no signal peptide,Membrane Protein,1,-0.096429,Prediction,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"DNA-binding transcriptional regulator, AcrR family [Transcription];
+","COG1309	
+",2.15E-15,transmembrane region	,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"Homeodomain-like        ,Tetracyclin repressor-like, N-terminal domain        ,Tetracyclin repressor-like, C-terminal domain        ,Tetracyclin repressor-like, C-terminal domain        ","1.15e-17
+,0.0088,6.85e-16
+,0.0072","Transcriptional regulator, TetR family (1.10.357.10/FF/47)        ",1.10E-131," Bacterial regulatory proteins, tetR family",1.00E-15,TetR-type HTH domain profile,19.821,,"Rv0802c	",Textmining,0.661,,PROBABLE NON-ALLERGEN,Q9NR09,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.4082,,cellular Process        ,1.974479,,TetR/AcrR family transcriptional regulator ,"WP_003911117.1
+",2.00E-150,,"Phosphotransferases with an alcohol group as acceptor",Transferring Phosphorus-Containing Groups        ,Transferases,non Enzyme,"is an Enzyme protein
+	2.-.-.- Transferases
+	2.8.-.- Transferring sulfur-containing groups
+",ENZYME
+20,>WP_003401006.1 ,"PE family protein, partial",Virulent protein,Defense Protein,74,4.41,94.19,4470,0.670,Hydrophobic,14.82,7094.98,2,6,1,Stable,,,Periplasm,Extracell,"Cell inner membrane. Fimbrium.
+",CytoplasmicMembrane,Extracellular Protein,1,Extracellular,,Signal Peptide,Unknown,1,0.67027,No transmembrane,Secretion (Signal Peptide),Signal Peptide,signal peptide,Signal peptide,Secretory peptide,Glycosylation prediction,,"PE family; This family named after a PE motif near to the amino terminus of the domain. The PE ...
+","cl03022	
+",2.24E-10,low complexity	,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"PE/PPE dimer-like,PE	","1.05e-19
+,0.01",PE_PGRS39 (1.10.287.850/FF/1)	,1.90E-22,PE family,1.10E-22,no HIT,0,,PPE58,textmining,0.822,,PROBABLE ALLERGEN,11991227,No Result,No Result,No Result,No Result,0,, Probable ANTIGEN,0.6027,,cellular Process        ,0.55407582,,PE family protein,"QON78099.1
+",1.00E-39,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,5.-.-.-	0.55,NOT ENZYME ,NOT ENZYME 
+21,>WP_003401044.1, TetR/AcrR family transcriptional regulator,Regulatory Protein,Regulatory Protein,214,5.89,83.50,35870,-0.364,Hydrophilic,44.12,24128.1,24,28,0,Unstable,,,Cytoplasm,Cytoplasm,Cytoplasm,Cytoplasmic,Cytoplasmic Protein,1,Cytoplasm,,Signal Peptide,Unknown,1,-0.364486,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"Bacterial regulatory proteins, tetR family;
+","pfam00440	
+",2.81E-09,N/A,N/A,None pridicted,N/A,DNA binding ,GO:0003677,1,N/A,N/A,0,No result,No,0,"Tetracyclin repressor-like, C-terminal domain,Tetracyclin repressor-like, C-terminal domain	,Homeodomain-like	,Tetracyclin repressor-like, N-terminal domain		","2.31e-20
+,0.012,7.7e-16
+,0.0093",TetR family transcriptional regulator (1.10.357.10/FF/16)	,1.00E-09," Tetracyclin repressor-like, C-terminal domain",2.50E-21,  TetR-type HTH domain profile,18.382,,Rv0157A,Neighborhood,0.687,,PROBABLE NON-ALLERGEN,O14981,No Result,No Result,No Result,No Result,0,,Probable NON-ANTIGEN,0.3726,,Metabolism Molecule,1.1187835,,TetR/AcrR family transcriptional regulator	,"WP_061846028.1
+",5.00E-150,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,3.-.-.-	0.5,NOT ENZYME ,NOT ENZYME 
+22,>WP_003401091.1 ,MCE family protein,Transport Protein,Transporter Protein,515,5.61,89.59,49850,-0.097,Hydrophilic,40.27,54021.37,38,41,0,Unstable,,,inner membrane	,Extracell.,Cell inner membrane. Periplasm.,Unknown,"Periplasmic Protein",1,Periplasm,,no signal peptide,Membrane Protein,2,-0.096699,Prediction,Secretion (Signal Peptide),Transmembrane	,signal peptide,Signal peptide,Secretory peptide,"Phosphorylation prediction,Glycosylation prediction",,"virulence factor Mce family protein; Members of this paralogous family are found as six tandem ...
+","cl36794	",1.41E-84,transmembrane region	,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"	Methyl-accepting chemotaxis protein (MCP) signaling domain	,	Methyl-accepting chemotaxis protein (MCP) signaling domain	","0.00019,,0.019
+",N/A,0.00E+00,MlaD protein,7.00E-17,no HIT,0,,"        yrbE1A    yrbE1B        
+              mce1A","Neighborhood
+Cooccurence
+Textmining",0.996,,PROBABLE NON-ALLERGEN, Q68CP9,No Result,No Result,No Result,No Result,0,,  Probable ANTIGEN,0.4788,,Metabolism Molecule,1.1747115,,virulence factor Mce family protein 	,"WP_142756032.1
+",0,,Methyltransferases,Transferring One-Carbon Groups	,Transferases,no Prediction,noT ENZYME ,NOT ENZYME 
+23,>WP_003401110.1 ,ECF RNA polymerase sigma factor SigG ,Regulatory Protein,Regulatory Protein,370,6.33,92.86,46410,-0.165,Hydrophilic,49.53,40982.74,41,44,0,Unstable,,,Cytoplasm,Cell membrane. Cytoplasm.,Cell inner membrane.,Cytoplasmic            ,"Cytoplasmic Protein",1,Cytoplasm,,no signal peptide,Soluble Protein,1,-0.165405,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"RNA polymerase subunit sigma-70;
+","PRK08241	
+",0.00E+00,low complexity	,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"Sigma2 domain of RNA polymerase sigma factors        ,Sigma2 domain of RNA polymerase sigma factors	,NTF2-like	,Ketosteroid isomerase-like	","3.73e-23
+,0.0012
+,8.79e-20
+,0.054
+",RNA polymerase sigma factor (1.10.1740.10/FF/10)	,1.40E-04,Sigma-70 region 2,6.10E-20,  Sigma-70 factors ECF subfamily signature,N/A,,"	Rv0181c	","Neighborhood
+Textmining",0.896,,PROBABLE NON-ALLERGEN,O14981,No Result,No Result,No Result,No Result,0,,Probable NON-ANTIGEN ,0.3489,,cellular Process,2.7075468,,sigma-70 family RNA polymerase sigma factor SigG 	,"WP_003401110.1",0,,Hydro-lyases,Carbon-Oxygen Lyases	,Lyases	,2.-.-.-	0.48,noT ENZYME ,NOT ENZYME 
+24,>WP_003401246.1 ,glycosyltransferase family 4 protein,Enzyme,Enzymatic protein,384,9.86,105.60,72420,-0.012,Hydrophilic,46.01,42054.33,44,35,0,Unstable,,,Cytoplasm,Cytoplasm,"Cell inner membrane. Cytoplasm.",Cytoplasmic,cytoplasmic protein,1,Cytoplasm,,Signal Peptide,Unknown,1,-0.011719,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,"Phosphorylation prediction,Glycosylation prediction",,"phosphatidyl-myo-inositol mannosyltransferase; This family is most closely related to the GT4 ...","cd03801	
+",3.35E-53,low complexity	,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"        UDP-Glycosyltransferase/glycogen phosphorylase,Glycosyl transferases group 1	","0.0088
+1.23e-70
+",Glycosyl transferase family 1 (3.40.50.2000/FF/243)	,1.10E-05,Glycosyl transferases group 1,3.40E-29,no HIT,N/A,,	Rv0224c,"Neighborhood
+Cooccurence",0.921,,PROBABLE NON-ALLERGEN,Q9NR09,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.4365,,cellular Process,3.6454465,,glycosyltransferase family 4 protein	,"WP_169037008.1",0,,Hexosyltransferases,Glycosyltransferases,Transferases,2.4.1.-	0.99,"is an Enzyme protein
+	2.-.-.- Transferases
+	2.4.-.- Glycosyltransferases
+",ENZYME
+25,>WP_003401289.1,DUF2613 domain-containing protein ,Unknown Domain Function,Other Protein,57,9.69,107.72,1490,0.332,Hydrophobic,38.36,5833.81,5,3,1,Stable,,,inner membrane	,Cell membrane. Extracell,"Cell inner membrane.
+",CytoplasmicMembrane,N/A,0,Cytoplasm,,Signal Peptide,Unknown,1,0.331579,Prediction,Secretion (Signal Peptide),transmembrane	,No signal peptide,Signal peptide,Secretory peptide,Phosphorylation prediction,,"Protein of unknown function (DUF2613); This is a family of putative small secreted proteins ...
+","cl12590	",1.69E-12,transmembrane region	,N/A,Protein of unknown function DUF2613 ,IPR022566,N/A,N/A,0,N/A,N/A,0,No result,No,0,N/A,0,N/A,0,Protein of unknown function (DUF2613),4.40E-22,no HIT,N/A,,	aftD,Neighborhood,0.785,,PROBABLE NON-ALLERGEN,Q5JNJ5,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.5733,,Metabolism Molecule,2.1076686,,DUF2613 domain-containing protein,"WP_003401289.1
+",2.00E-31,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,non Enzyme,noT ENZYME ,NOT ENZYME 
+26,>WP_003401300.1 ,antitoxin ,Antitoxin Protein,Defense Protein,77,6.84,69.74,13980,-0.925,Hydrophilic,37.28,9138.34,13,13,1,Stable,,,Cytoplasm,"Cell membrane. Extracell.
+",Cytoplasm,cytoplasmic,cytoplasmic protein,1,Cytoplasm,,no signal peptide,Soluble Protein,0,-0.924675,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,N/A,N/A,0,N/A,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"Ribbon-helix-helix	,CopG-like	","0.001
+,0.04",N/A,0," CopG-like RHH_1 or ribbon-helix-helix domain, RHH_5",0.036,no HIT,N/A,,	vapC24,Neighborhood,0.845,,PROBABLE NON-ALLERGEN, Q6EUD8,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.4126,,Metabolism Molecule,1.1488293,,hypothetical protein ,"WP_023641551.1
+",1.00E-46,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,"3.-.-.-	0.53",NOT ENZYME ,NOT ENZYME 
+27,>WP_003401397.1 ,TetR/AcrR family transcriptional regulator,Regulatory protein,Regulatory protein,206,7.66,74.56,34380,-0.380,Hydrophilic,36.92,23274.1,24,23,1,Stable,,,Cytoplasm,Cytoplasm. Extracell.,"Cell inner membrane. Cytoplasm.",Cytoplasmic,"Inner-membrane Protein
+",1,Cytoplasm,,Signal Peptide,Unknown,0,-0.380097,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"DNA-binding transcriptional regulator, AcrR family [Transcription];","cl43380	
+",2.65E-12,N/A,N/A,DNA binding ,GO:0003677,N/A,N/A,0,N/A,N/A,0,No result,No,0,"	Tetracyclin repressor-like, C-terminal domain,	Tetracyclin repressor-like, C-terminal domain,Homeodomain-like	,	Tetracyclin repressor-like, N-terminal domain	","6.67e-30
+,0.01,0.0000000000000287
+,0.0066
+",TetR family transcriptional regulator (1.10.10.60/FF/141)	,5.50E-05,"Bacterial regulatory proteins, tetR family",8.7e-10), TetR-type HTH domain profile :,15.531,,Rv0272c,Neighborhood,0.914,,PROBABLE NON-ALLERGEN,Q6NW34,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.576,,Metabolism Molecule,-0.15137801,,TetR family transcriptional regulator,"KAK28480.1
+",9.00E-150,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,non Enzyme,noT ENZYME ,NOT ENZYME 
+28,>WP_003401485.1 ,type VII secretion system ESX-3 target PE5,Virulent protein,Defense Protein,102,4.47,101.67,2980,0.665,Hydrophobic,27.78,9565.74,3,9,1,Stable,,,secreted,Extracell,Cell inner membrane. Fimbrium.,Unknown,Cytoplasmic protein,0,Cytoplasm,,Signal Peptide,Unknown,0,0.664706,No transmembrane,No Secretion (No Signal Peptide),Signal Peptide,No signal peptide,No signal peptide,No Secretory Protein ,Glycosylation prediction,,"PE family; This family named after a PE motif near to the amino terminus of the domain. The PE ...","cl03022	
+",1.07E-11,N/A,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"PE/PPE dimer-like       ,PE","0.000000000000471
+,0.011,",PE family protein PE22 (1.10.287.850/FF/6)	,2.20E-05,PE family,1.20E-20,no HIT,0,,PPE4,"Neighborhood
+Cooccurence
+Textmining",0.998,,PROBABLE ALLERGEN,11991227,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.7076,,cellular Process,0.99240843,,   type VII secretion system ESX-3 target PE5,"WP_052628524.1
+",2.00E-57,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,no Prediction,noT ENZYME ,NOT ENZYME 
+29,>WP_003401503.1 , type VII secretion system protein EsxS,Virulent protein,Defense Protein,97,5.99,82.06,2980,0.299,Hydrophobic,29.52,9777.94,4,6,1,Stable,,,secreted,Extracell,Fimbrium.,Unknown,Cytoplasmic protein,0,Cytoplasm,,no signal peptide,Soluble Protein,0,0.298969,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,N/A,N/A,0,low complexity	,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"EsxAB dimer-like        ,ESAT-6 like        ","0.00000000556,0.01",ESAT-6 like protein EsxS (1.10.287.1060/FF/13)	,3.60E-57, Proteins of 100 residues with WXG,1.40E-06,no HIT,0,,esxH,"Neighborhood
+Cooccurence
+Experiments
+Textmining",0.999,,PROBABLE NON-ALLERGEN,Q5U9F2,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.5503,,cellular Process,2.1533588,,PE family protein,"EFD75928.1
+",3.00E-52,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,no Prediction,noT ENZYME ,NOT ENZYME 
+30,>WP_003401514.1 ,ESAT-6-like protein EsxH,Virulent protein,Defense Protein,96,4.58,59.38,29450,-0.266,Hydrophilic,50.36,10390.60,3,9,0,Unstable,,,secreted,Extracell,cell inner membrane,Unknown,Cytoplasmic protein,0,Cytoplasm,,no signal peptide,Soluble Protein,0,-0.265625,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Glycosylation prediction,,"Uncharacterized conserved protein YukE [Function unknown];
+","cl42363	
+",9.75E-22,N/A,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"EsxAB dimer-like        ,ESAT-6 like        ","3.92e-21
+,0.0054
+",ESAT-6-like protein (1.10.287.1060/FF/16)	,2.70E-52,Proteins of 100 residues with WXG,1.90E-16,no HIT,0,,	esxG,"Neighborhood
+Cooccurence
+Experiments
+Textmining",0.999,,PROBABLE NON-ALLERGEN, P93616,No Result,No Result,No Result,No Result,0,, Probable ANTIGEN,0.4929,,cellular Process,2.0005157,,EsxR ,"ANZ80905.1
+",4.00E-61,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,3.-.-.-	0.53,noT ENZYME ,NOT ENZYME 
+31,>WP_003401555.1 ," ribbon-helix-helix protein, CopG family",Regulatory Protein,Regulatory protein,75,6.55,97.87,4470,-0.180,Hydrophilic,35.44,8130.21,10,10,1,Stable,,,secreted,Extracell,Cell inner membrane. Cell outer membrane. Cytoplasm,Unknown,Cytoplasmic protein,0,Cytoplasm,,no signal peptide,Soluble Protein,0, -0.180000,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,N/A,N/A,0,low complexity	,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"Ribbon-helix-helix        ,CopG-like        ","0.00163,0.014",N/A,0,"Ribbon-helix-helix protein, copG family",2.30E-10,no HIT,0,,"Rv0299	","Neighborhood
+Textmining",0.984,,PROBABLE NON-ALLERGEN,P04083,No Result,No Result,No Result,No Result,0,, Probable ANTIGEN,0.7703,,cellular Process	,1.7513133,,"ribbon-helix-helix protein,","MBL7325552.1
+",1.00E-34,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,non Enzyme,noT ENZYME ,NOT ENZYME 
+32,>WP_003401563.1 ," ribbon-helix-helix protein, CopG family",Regulatory Protein,Regulatory protein,73,10.39,111.10,6990,-0.127,Hydrophilic,49.36,8088.31,12,10,0,Unstable,,,Cytoplasm,Extracell,Extracell,Unknown,Periplasmic protein,1,Extracellular,,no signal peptide,Soluble Protein,0,-0.127397,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"hypothetical protein
+","cl10323	
+",4.09E-03,N/A,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"Ribbon-helix-helix        ,CopG-like        ","0.00000126
+,0.03",Antitoxin VapB2 (1.10.1220.10/FF/15)	,6.20E-43,"Ribbon-helix-helix protein, copG family",2.10E-05,no HIT,0,,	vapC2,"Neighborhood
+Experiments
+Textmining",0.999,,PROBABLE NON-ALLERGEN,Q53RM0,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.6928,,Metabolism Molecule,0.95216199,,type II toxin-antitoxin system antitoxin VapB2,"WP_003401563.1
+",8.00E-41,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,2.-.-.-	0.67,noT ENZYME ,NOT ENZYME 
+33,>WP_003401651.1 ,TetR/AcrR family transcriptional regulator,Regulatory protein,Regulatory protein,200,5.61,97.25,18450,-0.009,Hydrophilic,41.62,21411.19,19,22,0,Unstable,,,cytoplasm,cytoplasm,cytoplasm,Unknown,"Outer Membrane Protein
+",1,Cytoplasm,,no signal peptide,Soluble Protein,0,-0.0095,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"DNA-binding transcriptional regulator, AcrR family [Transcription];","COG1309	
+",8.35E-16,N/A,N/A,None pridicted,N/A,DNA binding ,GO:0003677,1,N/A,N/A,0,No result,No,0,"Homeodomain-like	,	Tetracyclin repressor-like, N-terminal domain,	Tetracyclin repressor-like, C-terminal domain,	Tetracyclin repressor-like, C-terminal domain","2.26e-18,0.04,
+0.000000000000526
+,0.0074",HTH-type transcriptional regulator AcrR (1.10.357.10/FF/3)	,1.00E-07,"Bacterial regulatory proteins, tetR family",4.60E-16,TetR-type HTH domain profile,19.74,,		Rv0330c,Textmining,0.75,,PROBABLE NON-ALLERGEN,P08823,No Result,No Result,No Result,No Result,0,, Probable ANTIGEN,0.5466,,Metabolism Molecule,2.1510204,,TetR/AcrR family transcriptional regulator ,"MBL7324923.1",8.00E-78,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,non Enzyme,noT ENZYME ,NOT ENZYME 
+34,>WP_003401675.1 ,"PE family protein, partial",Virulent protein,Defense Protein,171,12.12,62.51,11000,-0.592,Hydrophilic,61.54,18419.95,25,6,0,Unstable,,,secreted,Extracell,cell inner membrane,CytoplasmicMembrane,Extracellular Protein,1,Extracellular,,no signal peptide,Soluble Protein,0,-0.591813,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"PE family; This family named after a PE motif near to the amino terminus of the domain. The PE ...","cl03022	
+",7.61E-15,low complexity	,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"PE/PPE dimer-like       ,PE","0.000000000000445
+,0.0098",PE family protein (1.10.287.850/FF/8)	,1.50E-48,PE family,7.10E-17,no HIT,0,`,	PPE12,Textmining,0.759,,PROBABLE NON-ALLERGEN,Q2HXL0,No Result,No Result,No Result,No Result,0,, Probable ANTIGEN,0.5081,,cellular Process,1.4042539,,PE family protein,"WP_140946692.1
+",2.00E-114,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,non Enzyme,noT ENZYME ,NOT ENZYME 
+35,>WP_003401735.1 ,helix-turn-helix transcriptional regulator,Regulatory Protein,Regulatory protein,832,6.26,100.61,54430,0.001,Hydrophobic,39.54,87775.94,80,91,1,Stable,,,cytoplasm,Cytoplasm. Extracell.,Cytoplasm. Extracell.,CytoplasmicMembrane,Cytoplasmic protein,1,Cytoplasm,,no signal peptide,Soluble Protein,1,0.001202,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,"Phosphorylation prediction,Glycosylation prediction",,"isoniazid response ATPase/transcriptional regulator IniR; Two unrelated first-line drugs for ...
+","NF038181	
+",0.00E+00,HTH_LUXR	,9.83E-21,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"	C-terminal effector domain of the bipartite response regulators,	GerE-like (LuxR/UhpA family of transcriptional regulators),	P-loop containing nucleoside triphosphate hydrolases,	Nucleotide and nucleoside kinases","4.42e-16
+,0.0063,,0.09","Transcriptional regulator, LuxR family (1.10.10.10/FF/553)	",1.30E-04," Bacterial regulatory proteins, luxR family",1.20E-13, LuxR-type HTH domain profile :,22.792,,	Rv0340,"Neighborhood
+Cooccurence",0.889,,PROBABLE NON-ALLERGEN,P08823,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.4877,,Information and storage,-0.83688399,,   isoniazid response ATPase/transcriptional regulator IniR,"WP_003401735.1
+",0,,"In Phosphorus-Containing Anhydrides
+",Acting on acid anhydrides	,Hydrolases,non Enzyme,noT ENZYME ,NOT ENZYME 
+36,>WP_003401823.1 ,MerR family transcriptional regulator,Regulatory Protein,Regulatory protein,126,10.31,99.05,8480,-0.391,Hydrophilic,71.62,14126.25,20,14,0,Unstable,,,Cytoplasm,. Cytoplasm.,"Cell inner membrane. Cytoplasm.",CytoplasmicMembrane,"Outer Membrane Protein",1,Cytoplasm,,no signal peptide,Soluble Protein,0,-0.39127,No transmembrane,Secretion (Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"Helix-Turn-Helix DNA binding domain of HspR-like transcription regulators; Helix-turn-helix ...
+","cd01279	
+",5.87E-49,HTH_MERR	,4.08E-27,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"Putative DNA-binding domain,	DNA-binding N-terminal domain of transcription activators	","1.51e-20,0.0036
+",Transcriptional regulator MerR family (1.10.1660.10/FF/19)	,1.10E-04, MerR HTH family regulatory protein,8.40E-17, MerR-type HTH domain profile,32.626,,dnaK,"Neighborhood
+Experiments
+Textmining",0.996,,PROBABLE NON-ALLERGEN,Q86WJ1,No Result,No Result,No Result,No Result,0,, Probable ANTIGEN,0.5495,,cellular Process,1.6752805,,   heat shock transcriptional regulator HspR,"WP_024753696.1
+",2.00E-83,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,non Enzyme,noT ENZYME ,NOT ENZYME 
+37,>WP_003401885.1 ,calcium dodecin,Signalling protein,,71,8.10,89.30,8480,-0.261,Hydrophilic,37.36,7966.14,11,10,1,Stable,,,Cytoplasm,"Cell membrane. Extracell.","Cell inner membrane.
+",CytoplasmicMembrane,"Inner-membrane Protein
+",1,Cytoplasm,,no signal peptide,Soluble Protein,0,-0.260563,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"Dodecin; Dodecin is a flavin-binding protein,found in several bacteria and few archaea and ...
+","cl01328	
+",7.41E-29,low complexity	,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"Dodecin-like,Dodecin-like		","2.49e-21
+0.0015",Calcium dodecin (3.30.1660.10/FF/4)	,7.50E-45,Dodecin,8.70E-21,no HIT,0,,	Rv0559c,Textmining,0.745,,PROBABLE NON-ALLERGEN,O14981,No Result,No Result,No Result,No Result,0,, Probable ANTIGEN ,0.6552,,cellular Process,0.31990136,,transporter,"CNV73087.1
+",1.00E-41,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,5.-.-.-	0.53,noT ENZYME ,NOT ENZYME 
+38,>WP_003401914.1 , PPE family protein,Virulent Protein,,443,4.40,84.09,43890,0.261,Hydrophobic,45.50,43119.54,13,27,0,Unstable,,,N/A,Cytoplasm. Extracell.,"Cell inner membrane.",CytoplasmicMembrane,Periplasmic protein,1,Cytoplasm,,no signal peptide,Soluble Protein,1,0.261400,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,"Phosphorylation prediction,Glycosylation prediction",,"PPE family; This family named after a PPE motif near to the amino terminus of the domain. The ...","cl37632	
+",2.78E-54,low complexity	,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"PE/PPE dimer-like	
+PPE","1.33e-63,0.0000854",PPE family protein (1.20.1260.20/FF/3)	,2.40E-09,PPE family,1.20E-62,no HIT,0,,NA,NA,NA,,PROBABLE NON-ALLERGEN,"O60641
+
+",No Result,No Result,No Result,No Result,0,, Probable ANTIGEN,0.5858,,Virulence factors	,-0.41476852,,PPE family protein,"WP_057363782.1",0,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,non Enzyme,noT ENZYME ,NOT ENZYME 
+39,>WP_003402129.1 ,DUF2752 domain-containing protein,Unknown Domain Function,,50,7.74,115.40,9970,0.642,Hydrophobic,12.75,5297.17,4,3,1,Stable,,,inner membrane,Extracell,"Cell inner membrane.",Unknown,N/A,0,Extracellular,,no signal peptide,Membrane Protein,1,0.642000,Prediction,No Secretion (No Signal Peptide),transmembrane	,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"Protein of unknown function (DUF2752); This family is conserved in bacteria. Many members are ...
+","cl12413	
+",2.67E-06,transmembrane region	,N/A,Protein of unknown function DUF2752 ,IPR021215,N/A,N/A,0,N/A,N/A,0,No result,No,0,N/A,0,N/A,0,Protein of unknown function (DUF2752)q,3.60E-11,no HIT,0,,NA,NA,NA,,PROBABLE NON-ALLERGEN,Q08722,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.9749,,cellular Process,0.86560218,,	thiazole synthase,"CRH14035.1
+",3.00E-24,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,non Enzyme,noT ENZYME ,NOT ENZYME 
+40,>WP_003402198.1,superoxide dismutase [Cu-Zn],Enzyme ,,240,5.94,71.67,9970,-0.061,hydrophilic,33.52,23844.49,11,17,1,Stable,,,Periplasm,Cell membrane.,Periplasm,CytoplasmicMembrane,Periplasmic Protein,1,Periplasm,,Signal Peptide,Unknown,0,-0.060833,No transmembrane,Secretion (Signal Peptide),Signal Peptide,Lipoprotein signal peptide (Sec/SPII),Signal peptide,Secretory peptide,"Phosphorylation prediction,Glycosylation prediction",,"Cu/Zn superoxide dismutase [Inorganic ion transport and metabolism];","COG2032	
+",5.17E-43,low complexity	,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"        Cu,Zn superoxide dismutase-like,	Cu,Zn superoxide dismutase-like","4.06e-46
+,0.0000000159","Superoxide dismutase [Cu-Zn], chloroplastic (2.60.40.200/FF/3)	",1.20E-05,Copper/zinc superoxide dismutase (SODC),2.60E-29,Prokaryotic membrane lipoprotein lipid attachment site profile,5.000,,	sodA,"Experiments
+Databases
+Textmining",0.993,,PROBABLE NON-ALLERGEN,Q10QA5,Ole e 5,Olea europaea,"Cu,Zn superoxide dismutase-like (SSF49329)",A9LMI4,1/1 (100.0%),,Probable ANTIGEN,0.6653,,Metabolism Molecule,1.7259957,,superoxide dismutase family protein,"WP_234829102.1
+",1.00E-156,,"Acting on superoxide as acceptor",Acting on superoxide as acceptor	,Oxidoreductases,1.15.1.1	1.0,"is an Enzyme protein
+	1.-.-.- Oxidoreductases
+	1.15.-.- Acting on superoxide as acceptor",ENZYME
+41,>WP_003402219.1 ,SDR family NAD(P)-dependent oxidoreductase ,Enzyme ,,311,9.67,86.91,32430,-0.231,hydrophilic,33.64,33650.15,33,26,1,Stable,,,cytoplasm,cytoplasm,cytoplasm,Unknown,cytoplasmic Protein,1,Cytoplasm,,no signal peptide,Soluble Protein,0,-0.230547,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"short chain dehydrogenase; Provisional
+","PRK06197	
+",0.00E+00,N/A,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"	NAD(P)-binding Rossmann-fold domains,Tyrosine-dependent oxidoreductases	","6.54e-55
+,0.0022",NADPH-dependent 1-acyldihydroxyacetone phosphate reductase (3.40.50.720/FF/261)	,1.10E-14,short chain dehydrogenase,8.90E-28,no HIT,0,,	fas,Databases,0.891,,PROBABLE NON-ALLERGEN,Q9NR09,No Result,No Result,No Result,No Result,0,, Probable ANTIGEN,0.5763,,Metabolism Molecule,1.2933626,,short chain dehydrogenase,"COW39564.1",3.00E-180,,"With NAD or NADP as acceptor
+",Acting on the CH-OH group of donors	,Oxidoreductases,1.1.1.-	0.72,"is an Enzyme protein
+	1.-.-.- Oxidoreductases
+	1.1.-.- Acting on the CH-OH group of donors",ENZYME
+42,>WP_003402250.1 ,class I SAM-dependent methyltransferase,Enzyme ,,427,8.97,89.20,81360,-0.188,hydrophilic,43.32,47767.49,48,44,0,Unstable,,,cytoplasm,cytoplasm,cytoplasm,cytoplasmicmembrane,cytoplasmic Protein,1,Cytoplasm,,no signal peptide,Soluble Protein,0,-0.188056,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"Mycolic acid cyclopropane synthetase; This family consist of ...
+","pfam02353	
+",2.08E-140,low complexity	,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"	S-adenosyl-L-methionine-dependent methyltransferases	,	Mycolic acid cyclopropane synthase","2.3e-66
+,0.00011
+",Cyclopropane mycolic acid synthase 1 (3.40.50.150/FF/115)	,1.00E-55,Mycolic acid cyclopropane synthetase,2.60E-105,no HIT,0,,"Rv0448c	","Neighborhood
+Gene Fusion
+Cooccurence",0.983,,PROBABLE NON-ALLERGEN,Q8IZS8,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.4314,,Metabolism Molecule,0.76795083,,cyclopropane-fatty-acyl-phospholipid synthase,"AEJ45609.1",0,,"Methyltransferases",Transferring One-Carbon Groups	,Transferases,2.1.1.-	0.99," Enzyme protein
+2.-.-.- Transferases
+2.1.-.- Transferring one-carbon groups
+ ",ENZYME
+43,>WP_003402288.1 ,type II toxin-antitoxin system PemK/MazF family toxin ,Toxin-Antitoxin System(TA system),,93,11.31,84.95,16500,-0.194,hydrophilic,58.36,9925.40,13,8,0,Unstable,,,cytoplasm,Extracell,cell inner membrane,Unknown,cytoplasmic Protein,1,Cytoplasm,,no signal peptide,Soluble Protein,1,-0.193548,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"PemK-like, MazF-like toxin of type II toxin-antitoxin system; PemK is a growth inhibitor in E. ...
+","cl00995	
+",2.01E-12,N/A,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"Cell growth inhibitor/plasmid maintenance toxic component,Kid/PemK	","0.0000000000000545
+,0.0032",mRNA interferase (2.30.30.110/FF/7)	,1.90E-04,"PemK-like, MazF-like toxin of type II toxin-antitoxin system",2.80E-11,no HIT,0,,mazE1,Neighborhood,0.876,,PROBABLE ALLERGEN,Q12567,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.541,,cellular Process,0.51223887,,hypothetical protein MRGA423_02880,"AFE11784.1
+",2.00E-57,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,3.1.-.-	0.98,noT ENZYME ,NOT ENZYME 
+44,>WP_003402323.1,class I SAM-dependent methyltransferase,Enzyme ,,287,6.00,82.23,38390,-0.284,hydrophilic,37.09,33027.71,30,37,1,Stable,,,cytoplasm,cytoplasm,cytoplasm,cytoplasmicmembrane,cytoplasmic Protein,1,Cytoplasm,,no signal peptide,Soluble Protein,0,-0.283624,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"Mycolic acid cyclopropane synthetase; This family consist of ...","pfam02353	
+",6.65E-156,low complexity	,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"	S-adenosyl-L-methionine-dependent methyltransferases,Mycolic acid cyclopropane synthase	","5.29e-74
+,0.000000000124",3.40.50.150/FF/1704	,1.30E-07,Mycolic acid cyclopropane synthetase,1.80E-119,no HIT,0,,	fadD32,Textmining,0.657,,PROBABLE NON-ALLERGEN,A4KZ49,No Result,No Result,No Result,No Result,0,,Probable NON-ANTIGEN,0.3974,,cellular Process,1.7657626,,cyclopropane mycolic acid synthase PcaA ,"WP_099217908.1",0,,"Methyltransferases",Transferring One-Carbon Groups	,Transferases,2.1.1.-	0.98,noT ENZYME ,NOT ENZYME 
+45,>WP_003402335.1 ,helix-turn-helix transcriptional regulator ,Regulatory Protein,Regulatory protein,140,5.22,84.36,4470,-0.464,hydrophilic,49.59,15364.15,17,21,0,Unstable,,,cytoplasm,cytoplasm,cytoplasm,cytoplasmicmembrane,"Outer Membrane Protein",1,Cytoplasm,,no signal peptide,Soluble Protein,0,-0.463571,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"Helix-turn-helix XRE-family like proteins. Prokaryotic DNA binding proteins belonging to the ...
+","cd00093	
+",1.33E-14,HTH_XRE	,3.56E-15,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"	lambda repressor-like DNA-binding domains,SinR domain-like	","6.76E-16,0.025",Transcriptional regulator ClgR (1.10.260.40/FF/32)	,1.70E-33,Helix-turn-helix,1.40E-14, Cro/C1-type HTH domain profile,15.305,,"Rv2017	
+",Textmining,0.776,,PROBABLE NON-ALLERGEN,Q9BPX7,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.4829,,cellular Process,1.1030591,,helix-turn-helix transcriptional regulator ,"WP_078405418.1
+",2.00E-93,,"Carboxylic Ester Hydrolases
+",Acting on Ester Bonds	,Hydrolases,non Enzyme,noT ENZYME ,NOT ENZYME 
+46,>WP_003402339.1 ,heparin-binding hemagglutinin HbhA ,Virulent protein,,199,9.17,84.67,4470,-0.593,hydrophilic,46.67,21534.46,36,32,0,Unstable,,,cytoplasm,cytoplasm,Extracell,Cellwall,cytoplasmic Protein,1,Cytoplasm,,no signal peptide,Soluble Protein,1,-0.592965,No transmembrane,Secretion (Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,N/A,N/A,0,low complexity	,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"Apolipoprotein A-I,Apolipoprotein A-I		","0.0000262,0.0086
+
+",Heparin-binding hemagglutinin HbhA (1.20.5.1230/FF/1)	,2.80E-74,Apolipoprotein A1/A4/E domain,0.0009,no HIT,0,,	esxA,Textmining,0.865,,PROBABLE NON-ALLERGEN,A6NC98,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.6822,,cellular Process	,0.13220618,,iron-regulated heparin binding hemagglutinin hbhA,"ACT23509.1
+",1.00E-131,,"Acting on Polysaccharides
+",Carbon-Oxygen Lyases	,Lyases	,non Enzyme,noT ENZYME ,NOT ENZYME 
+47,>WP_003402390.1 ,two-component sensor histidine kinase,Regulatory protein,Regulatory protein,410,6.06,97.34,22460,"-0.200
+",hydrophilic,48.66,44824.74,53,58,0,Unstable,,,inner membrane,Cell membrane.,Cell inner membrane.,CytoplasmicMembrane,"Inner-membrane Protein",1,Cell inner membrane,,Signal Peptide,Membrane Protein,1,-0.199756,"TOPDOM
+",Secretion (Signal Peptide),transmembrane	,No signal peptide,Signal peptide,Secretory peptide,Phosphorylation prediction,,"phosphate regulon sensor kinase PhoR; Members of this protein family are the regulatory ...
+","cl37197	
+",3.90E-64,HisKA	,1.85E-17,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"	ATPase domain of HSP90 chaperone/DNA topoisomerase II/histidine kinase,Histidine kinase	,Homodimeric domain of signal transducing histidine kinase	,Homodimeric domain of signal transducing histidine kinase	","3.93e-46
+,0.0012
+,0.00000000000000235
+,0.00088
+",Sensor histidine kinase (3.30.565.10/FF/102)	,1.20E-22,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",4.40E-24,  Histidine kinase domain profile,49.265,,	regX3,"Neighborhood
+Cooccurence
+Databases
+Textmining",0.999,,PROBABLE NON-ALLERGEN, P11586,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.5139,,Metabolism Molecule,0.65035406,,	two-component system sensor histidine kinase SenX3 ,"WP_003910136.1",0,,"Protein-histidine kinases
+",Transferring Phosphorus-Containing Groups	,Transferases,2.7.13.3	1.0,"is an Enzyme protein
+	2.-.-.- Transferases
+2.7.-.- Transferring phosphorous-containing groups
+",ENZYME
+48,>WP_003402432.1 ,sugar phosphate isomerase/epimerase ,Enzyme ,,280,7.84,82.61,26930,-0.158,HYDROPHIlic,41.68,30465.64,30,29,0,Unstable,,,cytoplasm,cytoplasm,cytoplasm,cytoplasmic,cytoplasmic Protein,1,Cytoplasm,,no signal peptide,Soluble Protein,0,-0.158214,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"Sugar phosphate isomerase/epimerase [Carbohydrate transport and metabolism];
+","cl42362	
+",3.26E-35,N/A,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"Xylose isomerase-like	,IolI-like	","1.52e-39
+,0.029",Fructoselysine 3-epimerase (3.20.20.150/FF/13)	,4.70E-04,Xylose isomerase-like TIM barrel,4.10E-22,no HIT,0,,Rv1752,"Coexpression
+Databases
+Textmining",0.866,,PROBABLE NON-ALLERGEN,Q7DM89,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.6338,,Metabolism Molecule,1.9195591,,conserved hypothetical protein,"EFD72140.1
+",0,,Hydro-lyases,Carbon-Oxygen Lyases	,Lyases	,"non Enzyme","Enzyme protein	3.-.-.- Hydrolases
+	3.1.-.- Acting on ester bonds
+ ",ENZYME
+49,>WP_003402437.1 , DNA-binding protein ,Regulatory Protein,Structural protein,78,9.39,78.72,2980,-0.133,HYDROPHIlic,17.52,8507.73,9,7,1,Stable,,,cytoplasm,Extracell,"Cell inner membrane. Cytoplasm. Extracell.
+",cytoplasmic,cytoplasmic Protein,1,Cytoplasm,,no signal peptide,Soluble Protein,0,-0.133333,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"Helix-Turn-Helix DNA binding domain of transcription regulators from the MerR superfamily; ...","cl02600	
+",5.81E-16,N/A,N/A,None pridicted,N/A,DNA binding ,GO:0003677,1,N/A,N/A,0,No result,No,0,"Putative DNA-binding domain	,Excisionase-like	","0.0000201
+,0.056
+",N/A,0,Helix-turn-helix domain,4.20E-14,no HIT,0,,	Rv1717,Textmining,0.863,,PROBABLE NON-ALLERGEN,Q93084,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.5926,,Metabolism Molecule,1.4299943,,DNA-binding protein,"AUS49558.1
+",2.00E-49,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,no Prediction,noT ENZYME ,NOT ENZYME 
+50,>WP_003402602.1 ,AURKAIP1/COX24 domain-containing protein,Regulatory Protein,Regulatory Protein,33,12.91,64.85,N/A,-1.736,HYDROPHIlic,90.39,4145.19,18,0,0,Unstable,,,cytoplasm,N/A,N/A,Unknown,N/A,0,Cytoplasm,,no signal peptide,Soluble Protein,1,-1.736364,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,N/A,N/A,0,DUF1713	,0.00000212,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,N/A,0,N/A,0,"Mitochondrial mRNA-processing protein COX24, C-terminal",3.10E-12,no HIT,0,,rpmF,Experiments,0.823,,PROBABLE NON-ALLERGEN,Q8GVZ2,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.7251,,Cellular process,1.298726,,hypothetical protein FRC0192_00382,"CAB0787866.1",2.00E-10,,N/A,N/A,N/A,N/A,N/A,N/A
+51,>WP_003402621.1,class I SAM-dependent methyltransferase,Enzyme ,,302,5.11,73.68,51340,-0.467,HYDROPHIlic,39.55,34660.11,34,47,1,Stable,,,cytoplasm,cytoplasm,cytoplasm,cytoplasmic,cytoplasmic Protein,1,Cytoplasm,,no signal peptide,Soluble Protein,0,-0.466556,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"Mycolic acid cyclopropane synthetase; This family consist of ...","pfam02353	
+",3.68E-164,N/A,N/A,"
+Mycolic acid cyclopropane synthase ",IPR003333,N/A,N/A,0,lipid biosynthetic process ,GO:0008610,1,No result,No,0,"        S-adenosyl-L-methionine-dependent methyltransferases        ,Mycolic acid cyclopropane synthase	","1.14e-71
+,0.0000000000741
+",S-adenosyl-methionine-sterol-C-methyltransferas (AFU_orthologue AFUA_4G09190) (3.40.50.150/FF/348)	,2.00E-04,Mycolic acid cyclopropane synthetase,2.60E-120,no HIT,0,,Rv0504c,"Neighborhood
+Textmining",0.9,,PROBABLE NON-ALLERGEN,P04045,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.4708,,cellular Process,0.97568439,,cyclopropane mycolic acid synthase CmaA2,	WP_003402621.1,0,,"Methyltransferases",Transferring One-Carbon Groups	,Transferases,2.1.1.-	0.96,"is an Enzyme protein
+	2.-.-.- Transferases
+	2.1.-.- Transferring one-carbon group",ENZYME
+52,>WP_003402827.1,class I SAM-dependent methyltransferase,Enzyme ,,116,4.91,84.83,9970,               -0.470,HYDROPHllic,57.52,13058.71,14,19,0,Unstable,,,cytoplasm,cytoplasm,cytoplasm,Unknown,cytoplasmic Protein,1,Cytoplasm,,no signal peptide,Soluble Protein,0,-0.469828,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"Methyltransferase domain; Members of this family are SAM dependent methyltransferases.
+","pfam08241	
+",1.37E-17,N/A,N/A,None pridicted,N/A,methyltransferase activity ,GO:0008168,1,N/A,N/A,0,No result,No,0,"	S-adenosyl-L-methionine-dependent methyltransferases,Mycolic acid cyclopropane synthase	","2.05e-27
+,0.00037
+",3.40.50.150/FF/1080	,1.10E-05,Methyltransferase domain,3.40E-15,no HIT,0,,	Rv0521,"Neighborhood
+Gene Fusion
+Cooccurence",0.99,,PROBABLE ALLERGEN,Q99UR0,No Result,No Result,No Result,No Result,0,,Probable NON-ANTIGEN,0.391,,Information and storage,1.2681384,,methyltransferase/methylase ,"CFB12317.1
+",7.00E-79,,"Methyltransferases",Transferring One-Carbon Groups	,Transferases,2.-.-.-	0.64,"""is an Enzyme protein
+	2.-.-.- Transferases
+	2.1.-.- Transferring one-carbon group""",ENZYME
+53,>WP_003402868.1 ,NAD-dependent epimerase/dehydratase family protein,Enzyme ,,346,6.45,87.49,24410,0.045,Hydrophobic,38.96,36219.16,32,35,1,Stable,,,cytoplasm,cytoplasm,cytoplasm,cytoplasmic,cytoplasmic Protein,1,Cytoplasm,,Signal Peptide,Unknown,1,0.044509,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Glycosylation prediction,,"Rossmann-fold NAD(P)(+)-binding proteins; A large family of proteins that share a ...
+","cl21454	",1.29E-72,low complexity	,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"NAD(P)-binding Rossmann-fold domains	,Tyrosine-dependent oxidoreductases	","1.59e-71
+,0.00054",UDP-glucuronic acid decarboxylase Uxs1p (3.40.50.720/FF/567)	,1.00E-07,NAD dependent epimerase/dehydratase family,5.70E-40,no HIT,0,,		pnp,"Neighborhood
+Cooccurence
+Textmining",0.987,,PROBABLE NON-ALLERGEN, Q6UB35,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.5364,,cellular Process	,2.8496999,,NAD-dependent epimerase/dehydratase family protein,"WP_003402868.1
+",0,,Acting on Carbohydrates and Derivatives,Epimerases and racemases	,Isomerases,5.1.3.-	0.74,"is an Enzyme protein
+	1.-.-.- Oxidoreductases
+	1.1.-.- Acting on the CH-OH group of donors",ENZYME
+54,>WP_003402875.1 ,glycosyltransferase family 2 protein ,Enzyme ,,210,9.24,107.71,33460,0.143,Hydrophobic,31.31,22403.89,25,22,1,Stable,,,inner membrane,"Cell membrane. Cytoplasm.
+ ","Cell inner membrane. Cytoplasm.
+",cytoplasmicMembrane,cytoplasmic Protein,1,Cytoplasm,,Signal Peptide,Membrane Protein,1,0.142857,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"DPM_DPG-synthase_like is a member of the Glycosyltransferase 2 superfamily; DPM1 is the ...
+","cd04179	
+",6.18E-39,N/A,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"Nucleotide-diphospho-sugar transferases	,mannose-1-phosphate guanylyl transferase	","3.7e-35
+,0.065
+",Glycosyl transferase family 2 (3.90.550.10/FF/470)	,1.10E-04,Glycosyl transferase family 2,7.50E-19,no HIT,0,,	Rv0540,"Neighborhood
+Gene Fusion
+Cooccurence",0.991,,PROBABLE NON-ALLERGEN,Q8RVT7,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.5818,,cellular Process,1.8084535,,	glycosyltransferase family 2 protein,"WP_057320357.1
+",3.00E-143,,Hexosyltransferases,Glycosyltransferases,Transferases,2.4.-.-	0.98,noT ENZYME ,NOT ENZYME 
+55,>WP_003402907.1,VOC family protein,Enzyme ,,128,5.31,88.44,16960,-0.278,HYDROPHllic,44.49,14346.25,13,18,0,Unstable,,,cytoplasm,cytoplasm,cytoplasm,cytoplasmic,cytoplasmic Protein,1,Cytoplasm,,no signal peptide,Soluble Protein,0,-0.278125,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"uncharacterized subfamily of vicinal oxygen chelate (VOC) family; The vicinal oxygen chelate ...
+","cd07264	
+",3.75E-33,N/A,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"	Glyoxalase/Bleomycin resistance protein/Dihydroxybiphenyl dioxygenase	,Antibiotic resistance proteins	","2.48e-21,0.017
+",N/A,0,Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily,4.00E-15,Vicinal oxygen chelate (VOC) domain profile,17.402,,	ureA,Textmining,0.901,,PROBABLE NON-ALLERGEN, P52903,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.4213,,Metabolism Molecule,1.1376856,,	VOC family protein,"MBX4337341.1
+",1.00E-86,,Acting on Other Compounds,Epimerases and racemases	,Isomerases,4.-.-.-	0.6,"is an Enzyme protein
+1.-.-.- Oxidoreductases
+	1.13.-.- Acting on single donors with incorporation of molecular oxygen",ENZYME
+56,>WP_003402909.1,SDR family oxidoreductase,Enzyme ,,294,9.51,103.95,41940,0.031,HYDROPHbic,55.23,31866.94,33,28,0,Unstable,,,cytoplasm,"Cell membrane. Cytoplasm.
+ ",cytoplasm,cytoplasmic,cytoplasmic Protein,1,Cytoplasm,,no signal peptide,Soluble Protein,0,0.031292,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"SDR family oxidoreductase;
+","PRK05866	
+",0,low complexity	,N/A,"
+Short-chain dehydrogenase/reductase SDR ",IPR002347,N/A,N/A,0,N/A,N/A,0,No result,No,0,"NAD(P)-binding Rossmann-fold domains	,Tyrosine-dependent oxidoreductases	","1.68e-51,0.00095
+",2-deoxy-D-gluconate 3-dehydrogenase (3.40.50.720/FF/81)	,1.00E-16,short chain dehydrogenase,3.10E-38,no HIT,0,,	fas,Databases,0.965,,PROBABLE NON-ALLERGEN,Q10567,Unknown,	Sesamum indicum,No Result,A0A0A6YYW2,	1/1 (100.0%),,Probable ANTIGEN,0.4702,,cellular Process,1.3913423,,	SDR family oxidoreductase,"NKE25967.1
+",1.00E-172,,With NAD or NADP as acceptor,Acting on the CH-OH group of donors	,Oxidoreductases,1.1.1.-	0.93,"is an Enzyme protein
+1.-.-.- Oxidoreductases
+1.-.- Acting on the CH-OH group of donors
+",ENZYME
+57,>WP_003402929.1 ,membrane protein,Membrane Protein,Structural protein,171,10.77,126.02,22460,0.250,HYDROPHbic,46.95,18800.08,21,13,0,Unstable,,,inner membrane,cell membrane,Cell inner membrane. Extracell. Periplasm.,cytoplasmicMembrane,"Inner-membrane Protein",1,Cytoplasm,,no signal peptide,Membrane Protein,2,0.250292,Prediction,Secretion (Signal Peptide),transmembrane	,No signal peptide,No signal peptide,No Secretory Protein ,Glycosylation prediction,,"Protein of unknown function (DUF3592); This family of proteins is functionally uncharacterized. ...
+","cl13576	
+",1.50E-05,transmembrane region	,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,N/A,0,N/A,0,"PF12158, Protein of unknown function (DUF3592)",0.00011,no HIT,0,,"Rv0361	",Textmining,0.897,,PROBABLE NON-ALLERGEN,Q08722,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.6677,,Metabolism Molecule,0.88761867,,	transmembrane protein,"CKQ77557.1",2.00E-104,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,non Enzyme,noT ENZYME ,NOT ENZYME 
+58,>WP_003403119.1 ,MCE family protein,Transport protein,,516,5.76,88.47,48360,-0.100,HYDROPHllic,37.54,54194.3,37,43,1,Stable,,,inner membrane,Extracell,"Cell inner membrane. Periplasm.
+",Unknown,Periplasmic Protein,1,Periplasm,,no signal peptide,Membrane Protein,2,-0.099806,Prediction,Secretion (Signal Peptide),transmembrane	,signal peptide,Signal peptide,Secretory peptide,Glycosylation prediction,,"ABC-type transporter Mla maintaining outer membrane lipid asymmetry, periplasmic component ...
+","cl34274	
+",8.10E-80,low complexity	,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"	Methyl-accepting chemotaxis protein (MCP) signaling domain,	Methyl-accepting chemotaxis protein (MCP) signaling domain","0.000183
+,0.033",N/A,0,MlaD protein,1.40E-15,no HIT,0,,"	yrbE2A	
+	yrbE2B","Neighborhood
+Cooccurence
+Coexpression
+Experiments
+Databases
+Textmining",0.997,,PROBABLE NON-ALLERGEN,Q68CP9,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.4419,,cellular Process,1.7632016,,MlaD family protein,"WP_003403119.1
+",0,,"Methyltransferases",Transferring One-Carbon Groups	,Transferases,no Prediction,noT ENZYME ,NOT ENZYME 
+59,>WP_003403125.1 , type II toxin-antitoxin system Phd/YefM family antitoxin,Toxin-Antitoxin System(TA system),,85,6.59,100.94,11000,-0.511,HYDROPHllic,74.32,9681.06,14,14,0,Unstable,,,cytoplasm,Cytoplasm. Extracell.,Cell inner membrane.,cytoplasmic,cytoplasmic Protein,1,Cytoplasm,,no signal peptide,Soluble Protein,0,-0.510588,Prediction,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"Antitoxin component of toxin-antitoxin stability system, DNA-binding transcriptional repressor ...
+","cl44010	
+",2.09E-17,N/A,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"YefM-like	,YefM-like	","0.0000000183,0.02",Antitoxin (3.40.1620.10/FF/2)	,2.10E-19,"Antitoxin Phd_YefM, type II toxin-antitoxin system",1.30E-10,no HIT,0,,	vapC4,"Neighborhood
+Textmining",0.984,,PROBABLE NON-ALLERGEN,Q8TBG4,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.5001,,Metabolism Molecule,1.7565405,,type II toxin-antitoxin system antitoxin VapB4,"WP_031647732.1
+",1.00E-50,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,non Enzyme,noT ENZYME ,NOT ENZYME 
+60,>WP_003403148.1 ,response regulator transcription factor,Regulatory protein,Regulatory protein,253,8.86,93.72,25440,-0.303,HYDROPHllic,34.34,28170.26,40,37,1,Stable,,,cytoplasm,cytoplasm,cytoplasm,cytoplasmic,cytoplasmic Protein,1,Cytoplasm,,Signal Peptide,Unknown,1,-0.303162,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain ...","COG0745	
+",9.59E-86,REC	,2.55E-44,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"CheY-like	,CheY-related","1.71e-42,0.00041",3.40.50.2300/FF/1401	,1.10E-19, Response regulator receiver domain,1.50E-29,"Response regulatory domain profile,OmpR/PhoB-type DNA-binding domain profile ","45.660,41.003",,Rv0601c,"Neighborhood
+Cooccurence
+Textmining",0.984,,PROBABLE NON-ALLERGEN,Q8IZS8,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.615,,Metabolism Molecule,0.97141193,,	two-component system response regulator TcrA,"WP_010924276.1",9.00E-174,,	With NADH or NADPH as one dono and incorporation of one atom of oxygen,Acting on paired donors with incorporation or reduction of molecular oxygen,Oxidoreductases,2.-.-.-	0.49,noT ENZYME ,NOT ENZYME 
+61,>WP_003403213.1 ,antitoxin VapB29,Antitoxin Protein,Defense Protein,75,5.52,94.93,N/A,-0.385,HYDROPHllic,46.11,8195.23,9,11,0,Unstable,,,secreted,Extracell,Extracell,Unknown,Periplasmic,1,Extracellular,,no signal peptide,Soluble Protein,0,-0.385333,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,N/A,N/A,0,N/A,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"Ribbon-helix-helix	,CopG-like	","0.000156
+,0.028",N/A,0, Family of unknown function (DUF6364),0.0029,no HIT,0,,"vapC29	","Neighborhood
+Textmining",0.957,,PROBABLE NON-ALLERGEN, Q12934,No Result,No Result,No Result,No Result,0,, Probable ANTIGEN,0.5296,,cellular Process,1.3911489,,antitoxin VapB29,"WP_003403213.1
+",2.00E-44,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,no Prediction,noT ENZYME ,NOT ENZYME 
+62,>WP_003403235.1, antitoxin VapB30,Antitoxin Protein,Defense Protein,84,9.28,105.95,1490,-0.157,HYDROPHllic,33.4,9139.52,14,12,1,Stable,,,cytoplasm	,Extracell,Cell inner membrane.,Cytoplasmic,"Cytoplasmic Protein
+",1,Cytoplasm,,no signal peptide,Soluble Protein,1,-0.157143,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"Rv0623-like transcription factor; This entry represents the Rv0623-like family of ...","cl01834	",1.51E-20,low complexity	,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"Ribbon-helix-helix
+	CopG-like","	8.30e-02,0.045",N/A,0,Rv0623-like transcription factor,1.30E-27,no HIT,0,,	vapC30,"Neighborhood
+Cooccurence
+Experiments
+Textmining",0.999,,PROBABLE NON-ALLERGEN,F9W301,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.6163,,Metabolism Molecule,1.5681418,,type II toxin-antitoxin system antitoxin VapB30,	WP_003403235.1,4.00E-49,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,3.-.-.-	0.5,noT ENZYME ,NOT ENZYME 
+63,>WP_003403244.1 ,type II toxin-antitoxin system Phd/YefM family antitoxin,Toxin-Antitoxin System(TA system),,86,11.4,94.07,5500,-0.431,HYDROPHllic,77,9492.84,16,11,0,Unstable,,,cytoplasm,Extracell.,Cell inner membrane., Unknown,Cytoplasmic Protein,1,Cytoplasm,," no signal peptide.",Soluble Protein,1,-0.431395,No transmembrane,"
+No Secretion (No Signal Peptide)",No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"Antitoxin component of toxin-antitoxin stability system, DNA-binding transcriptional repressor ",	cl44010,2.21E-18,N/A,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"YefM-lik,YefM-like","0.0000000432,0.015",Antitoxin (3.40.1620.10/FF/2)	,2.20E-17,"Antitoxin Phd_YefM, type II toxin-antitoxin system",1.20E-08,no HIT,0,,vapC5,"Neighborhood
+Experiments
+Textmining",0.995,,PROBABLE ALLERGEN,P33295,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.6241,,cellular Process,1.1221967,,"Crystal structure of a member of the VapBC family of toxin-antitoxin systems, VapBC-5, from Mycobacterium ",	3DBO_A,2.00E-51,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,no Prediction,noT ENZYME ,NOT ENZYME 
+64,>WP_003403302.1 ,class I SAM-dependent methyltransferase,Enzyme ,,293,5.27,83.89,32890,-0.183,HYDROPHllic,33.96,33262.85,29,41,1,Stable,,,cytoplasm,Cytoplasm.,Cytoplasm., Cytoplasmic ,Cytoplasmic Protein,1,Cytoplasm,,no signal peptide,soluble Protein,0,-0.183277,No transmembrane,"
+No Secretion (No Signal Peptide)",No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,Mycolic acid cyclopropane synthetase; This family consist of ..,	pfam02353,3.17E-175,N/A,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"	S-adenosyl-L-methionine-dependent methyltransferases,Mycolic acid cyclopropane synthase	","7.83e-75
+,0.00000000662
+",Geranyl diphosphate 2-C-methyltransferase (3.40.50.150/FF/183)	,1.10E-04,Mycolic acid cyclopropane synthetase,1.40E-125,no HIT,0,,	Rv2952,Textmining,0.715,,PROBABLE NON-ALLERGEN,P04045,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.4773,,Metabolism Molecule,0.5570681,, methoxy mycolic acid synthase MmaA3 ,WP_003403302.1,0,,Methyltransferases,Transferring One-Carbon Groups	,Transferases,2.1.1.-	0.92,"is an Enzyme protein
+        2.-.-.- Transferases   2.1.-.- Transferring one-carbon groups",ENZYME
+65,>WP_003403376.1,type II toxin-antitoxin system PemK/MazF family toxin ,Toxin-Antitoxin System(TA system),,102,11.16,97.45,5500,-0.088,HYDROPHllic,56.68,11320.1,16,10,0,Unstable,,,cytoplasm,Extracell.,Cell inner membrane.,Unknown,Cytoplasmic Protein,1,Cytoplasm,,no signal peptide,soluble Protein,1,-0.088235,No transmembrane,"
+No Secretion (No Signal Peptide)",No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"	
+mRNA-degrading endonuclease, toxin component of the MazEF toxin-antitoxin module","cl42701	",5.77E-24,low complexity	,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"	Cell growth inhibitor/plasmid maintenance toxic component	,Kid/PemK	","6.76e-18,0.0025
+
+",Toxin MazF5 (2.30.30.110/FF/2)	,1.10E-09," PemK-like, MazF-like toxin of type II toxin-antitoxin system",5.10E-11,no HIT,0,,mazE2,"Neighborhood
+Textmining",0.997,,PROBABLE NON-ALLERGEN, Q8RVT7,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.5722,,Metabolism Molecule,1.4727146,,toxin,EFP52248.1,5.00E-65,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,3.1.-.-	0.91,noT ENZYME ,NOT ENZYME 
+66,>WP_003403381.1," ribbon-helix-helix protein, CopG family ",Regulatory Protein,Regulatory Protein,81,4.4,87.16,23490,-0.574,HYDROPHllic,42.61,9169.01,9,19,0,Unstable,,,cytoplasm,Extracell.,Cell inner membrane., Cytoplasmic  ,Cytoplasmic Protein,1,Cytoplasm,,no signal peptide,soluble Protein,1,-0.574074,No transmembrane,"
+No Secretion (No Signal Peptide)",No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"ribbon-helix-helix domains of transcription repressor CopG, nickel responsive transcription",	cl41726,8.96E-03,low complexity	,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"Ribbon-helix-helix
+	CopG-like","0.0289,0.022",N/A,0,"Ribbon-helix-helix protein, copG family",5.40E-05,no HIT,0,,"mazF2	","Neighborhood
+Textmining",0.997,,PROBABLE NON-ALLERGEN,P04083,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.4758,,cellular Process,1.1873964,,"ribbon-helix-helix protein, CopG family",AAK44914.1,1.00E-46,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,no Prediction,noT ENZYME ,NOT ENZYME 
+67,>WP_003403451.1,TetR/AcrR family transcriptional regulator,Regulatory protein,Regulatory Protein,196,5.46,88.72,21430,-0.042,HYDROPHllic,30.99,21262.07,19,25,1,Stable,,,cytoplasm,Cytoplasm.,Cytoplasm.,Cytoplasmic,"Cytoplasmic Protein
+",1,Cytoplasm,,no signal peptide,soluble Protein,0,-0.042347,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,"Phosphorylation prediction,glycosylation prediction",,WHG domain; This presumed domain is around 80 amino acids in length..,	cl38988,1.84E-15,low complexity	,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"	Tetracyclin repressor-like, C-terminal domain,	Tetracyclin repressor-like, C-terminal domain,Homeodomain-like	,	Tetracyclin repressor-like, N-terminal domain","2.08e-20
+,0.0011,0.0000000000241
+,0.0043",TetR family transcriptional regulator (1.10.357.10/FF/15)	,1.40E-84,"Tetracyclin repressor-like, C-terminal domain",6.2e-18),TetR-type HTH domain profil`,15.639,,mftR,Textmining,0.807,,PROBABLE NON-ALLERGEN,O75155,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.5051,,Metabolism Molecule,1.5363221,,TetR/AcrR family transcriptional regulator,	WP_003403451.1,4.00E-138,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,6.-.-.-	0.48,noT ENZYME ,NOT ENZYME 
+68,>WP_003403453.1 ,30S ribosomal protein S12,Translational Protein,,124,11.37,76.94,5960,-0.814,HYDROPHllic,31.86,13849.24,31,7,1,Stable,,,cytoplasm,Cytoplasm.,Cell inner membrane. Cytoplasm.,Cytoplasmic,Periplasmic Protein,1,Cytoplasm,,no signal peptide,soluble Protein,0,-0.81371,No transmembrane,"
+No Secretion (No Signal Peptide)",No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,ribosomal protein S12,	CHL00051,7.10E-73,N/A,N/A,None pridicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"	Nucleic acid-binding proteins	,Cold shock DNA-binding domain-like","1.02e-51,0.00000555",Ribosomal protein (2.40.50.140/FF/443)	,1.30E-19,", Ribosomal protein S12/S23",2.60E-42,`Ribosomal protein S12 signature,N/A,,"rpsF		
+rplI	
+rplK	
+rplA		
+rplJ	
+rplL	
+rpsG	
+tuf	
+rpsJ	
+rplC","Neighborhood
+Gene Fusion
+Cooccurence
+Coexpression
+Experiments
+Databases
+Textmining",0.999,,PROBABLE NON-ALLERGEN,Q7Z628,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.8078,,Metabolism Molecule,1.3521037,,30S ribosomal protein S12 ,WP_003403453.1,2.00E-82,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,non Enzyme,noT ENZYME ,NOT ENZYME 
+69,>WP_003403483.1, mycofactocin precursor,Enzyme ,,29,3.17,80.34,2980,-0.138,HYDROPHllic,15.69,3258.54,0,9,1,Stable,,,secreted,N/A,N/A, Extracellular ,N/A,0,Extracellular,,no signal peptide,soluble Protein,0,-0.137931,N/A,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"mycofactocin precursor; Members of this protein family occur in Mycobacterium tuberculosis and ...
+","cl14847	
+",5.52E-05,N/A,N/A,Mycofactocin precursor peptide ,IPR023988,N/A,N/A,0,N/A,N/A,0,No result,No,0,N/A,0,N/A,0,N/A,0,no HIT,0,,"mftB		
+pqqE","Neighborhood
+Textmining",0.985,,PROBABLE ALLERGEN,22726221,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.7233,,cellular Process	,0.99928715,,hypothetical protein CFBS_0727,AGL99159.1,1.00E-23,,N/A,N/A,N/A,N/A,N/A,N/A
+70,>WP_003403501.1,mycofactocin system glycosyltransferase,Enzyme ,,470,8.96,108.98,55920,0.161,HYDROPHbic,42.8,50666.59,56,49,0,Unstable,,,cytoplasm,Cell membrane. Cytoplasm.,cell inner membrane,cytoplasmic,Cytoplasmic Protein,1,Cytoplasm,,no signal peptide,soluble Protein,3,0.161277,"
+Exists:
+68
+
+1
+
+UniProt: MFTF_MYCTU,",No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"mycofactocin system glycosyltransferase; Members of this protein family are putative ...
+","TIGR03965	
+",6.94E-176,low complexity	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"	Nucleotide-diphospho-sugar transferases	,	Polypeptide N-acetylgalactosaminyltransferase 1, N-terminal domain","6.25e-47,0.0085",", Glycosyl transferase family 2",1.20E-24,Polypeptide N-acetylgalactosaminyltransferase (3.90.550.10/FF/53)	,1.40E-04,no HIT,0,,mftE,"Neighborhood
+Cooccurence
+Textmining",0.991,,PROBABLE NON-ALLERGEN,Q04656,No Result,No Result,No Result,No Result,0,,Probable NON-ANTIGEN,0.3917,,Metabolism Molecule,0.1061293,,mycofactocin biosynthesis glycosyltransferase MftF,"WP_003403501.1",0,,Hexosyltransferases,Glycosyltransferases,Transferases,2.4.1.-	0.78,"is an Enzyme protein
+2.-.-.- Transferases	2.4.-.- Glycosyltransferases
+ ",ENZYME
+71,>WP_003403584.1,30S ribosomal protein S19,Translational Protein,,93,10.48,67.96,5500,-0.811,HYDROPHllic,43.56,10803.55,21,10,0,Unstable,,,cytoplasm,cytoplasm,cell inner membrane,cytoplasmic,Periplasmic Protein,1,Cytoplasm,,no signal peptide,soluble Protein,0,-0.810753,No transmembrane,"
+No Secretion (No Signal Peptide)",No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"30S ribosomal protein S19; Reviewed
+","PRK00357	
+",8.73E-65,N/A,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"Ribosomal protein S19	,Ribosomal protein S19	","5.49e-35
+,0.0000243
+",Uncharacterized protein (3.30.860.10/FF/12)	,1.10E-04, Ribosomal protein S19,2.8e-37), Ribosomal protein S19 signature,N/A,,"rpsF        
+rplI        
+rplK
+rplA        
+rplJ
+rplL
+rpsL        
+rpsG        
+rpsJ        
+rplC","Neighborhood
+Cooccurence
+Coexpression
+Experiments
+Databases
+Textmining",0.999,,PROBABLE NON-ALLERGEN, Q9UKL3,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.4774,,cellular Process	,1.1263102,,30S ribosomal protein S19,"WP_003403584.1
+",2.00E-60,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,non Enzyme,noT ENZYME ,NOT ENZYME 
+72,>WP_003403594.1,50S ribosomal protein L29,Translational Protein,,77,5.51,87.4,1490,-0.748,HYDROPHllic,52.23,8859.01,13,14,0,Unstable,,,cytoplasm,cytoplasm,cell inner membrane,cytoplasmic,Cytoplasmic Protein,1,Cytoplasm,,no signal peptide,soluble Protein,0,-0.748052,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"Ribosomal L29 protein;
+","pfam00831	
+",4.02E-23,N/A,N/A,"
+Ribosomal protein L29/L35 ",IPR001854,structural constituent of ribosome ,GO:0003735,1,translation ,GO:0006412,1,ribosome ,GO:0005840,1,"Ribosomal protein L29 (L29p),Ribosomal protein L29 (L29p)		","3e-22
+,0.00043",50S ribosomal protein L29 (1.10.287.310/FF/7)	,2.00E-05, Ribosomal L29 protein,1.30E-24, Ribosomal protein L29 signature,N/A,,"rpsF        
+rplI        
+rplK
+rplA        
+rplJ
+rplL
+rpsL        
+rpsG        
+rpsJ        
+rplC","Neighborhood
+Cooccurence
+Coexpression
+Experiments
+Databases
+Textmining",0.999,,PROBABLE NON-ALLERGEN,Q9UPN4,No Result,No Result,No Result,No Result,0,, Probable ANTIGEN,0.6589,,Metabolism Molecule,1.6751172,,50S ribosomal protein L29,"WP_003403594.1
+",8.00E-46,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,non Enzyme,noT ENZYME ,NOT ENZYME 
+73,>WP_003403667.1, type Z 30S ribosomal protein S14,Translational Protein,,61,10.75,65.74,8480,-0.357,HYDROPHllic,20.42,6825.19,15,2,1,Stable,,,cytoplasm,cell membrane,cell inner membrane,cytoplasmic,N/A,1,Cytoplasm,,no signal peptide,soluble Protein,0,-0.357377,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"type Z 30S ribosomal protein S14;
+","PRK08061	
+",9.14E-34,N/A,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"        Glucocorticoid receptor-like (DNA-binding domain)        ,Ribosomal protein S14	","3.49e-21
+,0.00029
+",30S ribosomal protein S14 type Z (4.10.830.10/FF/1)	,1.10E-32,Ribosomal protein S14p/S29e,8.4e-25),Ribosomal protein S14 signature ,N/A,,"rpsG	
+rpsS	
+rplN	
+rplX	
+rplE	
+rpsH	
+rplF	
+rpsE		
+rplO	
+rpsP","Neighborhood
+Gene Fusion
+Cooccurence
+Coexpression
+Experiments
+Databases
+Textmining",0.999,,PROBABLE NON-ALLERGEN,Q6Q4G3,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.4642,,Metabolism Molecule,1.3706527,,type Z 30S ribosomal protein S14 [,"MBX4385070.1
+",2.00E-34,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,non Enzyme,noT ENZYME ,NOT ENZYME 
+74,>WP_003403731.1 , ECF RNA polymerase sigma factor SigL ,Regulatory Protein,Regulatory Protein,177,6.92,96.67,29450,-0.173,HYDROPHllic,40.81,19538.1,21,21,0,Unstable,,,cytoplasm,cell membrane,cell inner membrane,cytoplasmicMembrane,Cytoplasmic Protein,1,Cytoplasm,,no signal peptide,soluble Protein,0,-0.173446,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"ECF RNA polymerase sigma factor SigL;
+","PRK09645	
+",4.38E-95,low complexity	,N/A,RNA polymerase sigma-70 like ,IPR039425),"
+DNA-binding transcription factor activity ,
+sigma factor activity ,
+DNA binding ","GO:0003700,GO:0016987,GO:0003677",1,"regulation of DNA-templated transcription ,
+DNA-templated transcription initiation ","GO:0006355,GO:0006352",1,No result,No,0,"Sigma2 domain of RNA polymerase sigma factors	,Sigma2 domain of RNA polymerase sigma factors	,	Sigma3 and sigma4 domains of RNA polymerase sigma factors, sigma4 domains","3.92e-21
+,0.0027,0.0000000000000567
+,0.045
+",RNA polymerase sigma factor (1.10.1740.10/FF/10)	,1.00E-07,Sigma-70 region 2,9.50E-18,  Sigma-70 factors ECF subfamily signature,N/A,,	rslA,"Neighborhood
+Gene Fusion
+Cooccurence
+Experiments
+Textmining",0.997,,PROBABLE NON-ALLERGEN,F9W301,No Result,No Result,No Result,No Result,0,, Probable ANTIGEN,0.5185,,Metabolism Molecule,1.5379354,,	sigma-70 family RNA polymerase sigma factor SigL,"WP_042507731.1
+",2.00E-112,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,3.1.-.-	0.62,noT ENZYME ,NOT ENZYME 
+75,>WP_003403867.1,response regulator transcription factor [,Regulatory Protein,Regulatory Protein,247,6.02,98.99,21430,-0.191,HYDROPHllic,36.18,27513.5,34,36,1,Stable,,,cytoplasm,cytoplasm,cytoplasm,cytoplasmic,Cytoplasmic Protein,1,Cytoplasm,,no signal peptide,soluble Protein,0,-0.191093,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain ...
+","COG0745	
+",3.72E-89,REC	,2.38E-44,"
+Transcriptional regulatory protein WalR-like ",IPR039420,DNA binding ,GO:0003677,1,"phosphorelay signal transduction system ,
+regulation of DNA-templated transcription ","GO:0000160,GO:0006355",1,No result,No,0,"CheY-like	,CheY-related	,	C-terminal effector domain of the bipartite response regulators,PhoB-like	","1.57e-42
+,0.00014
+,2.49e-26
+,0.00049
+",DNA-binding response regulator PrrA (3.40.50.2300/FF/103)	,1.00E-17,Response regulator receiver domain,3.40E-27,"Response regulatory domain profile,OmpR/PhoB-type DNA-binding domain profile ","45.457,40.378",,	phoR,"Neighborhood
+Gene Fusion
+Cooccurence
+Experiments
+Databases
+Textmining",0.999,,PROBABLE NON-ALLERGEN,Q10M50,No Result,No Result,No Result,No Result,0,, Probable ANTIGEN,0.574,,cellular Process	,1.5670809,,"	Chain A, Response regulator ","5ED4_A
+",2.00E-176,,"With NADH or NADPH as one dono and incorporation of one atom of oxygen
+",Acting on paired donors with incorporation or reduction of molecular oxygen	,Oxidoreductases,2.7.-.-	0.65,noT ENZYME ,NOT ENZYME 
+76,>WP_003404010.1 ,monooxygenase,Enzyme ,,101,5.61,91.88,7450,-0.175,HYDROPHllic,48.11,11191.73,12,14,0,Unstable,,,cytoplasm,cytoplasm,cell inner membrane,cytoplasmic,Cytoplasmic Protein,1,Cytoplasm,,no signal peptide,soluble Protein,1,-0.175248,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"Quinol monooxygenase YgiN [Energy production and conversion];
+","cl42737	
+",1.82E-30,low complexity	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"Dimeric alpha+beta barrel	,PA3566-like	","1.44e-24
+,0.00000497
+",Antibiotic biosynthesis monooxygenase (3.30.70.100/FF/53)	,1.20E-04,Antibiotic biosynthesis monooxygenase,1.10E-16,  ABM domain profile ,16.93,,"	Rv0790c	",Neighborhood,0.728,,PROBABLE NON-ALLERGEN,P16671,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.4366,,Metabolism Molecule,2.7490728,,"	Chain A, Structure of Rv0793 from Mycobacterium tuberculosis","1Y0H_A",3.00E-65,,"With reduced flavin or flavoprotein as one donor and incorporation of one atom of oxygen
+",Acting on paired donors with incorporation or reduction of molecular oxygen	,Oxidoreductases,no Prediction,noT ENZYME ,NOT ENZYME 
+77,>WP_003404135.1 ,DUF3073 domain-containing protein,Unknown Domain Function,,60,5.25,35.83,12490,-1.677,HYDROPHllic,43.19,6900.41,12,13,0,Unstable,,,cytoplasm,Extracell,"Cell outer membrane.",Unknown,N/A,0,Cytoplasm,,no signal peptide,soluble Protein,0,-1.676667,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"Protein of unknown function (DUF3073); This family of proteins with unknown function appears ...
+","cl12816	",5.31E-19,low complexity	,N/A,"
+Protein of unknown function DUF3073",IPR021426,N/A,N/A,0,N/A,N/A,0,No result,No,0,N/A,0,N/A,0,Protein of unknown function (DUF3073),9.90E-23,no HIT,0,,	Rv0879c,Textmining,0.829,,PROBABLE NON-ALLERGEN,Q13936,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.8549,,Metabolism Molecule,0.99999996,,DUF3073 domain-containing protein,"WP_063741707.1
+",2.00E-33,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,non Enzyme,noT ENZYME ,NOT ENZYME 
+78,>WP_003404362.1,sensor domain-containing protein,Regulatory Protein,Regulatory Protein,214,4.93,84.35,18450,0.015,HYDROPHbic,41.97,22902.76,16,25,0,Unstable,,,secreted,"Cytoplasm. Extracell.
+",cytoplasm,cytoplasmic,Cytoplasmic Protein,1,Cytoplasm,,Signal Peptide,Unknown,0,0.014953,No transmembrane,Secretion (Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"PknH-like extracellular domain; This domain is functionally uncharacterized. It is found as ...
+","cl16552	
+",1.06E-22,low complexity	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,N/A,0,Possible lipoprotein LpqQ (3.40.1000.70/FF/3)	,8.70E-124,", PknH-like extracellular domain",9.90E-35,no HIT,0,,	lprH,Textmining,0.905,,PROBABLE ALLERGEN,78038796,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.588,,cellular Process,1.0156302,,sensor domain-containing protein,"WP_031745215.1
+",2.00E-150,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,non Enzyme,noT ENZYME ,NOT ENZYME 
+79,>WP_003404388.1 ,response regulator transcription factor,Regulatory Protein,Regulatory Protein,216,                   6.10,109.77,7450,0.119,HYDROPHbic,31.75,22916.41,24,26,1,Stable,,,cytoplasm,cytoplasm,cytoplasm,cytoplasmic,Cytoplasmic Protein,1,Cytoplasm,,Signal Peptide,Unknown,0,0.118518,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains [Signal ...
+","COG2197	
+",4.25E-67,REC	,1.02E-29,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"CheY-like        ,CheY-related        ,        C-terminal effector domain of the bipartite response regulators        ,GerE-like (LuxR/UhpA family of transcriptional regulators)        ","6.55e-31
+,0.0006,1.09e-18
+,0.0036
+",Two-component system KDP operon response regulator KdpE (3.40.50.2300/FF/194)	,1.00E-06, Response regulator receiver domain,2.2e-25),"Response regulatory domain profile, LuxR-type HTH domain profile","38.118,19.062",,"narS	","Neighborhood
+Cooccurence
+Experiments
+Databases
+Textmining",0.986,,PROBABLE NON-ALLERGEN,O75155,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.5609,,Virulence factors,1.7829188,,putative nitrate/nitrite response transcriptional regulatory protein NARL,"AFE15805.1",8.00E-148,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,2.-.-.-	0.48,noT ENZYME ,NOT ENZYME 
+80,>WP_003404606.1,MarR family transcriptional regulator,Regulatory Protein,Regulatory Protein,143,10.29,102.45,5500,-0.085,HYDROPHllic,47.53,15575.92,19,17,0,Unstable,,,cytoplasm,cytoplasm,cytoplasm,cytoplasmic,Periplasmic Protein,1,Cytoplasm,,no signal peptide,soluble Protein,1,-0.084615,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,"helix_turn_helix multiple antibiotic resistance protein;
+","smart00347	
+",1.33E-25,HTH_MARR	,9.61E-26,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"""Winged helix"" DNA-binding domain	,MarR-like transcriptional regulators	","9.9e-25,0.0013
+","Transcriptional regulator, MarR family (1.10.10.10/FF/549)	",1.90E-04,MarR family,8.80E-14, MarR-type HTH domain profile ,25.148,,Rv0324,Textmining,0.889,,PROBABLE NON-ALLERGEN,P08823,No Result,No Result,No Result,No Result,0,,Probable NON-ANTIGEN ,0.3116,,cellular Process,1.6652978,,MarR family transcriptional regulator,"WP_052651292.1
+",4.00E-86,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,non Enzyme,noT ENZYME ,NOT ENZYME 
+81,>WP_003404684.1,OmpA family protein,Virulent protein,,326,6.84,94.02,18450,0.035,HYDROPHbic,31.15,33574.15,28,28,1,Stable,,,	outer membrane,Cell membrane. Extracell.,Cell inner membrane.,CytoplasmicMembrane,"Periplasmic Protein
+",0,Extracellular,,no signal peptide,Membrane Protein,2,0.035276,Experiment,No Secretion (No Signal Peptide),Transmembrane	,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction Glycosylation prediction,,Outer membrane protein OmpA and related peptidoglycan-associated (lipo)proteins,COG2885,1.90E-42,transmembrane region	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,"cell outer membrane ,
+membrane ","GO:0009279,GO:0016020",1,"OmpA-like	,OmpA-like	","4.45e-34
+,0.001
+",OmpA family protein (3.30.1330.60/FF/27)	,1.10E-10,OmpA family,1.20E-20, OmpA-like domain profile,N/A,,nuoI,"Experiments
+Databases
+Textmining",0.998,,PROBABLE NON-ALLERGEN,Q653V7,Hae in P6,Haemophilus influenzae,OmpA-like (SSF103088),E1XA16,1/1 (100.0%),,Probable ANTIGEN ,0.6559,,cellular Process	,2.4155807,,peptidoglycan-binding protein ArfA,WP_142757479.1,5.00E-161,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,1.-.-.-	0.48,noT ENZYME ,NOT ENZYME 
+82,>WP_003404747.1, PPE family protein,Virulent Protein,,423,4.56,86.86,50420,0.289,HYDROPHbic,35.21,41439.77,12,26,1,Stable,,,periplasm,Cytoplasm. Extracell.,Cell inner membrane.,CytoplasmicMembrane,Extracellular Protein,1,Extracellular,,no signal peptide,Membrane Protein,5,0.288653,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction Glycosylation prediction,,"	
+PPE-repeat protein [Function unknown];",cl35037,4.60E-48,low complexity	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"PE/PPE dimer-like        ,PPE","6.28e-61
+,0.0000687",PPE family protein PPE41 (1.20.1260.20/FF/1)	,1.20E-61,PPE family,5.20E-60,Regulator of chromosome condensation (RCC1) signature 2 ,N/A,,PE7,"Neighborhood
+Textmining",0.949,,PROBABLE NON-ALLERGEN,Q7F8U7,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.6844,,Virulence factors,-0.37962238,,PPE family protein,WP_003404747.1,0,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,no Prediction,noT ENZYME ,NOT ENZYME 
+83,>WP_003404748.1,PE family protein,Virulent Protein,,99,7.98,97.68,2980,                 0.620,HYDROPHbic,32.67,9917.44,5,4,1,Stable,,,secreted,Extracell.,Cell inner membrane.,  Unknown,Extracellular Protein,1,Extracellular,,Signal Peptide,Unknown,0,0.620202,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,PE family; This family named after a PE motif near to the amino terminus of the domain,"cl03022	",1.06E-16,low complexity	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"	PE/PPE dimer-like,PE","1.05e-17
+,0.0071
+",PE family protein PE22 (1.10.287.850/FF/6)	,1.10E-07, PE family,7.30E-25,no HIT,0,,PPE14,"Neighborhood
+Textmining",0.949,,PROBABLE NON-ALLERGEN,Q942A7,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.6253,,cellular Process	,1.1263102,,PE family protein,WP_140030714.1,2.00E-43,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,non Enzyme,noT ENZYME ,NOT ENZYME 
+84,>WP_003404769.1 ,oxidoreductase,Enzyme ,,263,5.49,107.79,4470,                 0.410,HYDROPHbic,25.36,          26745.70,19,24,1,Stable,,,cytoplasm,Cytoplasm.,Cytoplasm.,Cytoplasmic,Cytoplasmic Protein,1,Cytoplasm,,Signal Peptide,Unknown,1,0.409886,No transmembrane,Secretion (Signal Peptide),Signal Peptide,No signal peptide,Signal peptide,secretory peptide,Phosphorylation prediction,,"SDR family oxidoreductase;",RK07814,9.65E-161,low complexity	,N/A,Short-chain dehydrogenase/reductase SDR ,IPR002347,oxidoreductase activity ,GO:0016491,1,N/A,N/A,0,No result,No,0,"NAD(P)-binding Rossmann-fold domains	,Tyrosine-dependent oxidoreductases	","1.84e-75
+,0.0000144
+",Glucose 1-dehydrogenase (3.40.50.720/FF/1545)	,1.00E-33,Enoyl-(Acyl carrier protein) reductase,3.30E-56,Ribosomal protein L24 signature,N/A,,	pstS3,Textmining,0.924,,PROBABLE NON-ALLERGEN,Q42876,Unknown,Sesamum indicum,No Result,A0A0A6YYW2,1/1 (100.0%),,Probable ANTIGEN ,0.5992,,Virulence factors,0.15991358,,oxidoreductase,AMC49607.1,0,,With NAD or NADP as acceptor,Acting on the CH-OH group of donors	,Oxidoreductases,1.1.1.-	1.0,noT ENZYME ,NOT ENZYME 
+85,>WP_003404823.1,STAS domain-containing protein [,Transport Protein,,257,9.98,101.36,34490,0.139,HYDROPHbic,47.75,27170.12,27,21,0,Unstable,,,cytoplasm,Extracell.,Cell inner membrane.,CytoplasmicMembrane  ,Inner-membrane Protein,1,Cytoplasm,,no signal peptide,Membrane Protein,1,0.139299,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction Glycosylation prediction,,"	
+Histidine kinase-like ATPase domain; This superfamily includes the histidine kinase-like ..",cl00075,1.91E-08,low complexity	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"SpoIIaa-like	,
+	Anti-sigma factor antagonist SpoIIaa","0.0000000000114,0.014
+",PAS sensor protein (3.30.565.10/FF/28)	,2.90E-12,STAS domain,9.20E-11,STAS domain profile,13.603,,Rv1364c,"Cooccurence
+Experiments
+Databases
+Textmining",0.999,,PROBABLE NON-ALLERGEN,Q8RVT7,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.5764,,cellular Process,2.0363331,,STAS domain-containing protein,WP_003404823.1,2.00E-180,,"Phosphotransferases with an alcohol group as acceptor",Transferring Phosphorus-Containing Groups,Transferases,2.-.-.-	0.73,noT ENZYME ,NOT ENZYME 
+86,>WP_003404833.1,: mycolyltransferase,Enzyme ,,76,10.21,83.42,8480,-0.313,HYDROPHIlic,50.26,8431.59,10,7,0,Unstable,,,secreted,Extracell.,Cell outer membrane. Extracell. Periplasm., Extracellular ,Outer Membrane Protein,1,Extracellular,,no signal peptide,soluble Protein,0,-0.313158,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,N/A,,N/A,N/A,N/A,N/A,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,N/A,0,Diacylglycerol acyltransferase/mycolyltransferase Ag85C (3.40.50.1820/FF/86)	,3.70E-11,N/A,0,no HIT,0,,	aftB,"Cooccurence
+Databases",0.959,,PROBABLE NON-ALLERGEN,Q2V992,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.6097,,cellular Process,0.97703214,,hypothetical protein MRA_0954,ABQ72687.1,1.00E-47,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,3.-.-.-	0.51,noT ENZYME ,NOT ENZYME 
+87,>WP_003405053.1 ,50S ribosomal protein L32,Translational Protein,,57,12.18,78.77,5500,-0.789,HYDROPHIlic,90.22,6506.69,17,3,0,Unstable,,,cytoplasm,Cell membrane. Cytoplasm. Extracell.,Extracell., Cytoplasmic  ,N/A,1,Cytoplasmic  ,,no signal peptide,soluble Protein,0,-0.789474,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,N/A,N/A,N/A,low complexity	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"Zn-binding ribosomal proteins	,Ribosomal protein L32p	","0.0000000888
+,0.02",N/A,0, Ribosomal L32p protein family,5.40E-10,no HIT,0,,rpsR1,"Experiments
+Textmining",0.959,,PROBABLE NON-ALLERGEN,Q9UK58,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.67,,cellular Process,0.97081371,,hypothetical protein MTR2092_10100,BCX20916.1,2.00E-30,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,non Enzyme,noT ENZYME ,NOT ENZYME 
+88,>WP_003405142.1,FmdB family transcriptional regulator,Regulatory Protein,Regulatory Protein,110,                  9.00,34.64,4470,-0.673,HYDROPHIlic,40.64,11458.41,14,10,0,Unstable,,,secreted,Extracell.,Cell inner membrane,Unknown,Cytoplasmic Protein,0,Extracellular,,no signal peptide,soluble Protein,0,-0.672727,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Glycosylation prediction,,"Predicted nucleic acid-binding protein, contains Zn-ribbon domain",cl43673,1.77E-40,CxxC_CXXC_SSSS	,1.80E-12,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,N/A,0,N/A,0,Zinc ribbon domain,9.50E-14,no HIT,0,,sigE,Textmining,0.785,,PROBABLE NON-ALLERGEN,Q9NXV6,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,1.1600,,cellular Process,0.90608183,,zinc ribbon domain-containing protein,	WP_044291756.1,1.00E-68,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,non Enzyme,noT ENZYME ,NOT ENZYME 
+89,>WP_003405305.1 ,response regulator,Regulatory Protein,Regulatory Protein,226,5.43,102.74,25440,-0.081,HYDROPHIlic,33.87,24741.41,26,32,1,Stable,,,cytoplasm,Cytoplasm.,Cytoplasm.,Cytoplasmic            ,Cytoplasmic Protein,1,Cytoplasmic  ,,no signal peptide,soluble Protein,1,-0.080974,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction,,DNA-binding transcriptional activator KdpE; Provisional,	cl32528,1.36E-85,REC	,1.24E-42,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"CheY-like	,CheY-related	","1.57e-42
+,0.00018
+",Winged-helix transcriptional response regulator KdpE (1.10.10.10/FF/210)	,1.00E-39,Response regulator receiver domain,1.90E-26,"Response regulatory domain profile,OmpR/PhoB-type DNA-binding domain profile ","42.913,40.959",,kdpD,"Neighborhood
+Cooccurence
+Experiments
+Databases
+Textmining",0.999,,PROBABLE NON-ALLERGEN,P11586,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.5479,,cellular Process,1.0133861,,two-component system response regulator KdpE ,WP_031678377.1,2.00E-160,,With a quinone or similar compound as acceptor,Acting on NADH or NADPH,Oxidoreductases,2.-.-.-	0.52,noT ENZYME ,NOT ENZYME 
+90,>WP_003405316.1 , K(+)-transporting ATPase subunit F,Enzyme ,,30,4.37,146.33,                  N/A,                1.700,HYDROPHbic,29.01,3256.01,1,2,1,Stable,,,inner membrane,N/A,N/A,CytoplasmicMembrane  ,N/A,0,Extracellular,,no signal peptide,Membrane Protein,1,1.700000,Prediction,Secretion (Signal Peptide),Transmembrane	,No signal peptide,Signal peptide,secretory peptide,N/A,,N/A,N/A,N/A,low complexity	,N/A,"K+ transporting P-type ATPase, F subunit ",IPR011726,P-type potassium transmembrane transporter activity ,GO:0008556,1,regulation of ATP-dependent activity ,GO:0043462,1,plasma membrane ,GO:0005886,1,N/A,0,N/A,0,F subunit of K+-transporting ATPase (Potass_KdpF),4.10E-09,NO HIT,0,,"kdpA	
+kdpC","Neighborhood
+Textmining",0.978,,PROBABLE NON-ALLERGEN,P13547,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.7807,,Metabolism Molecule,2.2022364,,hypothetical protein MT1057.1 ,AAT90142.1,4.00E-24,,N/A,N/A,N/A,N/A,N/A,N/A
+91,>WP_003405324.1 ,HAMP domain-containing histidine kinase,Enzyme ,,509,5.45,104.18,43430,0.008,HYDROPHbic,30.94,54590.91,43,58,1,Stable,,,	inner membrane,Cell membrane.,Cell inner membrane., CytoplasmicMembrane ,Cytoplasmic Protein,1,Cytoplasmic  ,,no signal peptide,Membrane Protein,2,0.007858,TOPDOM,Secretion (Signal Peptide),Transmembrane,No signal peptide,Signal peptide,secretory peptide,Phosphorylation prediction Glycosylation prediction,,Signal transduction histidine kinase [Signal transduction mechanisms];,COG0642,4.12E-44,HAMP	,0.00000413,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"	ATPase domain of HSP90 chaperone/DNA topoisomerase II/histidine kinase,Histidine kinase	,Homodimeric domain of signal transducing histidine kinase	,Homodimeric domain of signal transducing histidine kinase	","4.58e-35
+,0.0077
+,4.71e-17
+,0.0025",Two-component sensor histidine kinase (3.30.565.10/FF/244)	,1.00E-20," Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",2.20E-22,"HAMP domain profile,Histidine kinase domain profile","7.771,43.606",,	trcR,"Neighborhood
+Cooccurence
+Databases
+Textmining",0.999,,PROBABLE NON-ALLERGEN,Q8RVT7,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.6065,,Metabolism Molecule,-0.40190922,,HAMP domain-containing sensor histidine kinase ,	WP_003405324.1,0,,Protein-histidine kinases,Protein-histidine kinases,Transferases,2.7.13.3	0.99,noT ENZYME ," Enzyme protein
+	2.-.-.- Transferases
+	2.7.-.- Transferring phosphorous-containing groups"
+92,>WP_003405345.1 ,WXG100 family type VII secretion target,Secretory protein,,98,5.17,55.92,12490,-0.597,HYDROPHIlic,41.14,10993.21,8,12,0,Unstable,,,secreted,Extracell.,Cell inner membrane.,Unknown,Periplasmic Protein,0,Extracellular,,no signal peptide,soluble Protein,0,-0.596939,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Glycosylation prediction ,,"            
+Proteins of 100 residues with WXG; ESAT-6 is a small protein appears to be of fundamental ",        cl02005	,5.51E-12,N/A,N/A,Type VII secretion system ESAT-6-like ,IPR010310,N/A,N/A,0,N/A,N/A,0,No result,No,0,"EsxAB dimer-like	,ESAT-6 like	","1.83e-20
+.0.0053
+",ESAT-6-like protein (1.10.287.1060/FF/6)	,1.20E-64, Proteins of 100 residues with WXG,1.40E-19,NO HIT,0,,	esxI,"Neighborhood
+Textmining",0.936,,PROBABLE NON-ALLERGEN,O64961,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.5397,,Virulence factors,0.48196303,,type VII secretion system ESX-5 protein EsxJ,	WP_003405345.1,2.00E-65,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,non Enzyme,noT ENZYME ,NOT ENZYME 
+93,>WP_003405370.1 ,PE domain-containing protein ,Virulent Protein,,275,4.19,92.00,22460,0.521,HYDROPHbic,33.97,26224.65,5,16,1,Stable,,,	periplasm,Extracell.,Cell inner membrane.,CytoplasmicMembrane,Extracellular Protein,1,Extracellular,,Signal Peptide,Unknown,3,0.521091,No transmembrane,Secretion (Signal Peptide),SignalPeptide,No signal peptide,Signal peptide,secretory peptide,Phosphorylation prediction  Glycosylation prediction,,"Polymorphic PE/PPE proteins C terminal; This domain family is found in bacteria, and is ...",	cl13865,1.08E-10,low complexity	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"PE/PPE dimer-like	,PE","1.94e-21
+,0.0046",PE family protein PE22 (1.10.287.850/FF/6)	,3.20E-09,PE family,4.90E-27,NO HIT,0,,PPE15,"Neighborhood
+Experiments
+Textmining
+[Homology]",0.95,,PROBABLE ALLERGEN,11991227,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.5206,,Metabolism Molecule,0.4447694,,PE domain-containing protein       , WP_050169010.1,6.00E-151,,"Phosphotransferases with an alcohol group as acceptor",Transferring Phosphorus-Containing Groups        ,Transferases,non Enzyme,noT ENZYME ,NOT ENZYME 
+94,>WP_003405514.1 ,trypsin-like peptidase domain-containing protein,Enzyme ,,341,5.05,90.65,40910,                0.050,HYDROPHbic,26.32,          36089.00,21,35,1,Stable,,,outer membrane,Extracell.,Periplasm.,   Unknown,Cytoplasmic Protein,0,Cytoplasmic  ,,Signal Peptide,Unknown,0,0.050147,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction  Glycosylation prediction,,"        
+Trypsin-like serine protease; Many of these are synthesized as inactive precursor zymogens ...
+  
+ 
+
+",cl21584  ,6.95E-15,N/A,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"Trypsin-like serine proteases	,Prokaryotic proteases	","2.24e-26
+,0.0071
+",N/A,0,Trypsin-like peptidase domain,1.30E-17,NO HIT,0,,Rv1045,"Neighborhood
+Cooccurence",0.806,,PROBABLE NON-ALLERGEN,O75106,No Result,No Result,No Result,No Result,0,,Probable NON-ANTIGEN,0.3914,,Virulence factors,1.3355862,, hypothetical protein RO48_16550         , KHS01947.1,2.00E-145,,Serine proteases,Peptidase,Hydrolases,non Enzyme,noT ENZYME ,NOT ENZYME 
+95,>WP_003405622.1 ,YncE family protein ,Unknown Domain Function,,393,5.32,91.73,21890,0.055,HYDROPHbic,30.21,40710.61,32,37,1,Stable,,,	secreted,Extracell.,Cytoplasm.,Unknown,Extracellular Protein,1,Extracellular,,no signal peptide,soluble Protein,0,0.055471,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction ,," DNA-binding beta-propeller fold protein YncE [General function prediction only];
+      
+ ",  COG3391   ,2.01E-34,low complexity	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"	C-terminal (heme d1) domain of cytochrome cd1-nitrite reductase	C-terminal (heme d1) domain of cytochrome cd1-nitrite reductase	,	C-terminal (heme d1) domain of cytochrome cd1-nitrite reductase	,	C-terminal (heme d1) domain of cytochrome cd1-nitrite reductase	","4.45e-36
+,0.02
+,0.0000000034
+,0.037
+",3-carboxymuconate cyclase (2.130.10.10/FF/306)	,1.20E-04,"Lactonase, 7-bladed beta-propeller",0.04,TonB-dependent receptor (TBDR) proteins signature 1,N/A,,	Rv1056,Textmining,0.754,,PROBABLE ALLERGEN,P69327,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.6289,,cellular Process,1.7512275,,conserved hypothetical protein  ,ABR05418.1,0,,Carboxylic Ester Hydrolases,Acting on Ester Bonds	,Hydrolases,3.4.21.-	0.92,noT ENZYME ,NOT ENZYME 
+96,>WP_003405744.1 ,DUF4307 domain-containing protein ,Unknown Domain Function,,144,10.75,96.04,7450,0.003,HYDROPHbic,44.22,15384.74,19,10,0,Unstable,,,inner membrane,Extracell.,Periplasm.,Unknown,Periplasmic Protein,0,Extracellular,,no signal peptide,Membrane Protein,2,0.003472,Prediction,Secretion (Signal Peptide),Transmembrane,No signal peptide,Signal peptide,secretory peptide,Glycosylation prediction,," Domain of unknown function (DUF4307); This family of proteins is functionally uncharacterized. ...
+ 
+",cl16664	,3.25E-30,low complexity	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"beta-Galactosidase/glucuronidase domain,beta-Galactosidase/glucuronidase domain		","3.29e-02
+,0.071
+",N/A,0,Domain of unknown function (DUF4307),4.10E-35,NO HIT,0,,Rv1083,Neighborhood,0.764,,PROBABLE ALLERGEN,P69327,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.7221,,Metabolism Molecule,2.641239,,Conserved membrane protein of uncharacterised function ,CLZ59083.1,1.00E-93,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,non Enzyme,noT ENZYME ,NOT ENZYME 
+97,>WP_003405770.1,"endo-1,4-beta-glucanase",Enzyme ,,34,                  6.20,63.24,8480,-0.179,HYDROPHIlic,20.64,3489.89,0,1,1,Stable,,,	secreted,N/A,N/A,Extracellular ,Extracellular Protein,1,Extracellular,,no signal peptide,soluble Protein,0,-0.179412,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Glycosylation prediction,,N/A,N/A,N/A,N/A,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,N/A,0,N/A,0,N/A,0,NO HIT,0,,	celA2b,"Neighborhood
+Textmining",0.958,,PROBABLE NON-ALLERGEN,Q6UX39,No Result,No Result,No Result,No Result,0,, Probable ANTIGEN ,0.6577,,cellular Process	,1.3300362,,hypothetical protein [Mycobacterium tuberculosis]	Mycobacterium tuberculosis		,WP_079020594.1,5.00E-16,,N/A,N/A,N/A,N/A,N/A,N/A
+98,>WP_003405863.1 , type II toxin-antitoxin system VapB family antitoxin,Toxin-Antitoxin System(TA system),,65,11.18,91.69,                    N/A,-0.365,HYDROPHIlic,51.66,6973.03,12,7,0,Unstable,,,        cytoplasm,Extracell,Extracell.,"    Unknown
+",Cytoplasmic Protein,1,  cytoplasm,,no signal peptide,soluble Protein,1,-0.364615,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction ,,"
+Bacterial antitoxin of type II TA system, VapB; VapB is the antitoxin of a bacterial ...
+",	cl26582	,2.22E-08,low complexity	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,N/A,0,N/A,0,"Bacterial antitoxin of type II TA system, VapB",3.10E-12,NO HIT,0,,"vapC32	","Neighborhood
+Cooccurence",0.972,,PROBABLE NON-ALLERGEN,P08823,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.6874,,Metabolism Molecule,1.4782391,,type II toxin-antitoxin system VapB family antitoxin ,WP_102821829.1,2.00E-34,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,non Enzyme,noT ENZYME ,NOT ENZYME 
+99,>WP_003405919.1 ,PPE family protein,Virulent Protein,,618,4.12,64.50,41940,-0.074,HYDROPHIlic,7.97,60206.53,6,25,1,Stable,,,secreted,Cytoplasm. Extracell.,Cell inner membrane. Fimbrium.,Cytoplasmic Membrane,Extracellular Protein,1, cytoplasm,,Signal Peptide,Unknown,0,-0.074434,No transmembrane,Secretion (Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction Glycosylation prediction,,"        
+PPE-repeat protein [Function unknown];
+
+ 
+",cl35037,6.51E-38,low complexity	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"PE/PPE dimer-like	,PPE","2.62e-56,0.00015
+
+",PPE family protein (1.20.1260.20/FF/3)	,2.90E-05, PPE family,1.60E-56,NO HIT,0,,	Rv0610c,Textmining,0.867,,PROBABLE NON-ALLERGEN,Q96IK1,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.6754,,Virulence factors	,1.2770266,,PPE family protein	,AKO24161.1,0,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,N/A,noT ENZYME ,NOT ENZYME 
+100,>WP_003406063.1 ,DUF5302 domain-containing protein ,Virulent Protein,,62,10.35,17.42, N/A,-1.674,HYDROPHIlic,102.92,6793.4,15,9,0,Unstable,,,	secreted,Cell membrane. Extracell.,Cytoplasm.,   Unknown,N/A,0,Cytoplasm.,,no signal peptide,soluble Protein,0,-1.674194,No transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction ,,"         
+Family of unknown function (DUF5302); Family of unknown function found in Actinobacteria with ...
+",   cl38518    ,5.50E-14,low complexity	,N/A,"
+Protein of unknown function DUF5302 ",IPR03517,N/A,N/A,0,N/A,N/A,0,No result,No,0,N/A,0,N/A,0,Family of unknown function (DUF5302),3.80E-21,NO HIT,0,,NA,NA,NA,,PROBABLE NON-ALLERGEN, P46100,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,1.3384,,cellular Process,0.8431106,,domain-containing protein,WP_052624166.1,1.00E-33,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,non Enzyme,noT ENZYME ,NOT ENZYME 
+101,>WP_003406090.1,nitrate reductase subunit beta,Enzyme ,,558,                   5.90,78.82,100730,-0.298,HYDROPHIlic,42.41,62037.83,59,66,0,Unstable,,,periplasm,Cytoplasm.,Periplasm., CytoplasmicMembrane ,Periplasmic Protein,1,Cytoplasm.,,no signal peptide,soluble Protein,0,-0.298029,no transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction Glycosylation prediction,,"	
+Nitrate reductase beta subunit [Energy production and conversion, Inorganic ion transport and ...
+",COG1140,0.00E+00,low complexity	,N/A,"Nitrate reductase, beta subunit ",IPR006547,nitrate reductase activity ,GO:0008940,1,nitrate metabolic process ,GO:0042126,1,nitrate reductase complex ,GO:0009325),1,"	4Fe-4S ferredoxins	,	Ferredoxin domains from multidomain proteins	","2.62e-156,0.000000000114
+",Electron transport protein hydN (3.30.70.20/FF/28)	,1.50E-06,4Fe-4S dicluster domain,3.80E-36,4Fe-4S ferredoxin-type iron-sulfur binding domain profile ,8.105,,"narG	
+narJ	
+narI	
+narX","Neighborhood
+Gene Fusion
+Cooccurence
+Coexpression
+Experiments
+Databases
+Textmining",0.999,,PROBABLE NON-ALLERGEN,Q9H1A4,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.4862,,Virulence factors,1.4649027,,nitrate reductase subunit beta		,WP_003406090.1,0,,With unknown physiological acceptors,Acting on other nitrogenous compounds as donors,Oxidoreductases,1.12.-.-        0.88,"Enzyme protein
+	1.-.-.- Oxidoreductases
+	1.7.-.- Acting on other nitrogenous compounds as donors
+",ENZYME
+102,>WP_003406095.1 ,respiratory nitrate reductase subunit gamma ,Enzyme ,,246,                  9.80,109.07,74370,0.446,HYDROPHbic,47.45,28058.11,23,14,0,Unstable,,,inner membrane,Cell membrane,Cell inner membrane.,   CytoplasmicMembrane,Inner-membrane Protein,0,cytoplasm,,Signal Peptide,Membrane Protein,5,0.446342,Experiment,No Secretion (No Signal Peptide),Transmembrane,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction ,,"Nitrate reductase gamma subunit; This family is the gamma subunit of the nitrate reductase ...
+",cl00959,8.04E-108,transmembrane region	,N/A,"Nitrate reductase, gamma subunit ",IPR003816,nitrate reductase activity ,GO:0008940,1,N/A,N/A,0,nitrate reductase complex ,GO:0009325),1,"Respiratory nitrate reductase 1 gamma chain	,Respiratory nitrate reductase 1 gamma chain	","7.85e-63,0.0000489
+",Respiratory nitrate reductase subunit gamma (1.20.950.20/FF/1)	,5.00E-82,Nitrate reductase gamma subunit,8.10E-86,NO HIT,0,,"narG
+narH	
+narJ","Neighborhood
+Cooccurence
+Coexpression
+Databases
+Textmining",0.999,,PROBABLE NON-ALLERGEN,P02730,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.4929,,cellular Process,2.5916547,,respiratory nitrate reductase subunit gamma ,WP_003406095.1,8.00E-177,,"With other known physiological acceptors
+",Acting on a sulfur group of donors,Oxidoreductases,1.-.-.-	0.93,"is an Enzyme protein
+	1.-.-.- Oxidoreductases
+	1.7.-.- Acting on other nitrogenous compounds as donors
+",ENZYME
+103,>WP_003406169.1 ,hemophore-related protein,Transport Protein,,110,4.68,94.27,5960,0.457,HYDROPHbic,33.4,10881.34,3,4,1,Stable,,,periplasm,Extracell.,Fimbrium., CytoplasmicMembrane ,Extracellular Protein,1,Extracellular,,Signal Peptide,Membrane Protein,0,0.457273,no transmembrane,Secretion (Signal Peptide),SignalPeptide,Signal Peptide ,Signal peptide,secretory peptide,Glycosylation prediction,,"
+Haemophore, haem-binding; MHB is a coiled-coil molecule that binds free haem in mycobacterial ...
+","cl23851        
+16","
+ 9.07e-",low complexity	,N/A,Uncharacterised conserved protein UCP010611 ,IPR016572,heme binding ,N/AGO:0020037,1,N/A,N/A,0,No result,No,0,N/A,0,N/A,0,N/A,0,NO HIT,0,,	esxH,Textmining,0.846,,PROBABLE NON-ALLERGEN,Q7F8U7,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.6316,,Metabolism Molecule,0.92139446,,hemophore-related protein [Mycobacterium tuberculosis,WP_049956237.1,9.00E-69,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,NON ENZYME,NOT ENZYME ,NOT ENZYME 
+104,>WP_003406196.1, AMP-binding protein,Regulatory Protein,Regulatory Protein,578,5.21,88.27,69330,-0.128,HYDROPHllic,43.82,62756.88,48,67,0,Unstable,,,	cytoplasm,Cytoplasm.,Cytoplasm.,Cytoplasmic,Periplasmic Protein,1,Cytoplasm.,,no signal peptide,soluble Protein,0,-0.127509,no transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction Glycosylation prediction,,"fatty-acid--AMP ligase FAAL21/FadD21;
+	",NF038337,0.00E+00,N/A,N/A,Fatty acyl-AMP ligase /fatty acyl-CoA ligase ,IPR040097,N/A,N/A,0,lipid biosynthetic process ,GO:0008610,1,NO result,No,0,"Acetyl-CoA synthetase-like	,	Acetyl-CoA synthetase-like","2.35e-94
+,0.00021
+",Fatty-acid-CoA ligase FadD26 (3.30.300.30/FF/16)	,1.00E-56, AMP-binding enzyme,1.40E-71,NO HIT,0,,chp2,Textmining,0.878,,PROBABLE NON-ALLERGEN,Q9H1A4,No Result,No Result,No Result,No Result,0,, Probable ANTIGEN ,0.4315,,Metabolism Molecule,0.64223924,,fatty-acid--AMP ligase FAAL21/FadD21 ,WP_057337716.1,0.00E+00,,"Acid-Thiol Ligases
+",Forming Carbon-Sulfur Bonds,Ligases,6.2.1.-	0.99,"is an Enzyme protein
+	6.-.-.- Ligases
+	6.2.-.- Forming carbon-sulfur bonds",ENZYME
+105,>WP_003406207.1 ,RNA polymerase sigma factor SigI ,Transcription Protein,,290,6.06,108.62,24980,0.090,HYDROPHbic,40.1,31431.07,31,36,0,Unstable,,,cytoplasm,Cell membrane. Cytoplasm.,Cell inner membrane.,Cytoplasmic,"Cytoplasmic Protein
+
+
+",1,Cytoplasm.,,no signal peptide,soluble Protein,1,0.090345,no transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction Glycosylation prediction,,"RNA polymerase sigma factor SigI; Provisional
+1-290	","PRK09635	
+
+ ",6.98E-177,N/A,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"        Sigma3 and sigma4 domains of RNA polymerase sigma factors        ,
+        Sigma4 domain,Sigma2 domain of RNA polymerase sigma factors	,Sigma2 domain of RNA polymerase sigma factors	","0.0000000000012,0.01,0.00000000000471,0.0087
+",RNA polymerase sigma factor (1.10.1740.10/FF/16)	,1.10E-04,"Sigma-70, region 4",(3.3e-11,NO HIT,0,,	Rv1190,Neighborhood,0.872,,PROBABLE NON-ALLERGEN,Q8RVT7,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.4547,,Metabolism Molecule,2.3403262,,RNA polymerase subunit sigma,TXB93215.1,1.00E-105,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,2.-.-.-	0.52,NOT ENZYME ,NOT ENZYME 
+106,>WP_003406222.1,PE family protein,Virulent protein,,99,4.56,82.42,4470,0.593,HYDROPHbic,41.93,9615.71,1,6,0,Unstable,,,secreted,"Extracell.
+ 
+",Cell inner membrane. Fimbrium.,  Unknown,Extracellular Protein,1,Extracellular,,Signal Peptide,Unknown,0,0.592929,no transmembrane,Secretion (Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Glycosylation prediction,,"PE family; This family named after a PE motif near to the amino terminus of the domain. The PE .
+","	cl03022	
+
+ 
+",8.90E-10,low complexity	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"PE/PPE dimer-like	,PE","6.02e-24,0.0026
+",PE family protein PE25 (1.10.287.850/FF/3)	,2.90E-08,PE family,5.30E-30,NO HIT,0,,	PPE18,"Neighborhood
+Textmining",0.967,,PROBABLE ALLERGEN,11991227,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.6246,,cellular Process,0.87216689,,PE family protein,WP_003406222.1,9.00E-57,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,NON ENZYME,NOT ENZYME ,NOT ENZYME 
+107,>WP_003406249.1 ,glucose-1-phosphate adenylyltransferase,Enzyme ,,404,5.09,90.69,49850,-0.099,HYDROPHllic,24.12,43800.39,39,34,1,Stable,,,Cytoplasm.,Cytoplasm.,Cytoplasm.,Unknown,Cytoplasmic Protein,1,Cytoplasm,,Signal Peptide,Unknown,0,-0.098763,no transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction ,,"0glucose-1-phosphate adenylyltransferase; Provisional
+",PRK00844        ,0.00E+00,low complexity	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"        Nucleotide-diphospho-sugar transferases        ,glucose-1-phosphate thymidylyltransferase,	Trimeric LpxA-like enzymes	,GlmU C-terminal domain-like","1.1e-70,0.0000141
+,
+7.62e-17,0.0087
+",Glucose-1-phosphate adenylyltransferase (2.160.10.10/FF/22)	,1.20E-06, Nucleotidyl transferase,1.60E-73,ADP-glucose pyrophosphorylase signature 1,N/A,,glgA,"Neighborhood
+Cooccurence
+Databases
+Textmining",0.999,,PROBABLE NON-ALLERGEN,P23509,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.4611,,cellular Process,1.1376331,,glucose-1-phosphate adenylyltransferase ,"        
+WP_003406249.1",0.00E+00,,Methyltransferases,Transferring One-Carbon Groups,Transferases,2.7.7.27	1.0,"is an Enzyme protein
+	2.-.-.- Transferases
+2.7.-.- Transferring phosphorous-containing groups",ENZYME
+108,>WP_003406250.1, PE family protein,Virulent protein,,110,4.51," 99.00
+",2980,0.583,HYDROPHbic,29.85,10846.18,2,6,1,Stable,,,secreted,Extracell.,Cell inner membrane,CytoplasmicMembrane  ,"Extracellular Protein
+",1,Cytoplasm,,Signal Peptide,Unknown,0,0.582727,no transmembrane,Secretion (Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction Glycosylation prediction,,"PE family; This family named after a PE motif near to the amino terminus of the domain. The PE ...
+"," cl03022        
+",5.90E-09,low complexity	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"PE/PPE dimer-like	,PE","1.52e-24,0.0051
+
+",PE_PGRS39 (1.10.287.850/FF/1)	,1.20E-26,PE family,6.10E-31,NO HIT,0,,"Rv1215c	",Neighborhood,0.538,,PROBABLE ALLERGEN,11991227,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.4282,,Metabolism Molecule,1.1687333,,PE family protein ,CKN59215.1,4.00E-66,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,no Prediction,NOT ENZYME ,NOT ENZYME 
+109,>WP_003406302.1, type II toxin-antitoxin system antitoxin VapB33,Toxin-Antitoxin System(TA system),,86,6.10,94.19,1490,-0.726,HYDROPHllic,63.36,9918.25,16,17,0,Unstable,,,cytoplasm,cytoplasm,Cell inner membrane. Cytoplasm. Extracell. Periplasm.,Unknown,Cytoplasmic Protein,1,Cytoplasm,,no signal peptide,soluble Protein,1,-0.725581,no transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction ,,N/A,N/A,N/A,low complexity	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"Ribbon-helix-helix,	CopG-like","	1.13e-03
+,0.015",N/A,0,"Ribbon-helix-helix protein, copG family",0.0062,NO HIT,0,,vapC33,Neighborhood,0.855,,PROBABLE ALLERGEN, P80703,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.5404,,cellular Process	,0.79100955,,hypothetical protein MT1279   ,   AAK45537.1,7.00E-53,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,no Prediction,NOT ENZYME ,NOT ENZYME 
+110,>WP_003406322.1 ,type II toxin-antitoxin system Phd/YefM family antitoxin,Toxin-Antitoxin System(TA system),,89,5.10,104.16,2980,-0.154,HYDROPHllic,30.80,9766.97,10,15,1,Stable,,,        cytoplasm, cytoplasm,Cell inner membrane.,Cytoplasmic            ,Cytoplasmic Protein,1, cytoplasm,,no signal peptide,soluble Protein,1,-0.153933,no transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction ,,"Antitoxin component YafN of the YafNO toxin-antitoxin module, PHD/YefM family [Defense ...
+"," cl42773        
+",1.30E-19,N/A,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"YefM-like	,YefM-like	","1.31e-21
+,0.0019",Antitoxin (1.10.1220.170/FF/2)	,1.70E-05,"Antitoxin Phd_YefM, type II toxin-antitoxin system",5.60E-22,NO HIT,0,,relE,"Neighborhood
+Cooccurence
+Textmining",0.999,,PROBABLE NON-ALLERGEN,Q6K9N6,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.5918,,cellular Process,1.1170976,,Conserved protein of uncharacterised function%2C putative antitoxin,CFE39169.1,4.00E-55,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,4.-.-.-	0.54,NOT ENZYME ,NOT ENZYME 
+111,>WP_003406558.1 ,DUF4189 domain-containing protein,Unknown Domain Function,,124,8.76,72.74,25440,0.212,HYDROPHbic,29.27,12550.21,18,7,1,Stable,,,secreted,Extracell.,Fimbrium.,Extracellular ,"Extracellular Protein
+",1,Extracellular,,Signal Peptide,Membrane Protein,0,0.212097,no transmembrane,Secretion (Signal Peptide),signal peptide, Signal Peptide,Signal peptide,secretory peptide,Glycosylation prediction,,"Domain of unknown function (DUF4189); This domain of unknown function contains six ...
+","cl16425	
+",2.11E-15,low complexity	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,N/A,0,N/A,0,Domain of unknown function (DUF4189),1.20E-18, Twin arginine translocation (Tat) signal profile,7.992,,lprA,"Neighborhood
+Cooccurence",0.923,,PROBABLE NON-ALLERGEN, Q42876,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.6789,,cellular Process,2.2812505,,hypothetical protein MT1307,AAK45567.1,6.00E-81,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,3.-.-.-	0.45,NOT ENZYME ,NOT ENZYME 
+112,>WP_003406562.1, LppX_LprAFG lipoprotein,Membrane Protein,Structural Protein,244,5.26,89.59,16960,0.014,HYDROPHbic,18.5,24873.98,18,23,1,Stable,,,periplasm,Cell membrane.,Cell inner membrane.,CytoplasmicMembrane,Periplasmic Protein,0,cytoplasm,,Signal Peptide,Unknown,0,0.013524,no transmembrane,Secretion (Signal Peptide),SignalPeptide,Lipoprotein signal peptide (Sec/SPII),Signal peptide,secretory peptide,Phosphorylation prediction ,,"
+LppX_LprAFG lipoprotein; This entry consists of several lipoproteins mainly from Mycobacterium ",cl06267        ,7.08E-67,transmembrane region	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"	Prokaryotic lipoproteins and lipoprotein localization factors	,	LppX-like","9.81e-50,0.00015
+",Putative conserved lipoprotein LppX (2.50.20.20/FF/1)	,1.20E-13,LppX_LprAFG lipoprotein,1.00E-66,Prokaryotic membrane lipoprotein lipid attachment site profile,5.000,,	lpqH,Textmining,0.931,,PROBABLE ALLERGEN,6684758,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.6673,,Virulence factors,1.0618781,,	Lipoprotein lprA [Mycobacterium tuberculosis variant bovis],CEJ38585.1,1.00E-173,,Phosphotransferases with an alcohol group as acceptor,Transferring Phosphorus-Containing Groups        ,Transferases,NON ENZYME,NOT ENZYME ,NOT ENZYME 
+113,>WP_003406616.1 ,carbonic anhydrase,Enzyme ,,163,5.48,90.86,11460,-0.162,HYDROPHllic,41.3,18188.78,18,23,0,Unstable,,,Cytoplasm.,Cytoplasm.,Cell inner membrane. Cytoplasm., Cytoplasmic ,Cytoplasmic Protein,1,cytoplasm,,no signal peptide,soluble Protein,0,-0.161963,no transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction ,,"Carbonic anhydrases (CA) are zinc-containing enzymes that catalyze the reversible hydration of ...
+","	cd03379	
+",5.30E-67,Pro_CA	,1.88E-24,Carbonic anhydrase ,IPR001765,"zinc ion binding 
+carbonate dehydratase activity ","GO:0008270,GO:0004089",1,N/A,N/A,0,No result,No,0,"beta-carbonic anhydrase, cab	,beta-carbonic anhydrase, cab","4.32e-37
+,0.00018
+",Carbonic anhydrase (3.40.1050.10/FF/1)	,1.00E-04, Carbonic anhydrase,4.10E-12,NO HIT,0,,	canB,"Databases
+Textmining",0.994,,PROBABLE NON-ALLERGEN,A4KZ49,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.5406,,cellular Process,0.47906319,,beta-carbonic anhydrase CanA       ,WP_070890552.1,5.00E-117,,"Hydro-lyases",Carbon-Oxygen Lyases	,Lyases	,4.2.1.1	1.0,NOT ENZYME ,NOT ENZYME 
+114,>WP_003406629.1 ,DUF732 domain-containing protein,Unknown Domain Function,,111,7.8,80.45,2980,0.324,HYDROPHbic,20.05,11025.49,9,8,1,Stable,,,secreted,Extracell.,Cell inner membrane.,Unknown,"Cytoplasmic Protein
+",0,cytoplasm,,Signal Peptide,Unknown,1,0.324324,no transmembrane,Secretion (Signal Peptide),SignalPeptide,Signal Peptide (Sec/SPI),signal peptide,secretory peptide,Glycosylation prediction,,"Protein of unknown function (DUF732); This family consists of several uncharacterized ...
+","	cl05056	
+
+ ",8.22E-15,transmembrane region	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"	An anticodon-binding domain of class I aminoacyl-tRNA synthetases	,C-terminal domain of class I lysyl-tRNA synthetase","9.72e-03,0.088
+",N/A,0,Protein of unknown function (DUF732),4.00E-18,NO HIT,0,,Rv3742c,Textmining,0.658,,PROBABLE NON-ALLERGEN,P93407,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.6742,,Metabolism Molecule,1.5416228,,DUF732 domain-containing protein  , WP_003406629.1,4.00E-70,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,NON ENZYME,NOT ENZYME ,NOT ENZYME 
+115,>WP_003406668.1 , 50S ribosomal protein L31,Translational Protein,,80,9.65,53.5,4470,-0.628,HYDROPHllic,35.44,8753.03,15,7,1,Stable,,,secreted,Cell membrane. Cytoplasm. Extracell.,Cell inner membrane.,    Cytoplasmic            ,Cytoplasmic Protein,1,cytoplasm,,no signal peptide,soluble Protein,0,-0.6275,no transmembrane,No Secretion (No Signal Peptide),No signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction ,,"        
+50S ribosomal protein L31; ",PRK00019        ,9.38E-43,N/A,N/A,"Ribosomal protein L31 
+Ribosomal protein L31 type A ","IPR002150,IPR027491",structural constituent of ribosome ,GO:0003735,1,translation ,GO:0006412,1,ribosome ,GO:0005840,1,"L28p-like	,
+	Ribosomal protein L31p","3.73E-26,0.00016
+",50S ribosomal protein L31 type B (4.10.830.30/FF/2)	,1.10E-09,Ribosomal protein L31,2.40E-32,Ribosomal protein L31 signature,N/A,,"rpsF	
+rplI	
+rplA	
+rpsL	
+rpsG	
+rpsJ	
+rplC	
+rplW	
+rplB	
+rpsS","Coexpression
+Experiments
+Textmining",0.999,,PROBABLE NON-ALLERGEN,Q5SQI0,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.6774,,cellular Process,0.99928715,,50S ribosomal protein L3         ,WP_003406668.1,3.00E-51,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,NON ENZYME,NOT ENZYME ,NOT ENZYME 
+116,>WP_003406944.1 ,acyl carrier protein,Enzyme ,,106,4.2,108.58,8480,0.215,HYDROPHbic,36.43,11399.96,8,17,1,Stable,,,   cytoplasm,Cell membrane. Cytoplasm.,  cytoplasm,"CytoplasmicMembrane 
+",Extracellular Protein,1,cytoplasm,,no signal peptide,soluble Protein,0,0.215094,no transmembrane,No Secretion (No Signal Peptide),no signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,"
+Phosphorylation prediction 
+",,"acyl carrier protein; Validated
+","	PRK05883	
+",3.04E-42,low complexity	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"ACP-like	,Acyl-carrier protein (ACP)","0.00000000000000301
+,0.0098
+",Acyl carrier protein (1.10.1200.10/FF/6)	,1.90E-06,Phosphopantetheine attachment site,3.50E-13,Carrier protein (CP) domain profile,14.043,,		fas,"Neighborhood
+Coexpression
+Experiments
+Databases
+Textmining",0.998,,PROBABLE ALLERGEN,P00924,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.5229,,Metabolism Molecule,1.1458833,,acyl carrier protein,WP_003911484.1,2.00E-49,,Ligases Forming Aminoacyl-tRNA and Related Compounds (Aminoacyl tRNA synthetase),Forming Carbon-Oxygen Bonds	,Ligases,NON ENZYME,NOT ENZYME ,NOT ENZYME 
+117,>WP_003407152.1 ,membrane protein,Membrane Protein,Structural Protein,220,4.52,83.45,23950,-0.148,HYDROPHllic,36.61,23503.21,17,29,1,Stable,,,inner membrane,Extracell.,Cell inner membrane. Cell outer membrane. Fimbrium.,Unknown,Periplasmic Protein,0,Extracellular,,no signal peptide,Membrane Protein,1,-0.148182,Exists,No Secretion (No Signal Peptide),no signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Phosphorylation prediction Glycosylation prediction,,N/A,N/A,N/A,transmembrane region	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"NTF2-like	,NTF2-like	","0.00106
+,0.081",N/A,0, Domain of unknown function (DUF4440),0.059,NO HIT,0,,"Rv1363c	",Neighborhood  Cooccurence,0.967,,PROBABLE ALLERGEN, Q06I78,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.7925,,Metabolism Molecule,2.5032594,,membrane protein,WP_003407152.1,9.00E-157,,"Phosphotransferases with an alcohol group as acceptor",Transferring Phosphorus-Containing Groups        ,Transferases,3.-.-.-	0.78,NOT ENZYME ,NOT ENZYME 
+118,>WP_003407180.1 ,LppX_LprAFG lipoprotein,Membrane Protein,Structural Protein,261,8.89,92.99,15470,-0.032,HYDROPHllic,34.16,26851.63,22,19,1,Stable,,,periplasm,"Cell membrane.
+ 
+",Cell inner membrane., CytoplasmicMembrane  ,Periplasmic Protein,0,cytoplasm,,no signal peptide,Membrane Protein,2,-0.032184,no transmembrane,Secretion (Signal Peptide),Transmembrane,Lipoprotein signal peptide (Sec/SPII),signal peptide,secretory peptide,Glycosylation prediction,,"LppX_LprAFG lipoprotein; This entry consists of several lipoproteins mainly from Mycobacterium ...
+ "," cl06267        
+",1.28E-67,transmembrane region	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"	Prokaryotic lipoproteins and lipoprotein localization factors	,	LppX-like","1.96e-48,0.00026
+",Putative lipoprotein lprF (2.50.20.20/FF/2)	,1.10E-142, LppX_LprAFG lipoprotein,6.80E-70,NO HIT,0,,	kdpD,Textmining,0.888,,PROBABLE ALLERGEN, P14804,No Result,No Result,No Result,No Result,0,, Probable ANTIGEN,0.5705,,cellular Process,1.1089825,,lipoprotein LprF,WP_003407180.1,0,,Phosphotransferases with an alcohol group as acceptor,Transferring Phosphorus-Containing Groups        ,Transferases,NON ENZYME,NOT ENZYME ,NOT ENZYME 
+119,>WP_003407225.1 ,PE family protein,Virulent protein,,102,5.08,98.82,2980,0.597,HYDROPHbic,39.41,9862.1,4,8,1,Stable,,,secreted,Extracell.,Cell inner membrane. Fimbrium., CytoplasmicMembrane,Extracellular Protein,1,Extracellular,,Signal Peptide,Unknown,1,0.597059,no transmembrane,No Secretion (No Signal Peptide),no signal peptide,No signal peptide,No signal peptide,No Secretory Protein ,Glycosylation prediction,,"PE family; This family named after a PE motif near to the amino terminus of the domain. The PE ...
+","cl03022        
+
+",4.00E-11,low complexity	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"PE/PPE dimer-like	,PE","0.000000000000152
+,0.01",PE family immunomodulator PE15 (1.10.287.850/FF/2)	,2.30E-49,PE family,3.30E-20,no HIT,0,,"PPE20	","Neighborhood
+Cooccurence  Textmining",0.996,,PROBABLE ALLERGEN,11991227,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.652,,Metabolism Molecule,1.6105729,,PE family protein,WP_003407225.1,3.00E-61,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,no Prediction,NOT ENZYME ,NOT ENZYME 
+120,>WP_003407248.1 , DNA-directed RNA polymerase subunit omega,Enzyme,,110,4.33,100.27,8940,-0.207,HYDROPHllic,44.81,11842.22,7,17,0,Unstable,,,secreted,Extracell.,Cell inner membrane., Cytoplasmic  ,Periplasmic Protein,0,cytoplasm,,Signal Peptide,Unknown,0,-0.207273,no transmembrane,No Secretion (No Signal Peptide),no signal peptide,No signal peptide,No signal peptide,no Secretory Protein ,"
+Phosphorylation prediction 
+",,"RNA polymerase Rpb6; Rpb6 is an essential subunit in the eukaryotic polymerases Pol I, II and ...
+","cl14651        
+
+",2.17E-22,RNA_pol_Rpb6	,3.00E-11,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"RPB6/omega subunit-like	,RNA polymerase omega subunit	","2.56e-22
+,0.014",DNA-directed RNA polymerase subunit omega (3.90.940.10/FF/2)	,"1.2e-47
+",RNA polymerase Rpb6,1.40E-13,no HIT,0,,rpoB  rpoC  	rpoA,"Experiments
+Databases
+Textmining",0.999,,PROBABLE NON-ALLERGEN,Q10567,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.5797,,cellular Process,1.5520507,,DNA-directed RNA polymerase subunit omega,WP_003407248.1,3.00E-72,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,2.7.7.6	0.98,NOT ENZYME ,NOT ENZYME 
+121,>WP_003407264.1,AraC family transcriptional regulator,Regulatory protein,Regulatory protein,344,5.58,97.30,14440,0.062,HYDROPHbic,46.54,37894.42,36,46,0,Unstable,,,	cytoplasm,	cytoplasm,	cytoplasm, Cytoplasmic  , Cytoplasmic  Protein,1,cytoplasm,,no signal peptide,soluble Protein,1,0.061919,no transmembrane,No Secretion (No Signal Peptide),no signal peptide,No signal peptide,No signal peptide,no Secretory Protein ,"
+Phosphorylation prediction 
+",,"Arabinose-binding domain of AraC transcription regulator, N-term; AraC is a bacterial ...
+    ","	cl14988	
+",2.34E-21,HTH_ARAC	,1.92E-25,"Transcription regulator HTH, AraC- type ",IPR020449,"DNA-binding transcription factor activity, 
+sequence-specific DNA binding ","GO:0003700,GO:0043565",1,regulation of DNA-templated transcription ,"GO:0006355,GO:0006352",1,No result,No,0,"        Homeodomain-like     ,           AraC type transcriptional activator","0.000000000645,0.026
+,0.0275
+0.092",AraC family transcriptional regulator (1.10.10.60/FF/692)	,1.00E-17,"Arabinose-binding domain of AraC transcription regulator, N-term",3.00E-22,"Bacterial regulatory proteins, araC family DNA-binding domain profile",21.507,,cyp132,"Neighborhood
+Cooccurence
+Textmining",0.921,,PROBABLE NON-ALLERGEN,P20973,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.4171,,cellular Process,0.16356101,, probable transcription activator protein - Mycobacterium tuberculosis (strain H37RV     ,B70990,0,,"Acting on phosphates",Carbon-Oxygen Lyases	,Lyases	,2.-.-.-	0.52,NOT ENZYME ,NOT ENZYME 
+122,>WP_003407492.1 , metal-sulfur cluster assembly factor,Regulatory protein,Regulatory protein,115,3.75,105.04,17990,-0.004,HYDROPHllic,43.02,12383.82,6,24,0,Unstable,,,	cytoplasm,Extracell.,Cell inner membrane., Cytoplasmic  ,Cytoplasmic Protein,1,cytoplasm,,no signal peptide,soluble Protein,0,-0.004348,no transmembrane,No Secretion (No Signal Peptide),no signal peptide,No signal peptide,No signal peptide,no Secretory Protein ,Glycosylation prediction,,"Metal-sulfur cluster biosynthetic enzyme [Posttranslational modification, protein turnover,",cl42776,1.53E-41,low complexity	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"        Fe-S cluster assembly (FSCA) domain-like        ,       PaaD-like","\1.05e-25 ,0.00085",Iron-sulfur cluster carrier protein (3.30.300.130/FF/20)	,1.10E-07, Iron-sulfur cluster assembly protein,3.60E-19,NO HIT,0,,Rv1461,"Neighborhood
+Cooccurence
+Textmining",0.994,,PROBABLE NON-ALLERGEN, F9W301,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.6377,,cellular Process	,1.6894482,,"Solution structure of Rv1466 from Mycobacterium tuberculosis, a protein associated with [Fe-S] complex assembly and repair - Seattle Structural Genomics Center for Infectious Disease target MytuD.17486.a ",5IRD_A,2.00E-74,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,6.-.-.-	0.57,NOT ENZYME ,NOT ENZYME 
+123,>WP_003407511.1 ,transcriptional regulator,Regulatory protein,Regulatory protein,63,11.94,49.68,2980,-1.248,HYDROPHllic,48.15,7105.08,16,4,0,Unstable,,,cytoplasm,Extracell.,Fimbrium. Periplasm.,Unknown,N/A,0,cytoplasm,,no signal peptide,soluble Protein,0,-1.247619,no transmembrane,No Secretion (No Signal Peptide),no signal peptide,no signal peptide,No signal peptide,no Secretory Protein ,"
+Phosphorylation prediction 
+",,"Helix-turn-helix domain; This family of proteins is functionally uncharacterized. However, it ...
+","cl44983	
+",2.90E-12,low complexity	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,N/A,0,N/A,0, Helix-turn-helix domain,1.30E-17,NO HIT,0,,	Rv1473,"Neighborhood",0.681,,PROBABLE NON-ALLERGEN,Q9BSF8,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.8446,,cellular Process	,1.7097309,,  hypothetical protein MRGA423_09345    ,  AFE12759.1,1.00E-44,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,NON ENZYME,NOT ENZYME ,NOT ENZYME 
+124,>WP_003407578.1 ,methylmalonyl-CoA mutase,Enzyme,,76,9.76,92.50,1490,-0.305,HYDROPHllic,29.56,8101.24,12,9,1,Stable,,,cytoplasm,Cytoplasm. Extracell.,Cell inner membrane., Cytoplasmic  ,Outer Membrane Protein,1,cytoplasm,,no signal peptide,soluble Protein,1,-0.305263,no transmembrane,No Secretion (No Signal Peptide),no signal peptide,no signal peptide,no signal peptide,no Secretory Protein ,"
+Phosphorylation prediction 
+",,"methylmalonyl-CoA mutase; Reviewed
+","  cl35828        
+
+ 
+",2.42E-12,low complexity	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"	Cobalamin (vitamin B12)-dependent enzymes,	Methylmalonyl-CoA mutase, N-terminal (CoA-binding) domain	","	0.000942
+,0.0024
+",Probable methylmalonyl-coa mutase (3.20.20.240/FF/1)	,3.00E-07,Methylmalonyl-CoA mutase,7.60E-05,NO HIT,0,,mutA,Experiments,0.883,,PROBABLE NON-ALLERGEN, Q2QW53,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.7218,,cellular Process,0.13566868,,acetyltransferase	,	WP_031735785.1,1.00E-120,,Transferring Other Groups,Intramolecular Transferases	,Isomerases,no Prediction,NOT ENZYME ,NOT ENZYME 
+125,>WP_003407619.1 , acetyltransferase,Enzyme,,221,5.63,97.92,18910,0.114,HYDROPHbic,40.85,24056.26,17,25,0,Unstable,,,Cytoplasm.,Cytoplasm.,Cytoplasm., Cytoplasmic  ,Cytoplasmic Protein,1,Cytoplasm.,,no signal peptide,soluble Protein,0,0.129958,no transmembrane,No Secretion (No Signal Peptide),no signal peptide,no signal peptide,no signal peptide,no Secretory Protein ,Phosphorylation prediction Glycosylation prediction,,"Putative Acyltransferase (AT), Left-handed parallel beta-Helix (LbH) domain; This group is ...","  cd03360        
+
+  
+ 
+",5.93E-69,low complexity	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"	Trimeric LpxA-like enzymes	,	PglD-like","6.24e-34
+,0.018",Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (2.160.10.10/FF/3)	,1.40E-04,Hexapeptide repeat of succinyl-transferase,6.7e-06),NO HIT,0,,"Rv1506c	","Neighborhood
+Cooccurence
+Textmining",0.989,,PROBABLE NON-ALLERGEN,Q0DEV5,No Result,No Result,No Result,No Result,0,,Probable NON-ANTIGEN ,0.3796,,cellular Process	,2.7462122,,acetyltransferase 	,WP_003407619.1,3.00E-161,,Transferring groups other than amino-acyl groups,Acyltransferases,Transferases,2.3.1.-	0.98,NOT ENZYME ,NOT ENZYME 
+126,>WP_003407734.1,oxidoreductase,Enzyme ,,341,9.07,92.14,17420,-0.084,HYDROPHllic,31.71,36820.88,37,33,1,Stable,,,	secreted,Cytoplasm.,Cytoplasm., Cytoplasmic  ,Cytoplasmic Protein,1,Cytoplasm.,,no signal peptide,soluble Protein,0,-0.084164,no transmembrane,No Secretion (No Signal Peptide),no signal peptide,no signal peptide,no signal peptide,no Secretory Protein ,Phosphorylation prediction,,"SDR family oxidoreductase;
+	","cl35559        
+",1.43E-131,low complexity	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"	NAD(P)-binding Rossmann-fold domains	,	Tyrosine-dependent oxidoreductases","5.57E-60,0.00049
+",epidermal retinol dehydrogenase 2 (3.40.50.720/FF/1177)	,1.00E-29,short chain dehydrogenase,4.00E-46,no HIT,0,,	tgs2,"Cooccurence
+Textmining",0.958,,PROBABLE NON-ALLERGEN,Q8RVT7,Unknown,	Sesamum indicum,No Result,A0A0A6YYW2,1/1 (100.0%),,Probable ANTIGEN,0.533,,Virulence factors,1.0362742,,fatty-acyl-CoA reductase,AEJ50264.1,0,,"With NAD or NADP as acceptor
+",Acting on the CH-OH group of donors	,Oxidoreductases,N/A,"is an Enzyme protein
+	1.-.-.- Oxidoreductases
+	1.1.-.- Acting on the CH-OH group of donors
+ 
+",ENZYME
+127,>WP_003407737.1 ,SDR family oxidoreductase ,Enzyme ,,267,8.55,99.81,13980,0.184,HYDROPHbic,39.7,28199.59,26,24,1,Stable,,,cytoplasm,cytoplasm,cytoplasm,"
+Cytoplasmic ","
+Cytoplasmic Protein
+ ",1,cytoplasm,,Signal Peptide,Unknown,1,0.183521,no transmembrane,No Secretion (No Signal Peptide),no signal peptide,no signal peptide,no signal peptide,no Secretory Protein ,Phosphorylation prediction,,"Short-chain dehydrogenase [General function prediction only];
+	","COG0300        
+",2.43E-112,N/A,N/A,"
+Short-chain dehydrogenase/reductase SDR ",IPR002347,oxidoreductase activity ,GO:0016491,1,N/A,N/A,0,No result,No,0,NAD(P)-binding Rossmann-fold domains		Tyrosine-dependent oxidoreductases,"1.91e-57
+,0.00079",SDR family oxidoreductase (3.40.50.720/FF/240)	,1.00E-20, short chain dehydrogenase,2.00E-41,Short-chain dehydrogenases/reductases family signature,N/A,,	fas,Databases,0.967,,PROBABLE NON-ALLERGEN,O75185,No Result,No Result,No Result,No Result,0,, Probable ANTIGEN,0.6138,,Metabolism Molecule,1.2609396,,SDR family oxidoreductase ,	WP_044490638.1,8.00E-178,,With NAD or NADP as acceptor,Acting on the CH-OH group of donors	,Oxidoreductases,1.1.1.-	0.94,NOT ENZYME ,NOT ENZYME 
+128,>WP_003407785.1 ,type II toxin-antitoxin system VapB family antitoxin,Toxin-Antitoxin System(TA system),,72,4.79,93.47,12490,-0.347,HYDROPHllic,-0.347,8241.38,11,14,0,Unstable,,,  cytoplasm,cytoplasm,Cell inner membrane.,Cytoplasmic ,Cytoplasmic Protein,1,cytoplasm,,no signal peptide,soluble Protein,1,-0.347222,no transmembrane,No Secretion (No Signal Peptide),no signal peptide,no signal peptide,no signal peptide,no Secretory Protein ,Phosphorylation prediction,,"      Bacterial antitoxin of type II TA system, VapB; VapB is the antitoxin of a bacterial ...
+ ", cl26582  ,2.07E-18,N/A,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,N/A,0,N/A,0," Bacterial antitoxin of type II TA system, VapB",1.00E-18,no HIT,0,,vapC11,"Neighborhood
+Cooccurence
+Experiments
+Textmining",0.996,,PROBABLE NON-ALLERGEN,P54802,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.6312,,cellular Process,1.1170976,,type II toxin-antitoxin system VapB family antitoxin,WP_009935474.1,1.00E-37,,Methyltransferases,Transferring One-Carbon Groups	,Transferases,no Prediction,NOT ENZYME ,NOT ENZYME 
+129,>WP_003407798.1 , NlpC/P60 family peptidoglycan-binding protein RipD,Enzyme,,230,10.23,80.13,15930,-0.111,HYDROPHllic,55.24,23964.61,18,8,0,Unstable,,,secreted,Cytoplasm. Extracell.,Cell inner membrane.,CytoplasmicMembrane ,Periplasmic Protein,1,cytoplasm,,Signal Peptide,Unknown,0,-0.11087,no transmembrane,Secretion (Signal Peptide),SignalPeptide,Signal Peptide (Sec/SPI),signal peptide,secretory peptide,Glycosylation prediction,,"
+cell division protein FtsN; Provisional
+ 
+",cl36177	,3.72E-06,transmembrane region	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"Cysteine proteinases	,	NlpC/P60","1.37e-23,0.0036
+",Probable endopeptidase MT2245 (3.90.1720.10/FF/24)	,1.50E-05, NlpC/P60 family,3e-26,NlpC/P60 domain profile :,14.853,,	Rv1488,Textmining,0.834,,PROBABLE NON-ALLERGEN, P54253,Der p 38,	Dermatophagoides pteronyssinus,Cysteine proteinases (SSF54001),Q8MWR6,	1/1 (100.0%),,Probable ANTIGEN,0.6414,,Metabolism Molecule,1.4966795,,NlpC/P60 family peptidoglycan-binding protein RipD	,|WP_003407798.1,1.00E-155,,"linear amides
+",Acting on carbon-nitrogen bonds; Other than peptide bonds	,"linear amides
+",3.-.-.-	0.53,NOT ENZYME ,NOT ENZYME 
+130,>WP_003407974.1 ,peroxiredoxin,Enzyme,,154,9.23,"
+82.99: ",2980,-0.118,HYDROPHllic,39.16,16894.49,23,19,1,Stable,,,cytoplasm,cytoplasm,cytoplasm,Cytoplasmic ,Cytoplasmic Protein,1,cytoplasm,,no signal peptide,soluble Protein,1,-0.118182,no transmembrane,No Secretion (No Signal Peptide),no signal peptide,no signal peptide,no signal peptide,no Secretory Protein ,Phosphorylation prediction,,"Peroxiredoxin [Posttranslational modification, protein turnover, chaperones];
+","COG1225        
+      
+ 
+",1.32E-57,N/A,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"Thioredoxin-like,	Glutathione peroxidase-like","	8.62e-40,.0.0011
+",Thioredoxin-dependent peroxide reductase (3.40.30.10/FF/311)	,1.00E-06,AhpC/TSA family,1.40E-30, Thioredoxin domain profile,15.454,,	trxB2,Textmining,0.716,,PROBABLE NON-ALLERGEN, Q7DM89,Tri a 32,	Triticum aestivum,	Thioredoxin-like (SSF52833),Q6W8Q2,1/1 (100.0%),, Probable ANTIGEN ,0.5436,,cellular Process	,1.2853315,,peroxidoxin               , CFE42307.1,2.00E-106,,"With NAD or NADP as acceptor",Acting on the CH-OH group of donors	,Oxidoreductases	,1.11.1.15        1.0,"is an Enzyme protein
+        1.-.-.- Oxidoreductases
+        1.11.-.- Acting on a peroxide as acceptor (peroxidases",ENZYME
+131,>WP_003408261.1,DUF427 domain-containing protein,Unknown Domain Function,,115,9.51,78.78,36440,-0.427,HYDROPHllic,60.35,13109.91,14,10,0,Unstable,,,cytoplasm,Extracell.,Cell inner membrane,Cytoplasmic ,Cytoplasmic Protein,1,cytoplasm,,no signal peptide,soluble Protein,0,-0.426957,no transmembrane,No Secretion (No Signal Peptide),no signal peptide,no signal peptide,no signal peptide,no Secretory Protein ,Phosphorylation prediction,,"                
+Domain of unknown function (DUF427); This domain contains a beta-tent fold.
+ ",cl00998,3.47E-41,N/A,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"Rv2827c C-terminal domain-like  ,Rv2827c C-terminal domain-like        ","0.0527,0.014
+",DUF427 domain-containing protein (2.170.150.40/FF/1)	,3.70E-05, Domain of unknown function (DUF427), Domain of unknown function (DUF427),no HIT,0,,	Rv1671,"Neighborhood
+Gene Fusion",0.904,,PROBABLE NON-ALLERGEN,Q15052,No Result,No Result,No Result,No Result,0,, Probable ANTIGEN ,0.4499,,Information and storage,0.47847196,,DUF427 domain-containing protein	,WP_003408261.1,5.00E-78,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,no Prediction,noT ENZYME ,noT ENZYME 
+132,>WP_003408362.1 , Trm112 family protein,Enzyme,,74,4.56,118.65,2980,-0.119,HYDROPHllic,40.65,8289.54,9,15,0,Unstable,,,Cytoplasm.,Cytoplasm.,Cell inner membrane,Cytoplasmic,Cytoplasmic Protein,1,Cytoplasm.,,no signal peptide,soluble Protein,1,-0.118919,no transmembrane,No Secretion (No Signal Peptide),no signal peptide,no signal peptide,no signal peptide,no Secretory Protein ,Phosphorylation prediction,,Trm112p-like protein; The function of this family is uncertain. The bacterial members are ...,"cl01066        
+
+
+ 
+",9.30E-21,N/A,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"Trm112p-like	,Trm112p-like	","4.84e-16
+,0.00046
+",UPF0434 protein Rv1684 (2.20.25.10/FF/46)	,1.40E-41,Trm112p-like protein,6.40E-08,no HIT,0,,Rv1683,Neighborhood,0.894,,PROBABLE NON-ALLERGEN,P05937,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.4919,,cellular Process,0.9520923,,Trm112 family protein                , WP_044087465.1,2.00E-41,,Methyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,5.-.-.-	0.51,noT ENZYME ,noT ENZYME 
+133,>WP_003408401.1,site-specific tyrosine recombinase XerD ,Enzyme,,311,10.26,103.28,19940,-0.15,HYDROPHllic,35.07,33517.29,43,33,1,Stable,,,cytoplasm,cytoplasm,cytoplasm,Cytoplasmic,Cytoplasmic Protein,1,Cytoplasm.,,no signal peptide,soluble Protein,1,-0.149839,no transmembrane,No Secretion (No Signal Peptide),no signal peptide,no signal peptide,no signal peptide,no Secretory Protein ,Phosphorylation prediction,,"tyrosine recombinase;
+
+ 
+",PRK00283	,1.90E-153,Xer	,4.30E-105,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"	DNA breaking-rejoining enzymes	,	Lambda integrase-like, catalytic core","4.71e-53
+,0.0000153",Tyrosine recombinase XerS (1.10.443.10/FF/10)	,1.20E-09,Phage integrase family,4.80E-46," Core-binding (CB) domain profile, Tyrosine recombinase domain profile","21.293,61.804",,"Rv1700	","Neighborhood
+Textmining",0.968,,PROBABLE NON-ALLERGEN,P08823,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.5039,,Metabolism Molecule,-0.094373375,,site-specific tyrosine recombinase XerD 	,WP_031705338.1,0,,Phosphotransferases with an alcohol group as acceptor,Transferring Phosphorus-Containing Groups        ,Transferases,3.-.-.-	0.45,noT ENZYME ,noT ENZYME 
+134,>WP_003408444.1, oxidoreductase ,Enzyme ,,270,5.01,94.44,26930,0.206,HYDROPHbic,25.82,27985.83,22,28,1,Stable,,,cytoplasm,cytoplasm,cytoplasm,Cytoplasmic,Cytoplasmic Protein,1,cytoplasm,,no signal peptide,soluble Protein,0,0.205555,no transmembrane,No Secretion (No Signal Peptide),no signal peptide,no signal peptide,no signal peptide,no Secretory Protein ,Phosphorylation prediction,,classical (c) SDRs; SDRs are a functionally diverse family of oxidoreductases that have a ...   ,cd05233,1.03E-51,low complexity	,N/A,Short-chain dehydrogenase/reductase SDR ,IPR002347,N/A,N/A,0,N/A,N/A,0,No result,No,0,"NAD(P)-binding Rossmann-fold domains	,Tyrosine-dependent oxidoreductases	","1.04e-64
+,0.0000487
+",Carbonyl reductase family member 4 (3.40.50.720/FF/285)	,1.10E-24,", Enoyl-(Acyl carrier protein) reductase",2.10E-49,NO HIT,0,,Rv1716,"Neighborhood
+Cooccurence
+Textmining",0.993,,PROBABLE NON-ALLERGEN,O75185,	Asp f SXR,Neosartorya fumigata,NAD(P)-binding Rossmann-fold domains (SSF51735),B0XUJ3,1/1 (100.0%),,Probable ANTIGEN ,0.4816,,Virulence factors,0.39625122,,SDR family oxidoreductase 		,WP_003408444.1,0,,With NAD or NADP as acceptor,Acting on the CH-OH group of donors	,Oxidoreductases,1.1.1.-	0.99,"is an Enzyme protein
+	1.-.-.- Oxidoreductases1.1.-.- Acting on the CH-OH group of donors
+",ENZYME
+135,>WP_003408469.1,antitoxin,Antitoxin Protein,Defense Protein,75,4.59,113.47,N/A ,-0.061,HYDROPHllic,48.19,8226.39,9,15,0,Unstable,,,cytoplasm,cytoplasm,Cell inner membrane. Extracell. Periplasm.,Cytoplasmic,Cytoplasm. Periplasm.,1,Cytoplasm,,no signal peptide,soluble Protein,1,-0.061333,no transmembrane,No Secretion (No Signal Peptide),no signal peptide,no signal peptide,no signal peptide,no Secretory Protein ,Phosphorylation prediction,,N/A,N/A,N/A,low complexity	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"	Ribbon-helix-helix	,	Arc/Mnt-like phage repressors","0.000000000853
+,0.053",N/A,0, Antitoxin ParD,0.018,NO HIT,0,,	vapC12,"Neighborhood
+Textmining",0.963,,PROBABLE ALLERGEN,Q7M3Y8,no Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.5204,,cellular Process ,1.0622231,,antitoxin ,WP_075744519.1,3.00E-41,,Methyltransferases,Transferring One-Carbon Groups	,Transferases,3.1.-.-	0.76,NOT ENZYME ,NOT ENZYME 
+136,>WP_003408528.1 , antitoxin,Antitoxin Protein,Defense Protein,70,9.47,104.71,1490,-0.053,HYDROPHllic,48.5,7607.8,11,9,0,Unstable,,,cytoplasm,Extracell.,Cell inner membrane,Cytoplasmic ,unkonw,1,cytoplasm,,no signal peptide,soluble Protein,1,-0.052857,no transmembrane,No Secretion (No Signal Peptide),no signal peptide,no signal peptide,no signal peptide,no Secretory Protein ,Phosphorylation prediction,,"       
+Rv0623-like transcription factor; This entry represents the Rv0623-like family of ...
+
+ 
+",cl01834,7.63E-17,N/A,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,N/A,0,N/A,0,Rv0623-like transcription factor,5.30E-17,NO HIT,0,,"	vapC34	","Neighborhood
+Cooccurence",0.968,,PROBABLE ALLERGEN,P25705,no Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.6968,,cellular Process,1.6328178,,|type II toxin-antitoxin system VapB family antitoxin ,WP_003408528.1,3.00E-39,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,3.1.-.-	0.97,NOT ENZYME ,NOT ENZYME 
+137,>WP_003408807.1,type VII secretion system ESX-5 target PE19,Virulent Protein,,99,4.24,78.48,2980,0.441,HYDROPHbic,29.56,9583.63,0,5,1,Stable,,,secreted,Extracell.,Fimbrium.,Cytoplasmic,"Extracellular Protein
+",1,Extracell.,,no signal peptide,Unknown,0,0.441414,no transmembrane,No Secretion (No Signal Peptide),no signal peptide,no signal peptide,no signal peptide,no Secretory Protein ,Phosphorylation prediction,,"        
+PE family; This family named after a PE motif near to the amino terminus of the domain. The PE ...
+",cl03022	,1.40E-18,low complexity	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"E/PPE dimer-like	,
+	PE","1.12e-25,0.0045
+",PE family protein (1.10.287.850/FF/7)	,1.00E-13,PE family,4.30E-33,NO HIT,0,,"PPE25	",Textmining,0.872,,PROBABLE ALLERGEN,11991227,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.6843,,Virulence factors,0.82631208,,PE family protein ,AAK46112.1,3.00E-57,,"Phosphotransferases with an alcohol group as acceptor",Transferring Phosphorus-Containing Groups        ,Transferases,NON ENZYME,NOT ENZYME ,NOT ENZYME 
+138,>WP_003409255.1 , alpha/beta hydrolase,Enzyme,,288,9.16,97.15,47440,-0.062,HYDROPHllic,35.26,31676.36,30,27,1,Stable,,,periplasm,Cell membrane. Cytoplasm.,Cytoplasm. Periplasm.,Unknown,Cytoplasm. Periplasm.,1,cytoplasm,,no signal peptide,soluble Protein,0,-0.0625,no transmembrane,No Secretion (No Signal Peptide),no signal peptide,no signal peptide,no signal peptide,no Secretory Protein ,Phosphorylation prediction Glycosylation prediction,,"Pimeloyl-ACP methyl ester carboxylesterase [Coenzyme transport and metabolism, General ...", COG0596      ,2.87E-20,low complexity	,N/A,"
+Epoxide hydrolase-like ",IPR000639,catalytic activity ,GO:0003824,1,N/A,N/A,0,No result,No,0,"	alpha/beta-Hydrolases	
+,	Haloalkane dehalogenase","9.1e-38,0.027
+",Alpha/beta hydrolase (3.40.50.1820/FF/173)	,1.00E-12, Alpha/beta hydrolase family,2.70E-16,NO HIT,0,,	Rv0774c,Textmining,0.751,,PROBABLE NON-ALLERGEN,Q7XP59,No Result,No Result,No Result,No Result,0,,Probable NON-ANTIGEN ,0.3551,,Metabolism Molecule,1.5996487,,alpha/beta hydrolase 		,WP_003409255.1,0,,"Carboxylic Ester Hydrolases",Acting on Ester Bonds	,Hydrolases,3.1.1.-        0.98,"is an Enzyme protein
+	2.-.-.- Transferases
+	2.3.-.- Acyltransferases
+",ENZYME
+139,>WP_003409276.1,antitoxin,Antitoxin Protein,Defense Protein,87,6.76,69.54,11000,-1.206,HYDROPHllic,66.87,10438.74,20,20,1,Stable,,,cytoplasm,cytoplasm,cytoplasm Extracell.,Cytoplasmic,Cytoplasmic Protein,1,cytoplasm,,no signal peptide,soluble Protein,0,-1.205747,no transmembrane,No Secretion (No Signal Peptide),no signal peptide,no signal peptide,no signal peptide,no Secretory Protein ,Phosphorylation prediction,,"
+Condensation domain of nonribosomal peptide synthetases (NRPSs); Condensation (C) domains of ...
+",	cl40425	,8.47E+00,low complexity	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,,"0.000156
+,0.061",N/A,0,"Ribbon-helix-helix protein, copG family",0.0019,no HIT,0,,vapC13,"Neighborhood
+Textmining",0.957,,PROBABLE NON-ALLERGEN,Q53EZ4,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.6023,,Information and storage,0.74296954,,antitoxin 	,WP_075275619.1,3.00E-47,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,3.-.-.-	0.54,NOT ENZYME ,NOT ENZYME 
+140,>WP_003409308.1 ,urease subunit beta,Enzyme,,104,9.92,97.60,2980,-0.096,HYDROPHllic,36.71,11189.89,11,9,1,Stable,,,Cytoplasm.,Cell membrane. Cytoplasm.,Cytoplasm.,Cytoplasmic ,Cytoplasmic Protein,1,Cytoplasm.,,no signal peptide,soluble Protein,0,-0.096154,no transmembrane,No Secretion (No Signal Peptide),no signal peptide,no signal peptide,no signal peptide,no Secretory Protein ,Phosphorylation prediction,,"urease subunit beta; Reviewed
+","	PRK13202	
+
+ 
+:",1.48E-68,N/A,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"Urease, beta-subunit	,Urease, beta-subunit	","1.31e-36
+,0.0000956
+",Urease subunit beta (2.10.150.10/FF/1)	,2.40E-38,Urease beta subunit,1.90E-35,no HIT,0,, ureA              ureC,"Neighborhood
+Gene Fusion
+Cooccurence
+Coexpression
+Experiments
+Databases
+Textmining",0.999,,PROBABLE NON-ALLERGEN,P07339,No Result,No Result,No Result,No Result,0,, Probable ANTIGEN,0.6816,,cellular Process,0.46374085,,urease subunit beta,WP_003409308.1,2.00E-67,,"linear amides
+",Acting on carbon-nitrogen bonds; Other than peptide bonds	,Hydrolases,N/A,NOT ENZYME ,NOT ENZYME 
+141,>WP_003409337.1 ,alanine and proline-rich secreted protein Apa,Antigen Protein,Defense Protein,325,4.93,68.43,30940,-0.253,HYDROPHllic,62.66,32686.75,19,25,0,Unstable,,,secreted,"
+
+Extracell.
+ 
+ 
+         
+",Cell inner membrane,Extracellular,Periplasmic Protein,1,"Extracell.
+ 
+ 
+         
+",,Signal Peptide,Unknown,1,-0.253231,no transmembrane,Secretion (Signal Peptide),SignalPeptide,Signal Peptide (Sec/SPI),signal peptide,secretory peptide,Glycosylation prediction,,"Fibronectin-attachment protein (FAP); This family contains bacterial fibronectin-attachment ...
+	
+ ","cl25522	
+
+",9.66E-115,low complexity	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,N/A,0,N/A,0,Fibronectin-attachment protein (FAP),1.70E-151,no HIT,0,,mpt64,"Cooccurence
+Textmining",0.958,,PROBABLE NON-ALLERGEN,P17676,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.5602,,cellular Process,5.8754417,,adhesin Apa ,WP_044091725.1,0,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,NON ENZYME,NOT ENZYME ,NOT ENZYME 
+142,>WP_003409409.1, lipoprotein LpqH,Receptor Protein,Receptor Protein,140,9.55,82.14,15470,-0.105,HYDROPHllic,20.18,14974.95,15,9,1,stable,,,	fimbrium,Extracell.,"Cell inner membrane. Cell outer membrane. Fimbrium.
+ ", CytoplasmicMembrane ,Cytoplasmic Protein,1,Cytoplasm.,,Signal Peptide,Unknown,0,-0.105,no transmembrane,Secretion (Signal Peptide),SignalPeptide,Lipoprotein signal peptide (Sec/SPII),signal peptide,secretory peptide,Phosphorylation prediction,,"       Mycobacterium 19 kDa lipoprotein antigen; Most of the antigens of Mycobacterium leprae and M. ...
+        
+",cl05184 ,5.16E-33,transmembrane region	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,N/A,0,N/A,0,Mycobacterium 19 kDa lipoprotein antigen,1.10E-29, Prokaryotic membrane lipoprotein lipid attachment site profile ,5.000,,"	Rv1882c	","Neighborhood",0.734,,PROBABLE ALLERGEN,P05117,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.7031,,Metabolism Molecule,0.86642645,,lipoprotein LpqH,WP_029401563.1,6.00E-98,,"Phosphotransferases with an alcohol group as acceptor
+",Transferring Phosphorus-Containing Groups	,Transferases,3.-.-.-	0.57,NOT ENZYME ,NOT ENZYME 
+143,>WP_003409456.1 ,esterase family protein,Enzyme,,325,5.62,72.18,81360,-0.179,HYDROPHllic,44.93,34580.85,20,23,0,Unstable,,,secreted,"
+
+Extracell.
+ 
+ 
+         
+",Cell inner membrane. Extracell.,Extracellular,Periplasmic Protein,1,"Extracell.
+ 
+ 
+         
+",,Signal Peptide,Unknown,0,-0.179077,no transmembrane,Secretion (Signal Peptide),SignalPeptide, TAT signal peptide (Tat/SPI),signal peptide,secretory peptide,Glycosylation prediction,,"S-formylglutathione hydrolase FrmB [Defense mechanisms];
+",cl33985	,7.00E-96,transmembrane region	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"alpha/beta-Hydrolases	,Mycobacterial antigens","5.93e-38,0.0000000000414",Putative esterase (3.40.50.1820/FF/198)	,1.30E-06, Putative esterase,7.60E-76,NO HIT,0,,aftB,"Cooccurence
+Databases",0.949,,PROBABLE NON-ALLERGEN,Q653V7,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.5875,,Metabolism Molecule,1.5606983,,diacylglycerol acyltransferase/mycolyltransferase Ag85B,"WP_057351963.1
+",0,,"Transferring groups other than amino-acyl groups",Acyltransferases,Transferases,3.1.1.-	0.61,NOT ENZYME ,NOT ENZYME 
+144,>WP_003409680.1,AMP-binding protein ,Enzyme,,620,5.42,96.05,70820,-0.0100,HYDROPHllic,38.05,66310.14,53,70,1,stable,,,Cytoplasm,Cytoplasm,Cytoplasm,Cytoplasmic,"Inner-membrane Protein",1,Cytoplasm.,,Signal Peptide,Unknown,1, -0.010000,no transmembrane,No Secretion (No Signal Peptide),no signal peptide,no signal peptide,no signal peptide,no Secretory Protein ,Phosphorylation prediction,,"putative fatty-acid--CoA ligase; Provisional
+","PRK12476	
+",0.00E+00,N/A,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"Acetyl-CoA synthetase-like	,Acetyl-CoA synthetase-like	","2.49e-85
+,0.0008
+",Fatty-acid-CoA ligase FadD26 (3.30.300.30/FF/16)	,1.00E-19,AMP-binding enzyme,3.40E-61,no HIT,0,,	fas,Databases,0.871,,PROBABLE NON-ALLERGEN,Q9NR09,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.5068,,Metabolism Molecule,5.5922616,,	acyl-CoA ligase,"COV00485.1
+",0,,"Acid-Thiol Ligases
+",Forming Carbon-Sulfur Bonds	,Ligases,6.2.1.3	0.66,"is an Enzyme protein
+     6.-.-.- Ligases
+     6.2.-.- Forming carbon-sulfur bonds
+",ENZYME
+145,>WP_003409778.1 ,type II toxin-antitoxin system PemK/MazF family toxin ,Toxin-Antitoxin System(TA system),,109,9.00,113.58,11000,0.287,HYDROPHbic,51.82,11819.88,15,13,0,Unstable,,,Cytoplasm,"
+
+Extracell.
+ 
+ 
+         
+",Cell inner membrane,Unknown,Cytoplasmic Protein,1,Cytoplasm.,,no signal peptide,soluble Protein,1,0.287156,no transmembrane,No Secretion (No Signal Peptide),no signal peptide,no signal peptide,no signal peptide,no Secretory Protein ,Phosphorylation prediction,,"mRNA-degrading endonuclease, toxin component of the MazEF toxin-antitoxin module [Defense ...
+","cl42701	",1.77E-21,N/A,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"	Cell growth inhibitor/plasmid maintenance toxic component	,	Kid/PemK","2.62e-18,0.0026
+",Toxin MazF5 (2.30.30.110/FF/2)	,1.00E-62,"PemK-like, MazF-like toxin of type II toxin-antitoxin system",1.70E-14,no HIT,0,,	mazE5,"Neighborhood
+Textmining",0.946,,PROBABLE ALLERGEN,P16094,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN ,0.5085,,Metabolism Molecule,1.3119442,,type II toxin-antitoxin system PemK/MazF family toxin,"WP_070863659.1",5.00E-65,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,3.1.22.-	0.65,noT ENZYME ,noT ENZYME 
+146,>WP_003409899.1 ,type II toxin-antitoxin system ParD family antitoxin,Toxin-Antitoxin System(TA system),,83,6.58,70.72,2980,-0.620,HYDROPHllic,46.35,9239.23,14,14,0,Unstable,,,Cytoplasm,"Cytoplasm,Extracell",Cell inner membrane,Cytoplasmic,Cytoplasmic Protein,1,Cytoplasm.,,no signal peptide,soluble Protein,1,-0.620482,no transmembrane,No Secretion (No Signal Peptide),no signal peptide,no signal peptide,no signal peptide,no Secretory Protein ,Phosphorylation prediction,,"Ribbon-helix-helix protein, copG family; The structure of this protein repressor, which is the ...
+","cl22901	
+",3.34E-38,low complexity	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"Ribbon-helix-helix,	CopG-like","0.0000000356,0.063
+",N/A,0, Bacterial antitoxin of ParD toxin-antitoxin type II system and RHH,9.40E-43,NO HIT,0,,	parE1,"Neighborhood
+Cooccurence
+Experiments
+Textmining",0.998,,PROBABLE NON-ALLERGEN, Q96G01,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.5743,,Information and storage,0.38476393,,	type II toxin-antitoxin system ParD family antitoxin,"WP_055389785.1
+",1.00E-49,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,no Prediction,noT ENZYME ,noT ENZYME 
+147,>WP_003409919.1 ,TetR/AcrR family transcriptional regulator ,Regulatory protein,Regulatory protein,406,8.85,103.23,42400,-0.132,HYDROPHllic,46.67,44341.66,52,48,0,Unstable,,,Cytoplasm,Cytoplasm,Cell inner membrane. Cytoplasm.,Cytoplasmic,Cytoplasmic Protein,1,Cytoplasm.,,no signal peptide,soluble Protein,1,-0.131527,no transmembrane,No Secretion (No Signal Peptide),no signal peptide,no signal peptide,no signal peptide,no Secretory Protein ,Phosphorylation prediction,,"Bacterial regulatory proteins, tetR family;","pfam00440	
+",1.68E-09,low complexity	,N/A,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"        Homeodomain-like        ,        Tetracyclin repressor-like, N-terminal domain       ,        Homeodomain-like        ,        Tetracyclin repressor-like, N-terminal domain   ","7.48E-18,0.006
+,0.0000000000477,0.011
+",TetR family transcriptional regulator (1.10.10.60/FF/509)	,1.00E-31,"Bacterial regulatory proteins, tetR family",6.20E-17,TetR-type HTH domain profile,22.293,,	mce3A,Textmining,0.899,,PROBABLE NON-ALLERGEN,O75155,No Result,No Result,No Result,No Result,0,,Probable NON-ANTIGEN ,0.3967,,Metabolism Molecule,1.0280723,,TetR family transcriptional regulator Mce3R ,"WP_003409919.1",0,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,NON ENZYME,NOT ENZYME,NOT ENZYME
+148,>WP_003409976.1 ,cutinase family protein,Enzyme,,217,5.52,84.15,14440,0.217,HYDROPHbic,36.07,21782.36,10,15,1,stable,,,Periplasm,"
+
+Extracell.
+ 
+ 
+         
+",Cell inner membrane,Unknown,"Extracellular Protein",1,Extracell,,Signal Peptide,Unknown,0,0.217051,no transmembrane,Secretion (Signal Peptide),signal peptide,signal peptide,signal peptide,secretory peptide,Glycosylation prediction,,"alpha/beta hydrolases; A functionally diverse superfamily containing proteases, lipases, ...
+","cl21494	",2.01E-65,Cutinase	,6.31E-90,"
+Cutinase/acetylxylan esterase ",IPR000675,hydrolase activity ,GO:0016787,1,N/A,N/A,0,No result,No,0,"	alpha/beta-Hydrolases	,	Cutinase-like","2.29E-40,0.0016",Cutinase Cut4 (3.40.50.1820/FF/176)	,1.20E-99,Cutinase,1.10E-61,"Cutinase, serine active site",N/A,,	mpt64,Textmining,0.918,,PROBABLE ALLERGEN,P14804,No Result,No Result,No Result,No Result,0,, Probable ANTIGEN,0.5015,,cellular Process,2.0198334,,"
+	cutinase Cfp21","WP_003409976.1
+",9.00E-153,,"Carboxylic Ester Hydrolases
+",Acting on Ester Bonds	,Hydrolases,3.1.1.74	1.0,"is an Enzyme protein
+	3.-.-.- Hydrolases
+	3.1.-.- Acting on ester bonds
+",ENZYME
+149,>WP_003409980.1,DUF167 domain-containing protein,Unknown Domain Function,,76,10.97,102.50,1490,-0.154,HYDROPHllic,24.41,8304.75,14,6,1,stable,,,Cytoplasm,"Cell membrane.
+ ",Cell inner membrane,Unknown,Cytoplasmic Protein,1,Cytoplasm.,,no signal peptide,soluble Protein,0,-0.153947,no transmembrane,No Secretion (No Signal Peptide),no signal peptide,no signal peptide,no signal peptide,no Secretory Protein ,Phosphorylation prediction,,"Uncharacterized conserved protein YggU, UPF0235/DUF167 family [Function unknown];
+","COG1872	
+",7.39E-22,DUF167	,2.74E-23,Protein of unknown function DUF167 ,IPR003746,N/A,N/A,0,N/A,N/A,0,No result,No,0,"YggU-like	,YggU-like	","1.31e-18
+,0.0035
+",N/A,0,"Uncharacterised ACR, YggU family COG1872",5.70E-19,NO HIT,0,,cfp21,"Neighborhood
+Cooccurence",0.655,,PROBABLE NON-ALLERGEN,Q9Y232,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.6925,,cellular Process,1.4186833,,DUF167 family protein ,"WP_057133343.1
+",3.00E-39,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,NON ENZYME,NOT ENZYME,NOT ENZYME
+150,>WP_003410200.1 ,winged helix-turn-helix transcriptional regulator,Regulatory protein,Regulatory protein,107,9.50,90.37,15470,-0.384,HYDROPHllic,37.64,11856.47,16,13,1,stable,,,Cytoplasm,Cytoplasm,Cell inner membrane,Unknown,Cytoplasmic Protein,1,Cytoplasm.,,no signal peptide,soluble Protein,0,-0.384112,no transmembrane,No Secretion (No Signal Peptide),no signal peptide,no signal peptide,no signal peptide,no Secretory Protein ,Phosphorylation prediction,,"metalloregulator ArsR/SmtB family transcription factor; Transcriptional repressors that sense ...
+","NF033788	
+",8.10E-24,HTH_ARSR	,1.44E-27,None predicted,N/A,N/A,N/A,0,N/A,N/A,0,No result,No,0,"	""Winged helix"" DNA-binding domain	,	ArsR-like transcriptional regulators","5.25e-24
+,0.032",Arsenical resistance operon repressor (1.10.10.10/FF/723)	,1.20E-06,"Bacterial regulatory protein, arsR family",5.30E-13,NO HIT,0,,	Rv2035,"Neighborhood
+Gene Fusion
+Cooccurence
+Textmining",0.996,,PROBABLE ALLERGEN,33359236,No Result,No Result,No Result,No Result,0,,Probable ANTIGEN,0.4416,,Metabolism Molecule,1.4201802,,helix-turn-helix domain-containing protein ,"WP_029400777.1",4.00E-51,,Nucleotidyltransferases,Transferring Phosphorus-Containing Groups        ,Transferases,NON ENZYME,NOT ENZYME,NOT ENZYME
